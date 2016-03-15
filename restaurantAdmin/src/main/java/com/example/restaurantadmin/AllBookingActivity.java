@@ -75,7 +75,7 @@ public class AllBookingActivity extends Activity {
 		mMonth = c.get(Calendar.MONTH);
 		mDay = c.get(Calendar.DAY_OF_MONTH);
 		initialization();
-
+/// Murtuza Nalwala
 		if (cd.isConnectingToInternet()) {
 
 			new async_getrest_order().execute();
