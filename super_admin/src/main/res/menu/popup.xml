@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/restaurant_list"
+        android:title="@string/pm_rl">
+    </item>
+    <item
+        android:id="@+id/manage_restaurant"
+        android:title="@string/pm_mr">
+    </item>
+    <item
+        android:id="@+id/admin_profile"
+        android:title="@string/pm_ap">
+    </item>
+    <item
+        android:id="@+id/manage_packages"
+        android:title="@string/pm_mpp">
+    </item>
+    <item
+        android:id="@+id/generate_invoice"
+        android:title="@string/pm_gi">
+    </item>
+    <item
+        android:id="@+id/profile"
+        android:title="@string/pm_global_setting">
+    </item>
+     <item
+        android:id="@+id/manage_category"
+        android:title="@string/pm_manage_restaurant">
+    </item>
+      <item
+        android:id="@+id/refresh"
+        android:title="@string/pm_ref">
+    </item>
+    
+     <item
+        android:id="@+id/logout"
+        android:title="@string/pm_logout">
+    </item>
+    
+</menu>

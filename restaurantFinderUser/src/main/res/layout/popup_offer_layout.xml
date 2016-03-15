@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ly_offers_description_popup"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:gravity="center"
+    android:layout_marginLeft="2dp"
+    android:layout_marginRight="2dp"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:background="#989898"
+        android:weightSum="2" >
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="0dp"
+        android:paddingLeft="2dp"
+        android:gravity="left|center"
+        android:layout_height="match_parent"
+        android:layout_weight="1.5"
+        android:textStyle="bold"
+        android:textSize="14sp"
+        android:text="@string/popup_Offer" />
+
+    <ImageView
+        android:id="@+id/img_cancel"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center"
+        android:layout_weight="0.5"
+        android:contentDescription="@string/Blank"
+        android:src="@drawable/mail_delete" />
+</LinearLayout>
+    <LinearLayout
+        android:id="@+id/offer_desc_boarder_line_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/lv_cart_offer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+        </ListView>
+    </LinearLayout>
+<LinearLayout
+            android:id="@+id/ly_Not_Offer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:gravity="center"
+    android:visibility="gone"
+    android:background="#F2F2F2">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/Blank"
+        android:src="@drawable/search_not_inf" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/popup_Offer_error"
+        android:layout_marginTop="10dp"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</LinearLayout>
+</LinearLayout>

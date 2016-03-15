@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/manage_bookings"
+        android:title="@string/popup_mb">
+    </item>
+    <item
+        android:id="@+id/take_booking"
+        android:title="@string/popup_tb">
+    </item>
+    <item
+        android:id="@+id/all_booking"
+        android:title="@string/popup_ab">
+    </item>
+    <item
+        android:id="@+id/manage_customer"
+        android:title="@string/popup_mc">
+    </item>
+    <item
+        android:id="@+id/restaurant_presentation"
+        android:title="@string/popup_rp">
+    </item>
+    <item
+        android:id="@+id/manage_feedback"
+        android:title="@string/popup_mf">
+    </item>
+    <item
+        android:id="@+id/food_order"
+        android:title="@string/popup_fo">
+    </item>
+    <item
+        android:id="@+id/cart_setmenu"
+        android:title="@string/popup_cm">
+    </item>
+    <item
+        android:id="@+id/manage_photos"
+        android:title="@string/popup_mp">
+    </item>
+    <item
+        android:id="@+id/manage_subscription"
+        android:title="@string/popup_cs">
+    </item>
+    <item
+        android:id="@+id/global_setting"
+        android:title="@string/popup_gs">
+    </item>
+    <item
+        android:id="@+id/signout"
+        android:title="@string/popup_signout">
+    </item>
+
+</menu>

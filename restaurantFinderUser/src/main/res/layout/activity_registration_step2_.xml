@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Registration_step2_Activity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+       android:background="#B3D2F3"
+        android:orientation="vertical" >
+
+        <!-- <LinearLayout -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="0dp" -->
+        <!-- android:layout_weight="10" -->
+        <!-- android:orientation="vertical" > -->
+
+
+        <!-- <LinearLayout -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="0dp" -->
+        <!-- android:layout_weight="10" -->
+        <!-- android:orientation="vertical" > -->
+
+
+        <!-- <TextView -->
+        <!-- android:id="@+id/rf_regi_step2_tv_step" -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:gravity="center" -->
+        <!-- android:hint="@string/str_rf_regi_step2_tv_step" -->
+        <!-- android:textColorHint="#000000" -->
+        <!-- android:textSize="20sp" /> -->
+
+
+        <!-- <TextView -->
+        <!-- android:id="@+id/rf_regi_step2_tv_dont" -->
+        <!-- android:layout_width="wrap_content" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:layout_gravity="center" -->
+        <!-- android:background="@drawable/rounded_corner" -->
+        <!-- android:gravity="center" -->
+        <!-- android:hint="@string/str_rf_regi_step2_tv_dont" /> -->
+
+
+        <!-- <ImageView -->
+        <!-- android:id="@+id/rf_regi_step2_tv_load" -->
+        <!-- android:layout_width="wrap_content" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:layout_gravity="center" -->
+        <!-- android:src="@drawable/progress" /> -->
+        <!-- </LinearLayout> -->
+        <!-- </LinearLayout> -->
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="70"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:padding="5dp" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="40"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="10"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <!-- <TextView -->
+                        <!-- android:id="@+id/textView2" -->
+                        <!-- android:layout_width="0dp" -->
+                        <!-- android:layout_height="wrap_content" -->
+                        <!-- android:layout_weight="1" -->
+                        <!-- android:gravity="right|center" -->
+                        <!-- android:paddingRight="15dp" -->
+                        <!-- android:text="@string/str_rf_open" /> -->
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="2"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:paddingLeft="5dp"
+                            android:paddingRight="5dp" >
+
+                            <TextView
+                                android:id="@+id/textView3"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:text="@string/str_rf_mon"
+                                android:textSize="12sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/textView4"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:text="@string/str_rf_tue"
+                                android:textSize="12sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/textView5"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:text="@string/str_rf_wed"
+                                android:textSize="12sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/textView6"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:text="@string/str_rf_thu"
+                                android:textSize="12sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/textView7"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:text="@string/str_rf_fri"
+                                android:textSize="12sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/textView11"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:text="@string/str_rf_sat"
+                                android:textSize="12sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/textView8"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:text="@string/str_rf_sun"
+                                android:textSize="12sp"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                        <!-- <TextView -->
+                        <!-- android:id="@+id/textView9" -->
+                        <!-- android:layout_width="0dp" -->
+                        <!-- android:layout_height="wrap_content" -->
+                        <!-- android:layout_weight="0.5" -->
+                        <!-- android:gravity="center" -->
+                        <!-- android:text="@string/str_rf_meal" /> -->
+
+
+                        <!-- <TextView -->
+                        <!-- android:id="@+id/textView10" -->
+                        <!-- android:layout_width="0dp" -->
+                        <!-- android:layout_height="wrap_content" -->
+                        <!-- android:layout_weight="0.5" -->
+                        <!-- android:gravity="center" -->
+                        <!-- android:text="@string/str_rf_time" /> -->
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textView12"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:gravity="left|center"
+                        android:paddingRight="10dp"
+                        android:text="@string/str_rf_lunch"
+                         android:textColor="#0b1b70"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="10"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="2"
+                            android:background="@drawable/ch_layout"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:paddingLeft="5dp"
+                            android:layout_marginTop="5dp"
+                            android:paddingRight="5dp" >
+
+                            <CheckBox
+                                android:id="@+id/ch_launch_monday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_weight="0.5"
+                                android:button="@drawable/reg_radbtn_selector"
+                                android:gravity="center" />
+
+                            <CheckBox
+                                android:id="@+id/ch_launch_tuesday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:button="@drawable/reg_radbtn_selector"
+                                android:text="" />
+
+                            <CheckBox
+                                android:id="@+id/ch_launch_wednesday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:button="@drawable/reg_radbtn_selector"
+                                android:text="" />
+
+                            <CheckBox
+                                android:id="@+id/ch_launch_thursday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:button="@drawable/reg_radbtn_selector"
+                                android:text="" />
+
+                            <CheckBox
+                                android:id="@+id/ch_launch_friday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:button="@drawable/reg_radbtn_selector"
+                                android:text="" />
+
+                            <CheckBox
+                                android:id="@+id/ch_launch_saturday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:button="@drawable/reg_radbtn_selector"
+                                android:text="" />
+
+                            <CheckBox
+                                android:id="@+id/ch_launch_sunday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_weight="0.5"
+                                android:button="@drawable/reg_radbtn_selector"
+                                android:text="" />
+                        </LinearLayout>
+
+                        <!-- <Spinner -->
+                        <!-- android:id="@+id/sp_launch_opening_time" -->
+                        <!-- android:layout_width="0dp" -->
+                        <!-- android:layout_height="wrap_content" -->
+                        <!-- android:layout_weight="0.5" -->
+                        <!-- android:entries="@array/array_launch_openingtime" /> -->
+
+
+                        <!-- <Spinner -->
+                        <!-- android:id="@+id/sp_launch_last_booking" -->
+                        <!-- android:layout_width="0dp" -->
+                        <!-- android:layout_height="wrap_content" -->
+                        <!-- android:layout_weight="0.5" -->
+                        <!-- android:entries="@array/array_launch_closetime" /> -->
+
+
+                        <!-- <LinearLayout -->
+                        <!-- android:layout_width="0dp" -->
+                        <!-- android:layout_height="wrap_content" -->
+                        <!-- android:layout_weight="0.5" -->
+                        <!-- android:gravity="center" -->
+                        <!-- android:orientation="horizontal" > -->
+                        <!-- </LinearLayout> -->
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textView20"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="left|center"
+                        android:paddingRight="15dp"
+                        android:text="@string/str_rf_din"
+                        android:textColor="#0b1b70"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="10"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="2"
+                            android:background="@drawable/ch_layout"
+                            android:gravity="center"
+                            android:orientation="horizontal" >
+
+                            <CheckBox
+                                android:id="@+id/ch_dinner_monday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_weight="1"
+                                android:button="@drawable/reg_radbtn_selector"
+                                android:gravity="center" />
+
+                            <CheckBox
+                                android:id="@+id/ch_dinner_tuesday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:button="@drawable/reg_radbtn_selector" />
+
+                            <CheckBox
+                                android:id="@+id/ch_dinner_wednesday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:button="@drawable/reg_radbtn_selector" />
+
+                            <CheckBox
+                                android:id="@+id/ch_dinner_thursday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:button="@drawable/reg_radbtn_selector" />
+
+                            <CheckBox
+                                android:id="@+id/ch_dinner_friday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:button="@drawable/reg_radbtn_selector" />
+
+                            <CheckBox
+                                android:id="@+id/ch_dinner_saturday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:button="@drawable/reg_radbtn_selector" />
+
+                            <CheckBox
+                                android:id="@+id/ch_dinner_sunday"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_weight="1"
+                                android:button="@drawable/reg_radbtn_selector" />
+                        </LinearLayout>
+
+                        <!-- <Spinner -->
+                        <!-- android:id="@+id/sp_dinner_opening_time" -->
+                        <!-- android:layout_width="0dp" -->
+                        <!-- android:layout_height="wrap_content" -->
+                        <!-- android:layout_weight="0.5" -->
+                        <!-- android:entries="@array/array_launch_openingtime" /> -->
+
+
+                        <!-- <Spinner -->
+                        <!-- android:id="@+id/sp_dinner_last_booking" -->
+                        <!-- android:layout_width="0dp" -->
+                        <!-- android:layout_height="wrap_content" -->
+                        <!-- android:layout_weight="0.5" -->
+                        <!-- android:entries="@array/array_launch_closetime" /> -->
+
+
+                        <!-- <LinearLayout -->
+                        <!-- android:layout_width="0dp" -->
+                        <!-- android:layout_height="wrap_content" -->
+                        <!-- android:layout_weight="0.5" -->
+                        <!-- android:gravity="center" -->
+                        <!-- android:orientation="horizontal" > -->
+                        <!-- </LinearLayout> -->
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1.5"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:gravity="center"
+                            android:text="@string/str_rf_meal"
+                            android:visibility="invisible" />
+
+                        <TextView
+                            android:id="@+id/textView9"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:gravity="left|center"
+                            android:paddingLeft="5dp"
+                             android:textColor="#0b1b70"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                            android:text="@string/str_rf_lunch" />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:gravity="left|center"
+                            android:paddingLeft="5dp"
+                             android:textColor="#0b1b70"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                            android:text="@string/str_rf_din" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1.5"
+                        android:gravity="center"
+                        android:layout_marginTop="5dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:gravity="left|center"
+                            android:text="@string/str_rf_meal"
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
+
+                        <Spinner
+                            android:id="@+id/sp_launch_opening_time"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:entries="@array/array_launch_openingtime" />
+
+                        <Spinner
+                            android:id="@+id/sp_dinner_opening_time"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:entries="@array/array_launch_openingtime" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1.5"
+                        android:gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/textView10"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:gravity="left|center"
+                            android:text="@string/str_rf_time"
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
+
+                        <Spinner
+                            android:id="@+id/sp_launch_last_booking"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:entries="@array/array_launch_closetime" />
+
+                        <Spinner
+                            android:id="@+id/sp_dinner_last_booking"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:entries="@array/array_launch_closetime" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.5"
+                        android:gravity="left|center"
+                        android:paddingRight="10dp"
+                        android:layout_marginTop="5dp"
+                        android:text="@string/str_rf_how"
+                        android:textSize="12sp"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="5"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <EditText
+                            android:id="@+id/ed_restaurant_seat"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="@drawable/rounded_corner"
+                            android:ems="10"
+                            android:paddingLeft="5dp"
+                            android:gravity="left|center"
+                            android:inputType="number"
+                            android:singleLine="true"
+                            android:textSize="14sp" />
+
+                        <TextView
+                            android:id="@+id/textView13"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="1"
+                            android:text="@string/str_rf_covers"
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
+
+                        <!-- <TextView -->
+                        <!-- android:id="@+id/textView14" -->
+                        <!-- android:layout_width="0dp" -->
+                        <!-- android:layout_height="wrap_content" -->
+                        <!-- android:layout_weight="1.5" -->
+                        <!-- android:gravity="center" -->
+                        <!-- android:text="@string/str_rf_the" /> -->
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="5"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/textView21"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.5"
+                            android:gravity="left|center"
+                            android:paddingRight="10dp"
+                            android:text="@string/str_rf_what"
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
+
+                        <EditText
+                            android:id="@+id/ed_average_bill"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:background="@drawable/rounded_corner"
+                            android:drawableRight="@drawable/euro_icon"
+                            android:ems="10"
+                            android:paddingLeft="5dp"
+                            android:gravity="left|center"
+                            android:inputType="numberDecimal"
+                            android:singleLine="true"
+                            android:textSize="14sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="5"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/textView27"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:gravity="left|center"
+                            android:paddingRight="10dp"
+                            android:text="@string/step2_mto"
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
+
+                        <Spinner
+                            android:id="@+id/sp_mto"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2"
+                            android:paddingLeft="10dp"
+                            android:background="@drawable/text_box"
+                            android:entries="@array/array_mto"
+                            android:gravity="center" />
+
+                        <Spinner
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2"
+                            android:background="@drawable/text_box"
+                            android:entries="@array/array_mto"
+                            android:gravity="center"
+                            android:visibility="invisible" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="3"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/rf_regi_step3_tv1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="@string/str_rf_regi_step3_tv1"
+                        android:textColor="#0b1b70" />
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/line" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="10"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="3"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/textView26"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="left|center"
+                            android:text="@string/step2_lastbooking"
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
+
+                        <RadioGroup
+                            android:id="@+id/rg_last_minute_booking"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2"
+                            android:orientation="horizontal" >
+
+                            <RadioButton
+                                android:id="@+id/rb_last_minute_booking_yes"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:checked="true"
+                                android:text="@string/step2_yes"
+                                android:textSize="12sp" />
+
+                            <RadioButton
+                                android:id="@+id/rb_last_minute_booking_no"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5dp"
+                                android:text="@string/step2_no"
+                                android:textSize="12sp" />
+                        </RadioGroup>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="3"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="left|center"
+                            android:text="@string/step2_facility"
+                            android:textSize="12sp"
+                            android:textStyle="bold" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="2"
+                            android:orientation="horizontal" >
+
+                            <CheckBox
+                                android:id="@+id/ch_pickup"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_marginLeft="3dp"
+                                android:button="@drawable/reg_radbtn_selector"
+                                android:gravity="center"
+                                android:paddingLeft="5dp"
+                                android:text="@string/step2_pickup"
+                                android:textSize="12sp" />
+
+                            <CheckBox
+                                android:id="@+id/ch_delivery"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:button="@drawable/reg_radbtn_selector"
+                                android:gravity="center"
+                                android:paddingLeft="5dp"
+                                android:layout_marginLeft="5dp"
+                                android:text="@string/step2_delivery"
+                                android:textSize="12sp" />
+
+                            <CheckBox
+                                android:id="@+id/ch_indine"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_marginLeft="3dp"
+                                android:button="@drawable/rdbtn_selector"
+                                android:gravity="center"
+                                android:visibility="gone" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/rf_regstep2_icon"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="3"
+                        android:orientation="horizontal"
+                        android:padding="5dp" >
+
+                        <LinearLayout
+                            android:id="@+id/rf_reg_step2_icon"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="3"
+                            android:background="@drawable/rounded_corner7"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:padding="5dp"
+                            android:visibility="visible" >
+
+                            <TextView
+                                android:id="@+id/txv_choose_icon"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.2"
+                                android:background="@drawable/choose_icon"
+                                android:gravity="left|center"
+                                android:paddingLeft="5dp"
+                                android:textSize="20sp" />
+
+                            <TextView
+                                android:id="@+id/txv_choose_iconname"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight="0.3"
+                                android:gravity="left|center"
+                                android:paddingLeft="5dp"
+                                android:singleLine="true"
+                                android:text="@string/step2_nofile"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <ImageView
+                            android:id="@+id/img_upload_icon"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="left|center"
+                            android:layout_weight="1.5"
+                            android:src="@drawable/food_images"
+                            android:visibility="visible" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="3"
+                        android:orientation="horizontal"
+                        android:padding="5dp" >
+
+                        <LinearLayout
+                            android:id="@+id/rf_reg_step2_banner"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="3"
+                            android:background="@drawable/rounded_corner7"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:padding="5dp"
+                            android:visibility="visible" >
+
+                            <TextView
+                                android:id="@+id/txv_choose_banner"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.2"
+                                android:background="@drawable/choose_banner"
+                                android:gravity="left|center"
+                                android:paddingLeft="5dp"
+                                android:textSize="20sp" />
+
+                            <TextView
+                                android:id="@+id/txv_choose_bannername"
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight="0.3"
+                                android:gravity="left|center"
+                                android:paddingLeft="5dp"
+                                android:singleLine="true"
+                                android:text="@string/step2_nofile"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <ImageView
+                            android:id="@+id/img_upload_banner"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="left|center"
+                            android:layout_weight="1.5"
+                            android:src="@drawable/food_images"
+                            android:visibility="visible" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="3"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/rf_regi_step2_tv2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="@string/ed_add_comments"
+                       android:textColor="#0b1b70"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/imageView29"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/line" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="10"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:layout_marginLeft="15dp"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/rf_regi_step3_tv_comment1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/str_rf_regi_step3_tv_comment"
+                            android:textColor="#000000"
+                            android:visibility="invisible" />
+
+                        <EditText
+                            android:id="@+id/ed_add_comments"
+                            android:layout_width="wrap_content"
+                            android:layout_height="60dp"
+                            android:background="@drawable/rounded_corner7"
+                            android:ems="10"
+                            android:gravity="top|left"
+                            android:paddingLeft="5dp"
+                            android:hint="@string/ed_add_comments"
+                            android:inputType="textPostalAddress"
+                            android:singleLine="true"
+                            android:textSize="14sp" >
+                        </EditText>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="5"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                         >
+
+                        <Button
+                            android:id="@+id/btn_continue"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                             android:background="#2f56b3"
+                            android:padding="15dp"
+                            android:text="@string/step2_contin"
+                            android:textColor="#ffffff" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

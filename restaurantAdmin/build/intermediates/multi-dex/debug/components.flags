@@ -1,0 +1,170 @@
+-injars 'D:\workspace\RestaurantFinder\restaurantAdmin\build\intermediates\multi-dex\debug\allclasses.jar'
+-outjars 'D:\workspace\RestaurantFinder\restaurantAdmin\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Murtuza\AppData\Local\Android\sdk1\build-tools\21.1.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontpreverify
+-dontwarn
+-printconfiguration 'D:\workspace\RestaurantFinder\restaurantAdmin\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class null {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.example.restaurantadmin.SplashScreenActivity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.Registration_step1_Activity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.Registration_step2_Activity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.Registration_step3_Activity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.Registration_step4_Activity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.Registration_Tablayout_Activity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.Registration_step5_Activity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.Home_Activity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.GrabTable_Activity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.TakeBooking_Tablayout {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.OnlineTable_Activity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.ManageGalleryActivity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.Food_Detail_Categories_Activity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.Food_Detail_Parent_Activity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.Food_Detail_Child_Activity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.TakeBookingActivity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.CartSetMenuActivity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.OnlineOrderOrderDetailsActivity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.GrabTableProfileActivity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.RestaurantPrasentationActivity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.AllBookingActivity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.ManageCustomersActivity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.ManageFeedbackActivity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.ManageSubscriptionActivity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.ForgetPasswordActivity {
+    <init>();
+}
+
+-keep class com.example.restaurantadmin.GlobalSettingActivity {
+    <init>();
+}
+
+-keep class com.restaurantadmin.notification.notification_oo_neworder {
+    <init>();
+}
+
+-keep class com.restaurantadmin.notification.notification_oo_cancelbyuser {
+    <init>();
+}
+
+-keep class com.restaurantadmin.notification.notification_tg_neworder {
+    <init>();
+}
+
+-keep class com.restaurantadmin.notification.notification_tg_cancelbyuser {
+    <init>();
+}
+
+-keep class com.rf.restaurantadmin.MyIntentService {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

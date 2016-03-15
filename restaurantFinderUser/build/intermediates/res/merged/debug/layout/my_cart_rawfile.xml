@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	
+	android:orientation="vertical" >
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginBottom="10dp"
+		android:layout_marginTop="10dp"
+		android:gravity="center"
+		android:orientation="vertical"
+		android:weightSum="8" >
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="5"
+			android:gravity="right|center"
+			android:orientation="horizontal" >
+
+			<TextView
+				android:id="@+id/txv_cart_name"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="left|center"
+				android:layout_marginLeft="10dp"
+				android:layout_weight="3"
+				android:text="@string/total"
+				android:textColor="#162880"
+				 />
+
+			<TextView
+				android:id="@+id/txv_cart_value"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="right|center"
+				android:layout_weight="1"
+				android:gravity="center"
+				android:text="@string/sr_total"
+				android:textColor="#162880"
+				 />
+
+			<TextView
+				android:id="@+id/txv_sr_multiplication"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="right|center"
+				android:layout_weight="0.3"
+				android:gravity="right|center"
+				android:text="@string/sr_multiplication"
+				android:textColor="#162880"
+				 />
+
+			<TextView
+				android:id="@+id/txv_cart_total_quantity"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="right|center"
+				android:layout_marginRight="5dp"
+				android:layout_weight="0.4"
+				android:gravity="center"
+				android:text="@string/sr_total_value"
+				android:textColor="#162880"
+				 />
+			<TextView
+				android:id="@+id/txv_cart_total_equal"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="right|center"
+				android:layout_marginRight="5dp"
+				android:layout_weight="0.3"
+				android:gravity="center"
+				android:text="="
+				android:textColor="#162880"
+				 />
+			<TextView
+				android:id="@+id/txv_cart_total_quantity_total"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="right|center"
+				android:layout_marginRight="5dp"
+				android:layout_weight="0.8"
+				android:gravity="center"
+				android:text="@string/sr_total_value"
+				android:textColor="#162880"
+				 />
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="5dp"
+			android:layout_weight="3"
+			android:layout_marginRight="2dp"
+			android:gravity="right|center"
+			android:orientation="horizontal"
+			 >
+
+			<TextView
+				android:id="@+id/txv_cart_index"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="left|center"
+				android:layout_weight="2"
+				android:layout_marginRight="10dp"
+				android:background="#11180e"
+				android:gravity="left|center"
+				android:padding="5dp"
+				android:text="@string/confirm_order"
+				android:textColor="@android:color/white"
+				android:visibility="invisible" />
+
+			<!-- android:background="#17110e" -->
+
+			<LinearLayout
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="1"
+				android:background="@drawable/roundcorner_cart"
+				android:gravity="center"
+				android:padding="3dp"
+				android:layout_gravity="center"
+				android:orientation="horizontal" >
+
+				<Button
+					android:id="@+id/btn_add"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:layout_weight="0.3"
+					android:background="@drawable/roundcorner_cart"
+					android:gravity="center"
+					android:layout_gravity="center"
+					android:text="@string/plus"
+					android:textColor="#000000"
+					android:textStyle="bold" />
+
+				<TextView
+					android:id="@+id/txv_cart_quantity"
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_gravity="right|center"
+					android:layout_weight="0.4"
+					android:focusableInTouchMode="true"
+					android:gravity="center"
+					android:text="@string/sr_total_value"
+					android:textColor="#000000" />
+
+				<Button
+					android:id="@+id/btn_minus"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:layout_weight="0.3"
+					android:background="@drawable/roundcorner_cart"
+					android:gravity="center"
+					android:text="@string/minus"
+					android:layout_gravity="center"
+					android:textColor="#000000"
+					android:textStyle="bold" />
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+
+	<ImageView
+	    android:id="@+id/imageView1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:contentDescription="@string/Blank"
+	    android:src="@drawable/line" />
+
+</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/my_cart_rawfile.xml -->

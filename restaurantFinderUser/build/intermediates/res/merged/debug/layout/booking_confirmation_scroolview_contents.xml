@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollLinearLayout01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/second_screen_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/rf_booking_first_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="5"
+            android:background="@drawable/rf_booking_text_box"
+            android:hint="@string/first_name"
+            android:paddingLeft="10dp"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/rf_booking_last_name"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="5"
+            android:background="@drawable/rf_booking_text_box"
+            android:ems="10"
+            android:hint="@string/Lastname"
+            android:paddingLeft="10dp"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/rf_registrationi_email_id"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@drawable/rf_booking_text_box"
+            android:ems="10"
+            android:hint="@string/EMAIL"
+            android:inputType="textEmailAddress"
+            android:paddingLeft="10dp"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+             android:visibility="gone"
+            android:background="@drawable/rf_booking_text_box"
+            android:orientation="horizontal" >
+
+            <!-- <Spinner -->
+            <!-- android:id="@+id/rf_booking_sp_country_code" -->
+            <!-- android:layout_width="0dp" -->
+            <!-- android:layout_height="match_parent" -->
+            <!-- android:layout_gravity="center" -->
+            <!-- android:layout_weight="2" -->
+
+
+            <!-- android:entries="@array/country_code_array" -->
+            <!-- android:gravity="center" /> -->
+
+            <TextView
+                android:id="@+id/rf_booking_sp_country_code"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="2"
+               
+                android:gravity="center"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+<!--         <LinearLayout -->
+<!--             android:layout_width="0dp" -->
+<!--             android:layout_height="match_parent" -->
+<!--             android:layout_gravity="center" -->
+<!--             android:layout_marginLeft="5dp" -->
+<!--             android:layout_weight="5" -->
+<!--             android:gravity="center" -->
+<!--             android:orientation="horizontal" > -->
+
+            <EditText
+                android:id="@+id/rf_booking_phone_number_box"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5"
+                android:background="@drawable/rf_booking_text_box"
+                android:hint="@string/contact_mobile"
+                android:inputType="phone"
+                 android:paddingLeft="10dp"
+                android:textColor="#ffffff"
+                android:textColorHint="#ffffff" >
+            </EditText>
+<!--         </LinearLayout> -->
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="2dp" >
+
+        <EditText
+            android:id="@+id/rf_booking_comment_text_box"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="5"
+            android:background="@drawable/rf_booking_text_box"
+            android:hint="@string/comment"
+             android:paddingLeft="10dp"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff" >
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_weight="5"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="2.5"
+            android:background="@drawable/rf_booking_text_box"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="3dp" >
+
+            <ImageView
+                android:id="@+id/rf_booking_time_icon"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/rf_booking_time_icon_" />
+
+            <TextView
+                android:id="@+id/rf_booking_time_box"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="#ffffff" >
+            </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="20dp"
+            android:layout_weight="2.5"
+            android:background="@drawable/rf_booking_text_box"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="3dp" >
+
+            <ImageView
+                android:id="@+id/rf_booking_date_icon"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/rf_booking_date_icon_" />
+
+            <TextView
+                android:id="@+id/rf_booking_date_box"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="#ffffff" >
+            </TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="2dp"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/rf_booking_people_icon"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:contentDescription="@string/Blank"
+            android:src="@drawable/login_icon" />
+
+        <TextView
+            android:id="@+id/rf_booking_plus_box"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/rf_booking_text_box"
+            android:gravity="center"
+            android:text="@string/plus"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#ffffff"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/rf_booking_no_people_box"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/rf_booking_text_box"
+            android:gravity="center"
+            android:text="1"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:id="@+id/rf_booking_minus"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/rf_booking_text_box"
+            android:gravity="center"
+            android:text="@string/minus"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#ffffff"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/rf_booking_per"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="right|center"
+            android:text="@string/Persons"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="2dp"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="visible" >
+
+        <TextView
+            android:id="@+id/rf_booking_loyalty_pts"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:gravity="left|center"
+            android:text="@string/loyalty_pts_text"
+            android:textColor="#162880"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/rf_booking_loyalty_pts_value_"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@android:color/white"
+            android:gravity="center"
+            android:inputType="number"
+            android:padding="3dp"
+            android:text="@string/loyalty_pts"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1"
+            android:background="@android:color/white"
+            android:gravity="center"
+            android:padding="3dp"
+            android:textSize="12sp"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="2dp"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="visible" >
+
+        <TextView
+            android:id="@+id/rf_booking_loyalty_notes"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:gravity="left|center"
+            android:text="@string/loyalty_pts_notes"
+            android:textColor="#162880"
+            android:textSize="14sp" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="2dp"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+         <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:gravity="left|center"
+            android:text="@string/loyalty_user_pts"
+            android:textColor="#162880"
+            android:textSize="14sp" />
+         
+           <TextView
+            android:id="@+id/rf_booking_user_loyalty_pts"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/rounded_corner_loyalty_box"
+            android:gravity="left|center"
+            android:textColor="#162880"
+            android:textSize="14sp" />
+         
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="2dp"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/rf_booking_submit_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/Blank"
+            android:padding="5dp"
+            android:src="@drawable/confirmation_submit_images" />
+
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/booking_confirmation_scroolview_contents.xml -->

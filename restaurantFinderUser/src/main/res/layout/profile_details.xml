@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/second_screen_background" >
+
+    <!-- Header RelativeLayout start -->
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="center" >
+
+        <!-- Header LinearLayout finish -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:weightSum="5" >
+
+                <ImageView
+                    android:id="@+id/back_imageview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_weight="1"
+                    android:contentDescription="@string/Blank"
+                    android:src="@drawable/back_img" />
+
+                <TextView
+                    android:id="@+id/txv_address"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="3"
+                    android:gravity="center"
+                    android:text="@string/profile_title"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/foodcats_search_imageview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_weight="1"
+                    android:contentDescription="@string/Blank"
+                    android:src="@drawable/header_search_icon" />
+
+                <ImageView
+                    android:id="@+id/search_select_imageview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_weight="1"
+                    android:contentDescription="@string/Blank"
+                    android:src="@drawable/header_search_select_icon"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+    <!-- header relativer layout finish -->
+    <!-- footer relativer layout start -->
+
+    <RelativeLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center" >
+
+        <!-- </LinearLayout> -->
+
+        <LinearLayout
+            android:id="@+id/footer_ly"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:weightSum="4" >
+
+            <ImageView
+                android:id="@+id/footer_ordernow_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:visibility="invisible"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/ordernow" />
+
+            <ImageView
+                android:id="@+id/footer_viewmenu_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                 android:visibility="invisible"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/viewmenu" />
+
+            <ImageView
+                android:id="@+id/footer_featured_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                 android:visibility="invisible"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/featured" />
+
+            <ImageView
+                android:id="@+id/footer_setting_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                 android:visibility="invisible"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/setting" />
+        </LinearLayout>
+    </RelativeLayout>
+    <!-- footer relativer layout finish -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/footer"
+        android:layout_below="@id/header"
+        android:background="@android:color/white"
+        android:gravity="center" >
+
+        <ScrollView
+        android:id="@+id/profile_scroolview"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	     >
+	 
+	     <!-- Inflate the contents of the ScrollView dynamicaly -->
+	 
+	  </ScrollView>
+    </RelativeLayout>
+
+    <!-- </ScrollView> -->
+    <!-- </FrameLayout> -->
+
+</RelativeLayout>

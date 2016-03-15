@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="10"
+        android:background="#eeeeee"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="3dp"
+        android:paddingTop="3dp" >
+
+        <TextView
+            android:id="@+id/txv_mb_serial_number"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.1"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"
+            android:textColor="#000000" />
+        <TextView
+            android:id="@+id/txv_mb_customer_name"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"
+              android:textColor="#000000" />
+<!--             android:text="@string/mc_customer_name" -->
+          
+
+        <TextView
+            android:id="@+id/txv_mb_phonenumber"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"
+             android:textColor="#000000" />
+<!--             android:text="@string/mc_customer_phoneno" -->
+           
+
+        <TextView
+            android:id="@+id/txv_mb_email"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"    />
+            
+<!--             android:text="@string/mc_customer_email"  -->
+        
+        <TextView
+            android:id="@+id/txv_mb_bussiness"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center" />
+<!--             android:text="@string/mc_customer_business"  -->
+         
+        <TextView
+             android:id="@+id/txv_mb_oder_type"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center" />
+<!--             android:text="@string/mc_customer_ordertype"  -->
+           
+
+        <TextView
+            android:id="@+id/txv_mb_oder_bookingdate"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center" />
+<!--             android:text="@string/mc_customer_lastbooking"  -->
+      
+
+        <ImageView
+            android:id="@+id/img_mb_email"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:src="@drawable/mail" />
+
+        <ImageView
+            android:id="@+id/img_mb_phone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:visibility="gone"
+            android:background="@drawable/roundcorner_all_booking"
+            android:src="@drawable/phone" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/layout/activity_manage_customer_rawfile.xml -->

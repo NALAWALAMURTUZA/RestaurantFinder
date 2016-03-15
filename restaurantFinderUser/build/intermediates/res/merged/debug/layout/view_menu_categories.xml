@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/second_screen_background" >
+
+    <!-- Header RelativeLayout start -->
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="center" >
+
+        <!-- Header LinearLayout finish -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#83a1e1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:weightSum="5" >
+
+                <ImageView
+                    android:id="@+id/back_imageview"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_weight="0.5"
+                    android:contentDescription="@string/Blank"
+                    android:src="@drawable/back_img"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/RESTAURANT_TEXTVIEW"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="2.5"
+                    android:gravity="center"
+                    android:text="@string/Header_Categories"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/categories_rest_map"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left"
+                    android:layout_weight="0.5"
+                    android:contentDescription="@string/Blank"
+                    android:src="@drawable/map_icon_catrgories" />
+
+                <ImageView
+                    android:id="@+id/categories_rest_map_selected"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left"
+                    android:layout_weight="0.5"
+                    android:contentDescription="@string/Blank"
+                    android:src="@drawable/rf_restaurant_detail_map_header_icon"
+                    android:visibility="gone" />
+
+                <ImageView
+                    android:id="@+id/categories_search_imageview"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="2dp"
+                    android:layout_weight="0.5"
+                    android:contentDescription="@string/Blank"
+                    android:src="@drawable/header_search_icon" />
+
+                <ImageView
+                    android:id="@+id/search_select_imageview"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="0.5"
+                    android:contentDescription="@string/Blank"
+                    android:src="@drawable/header_search_select_icon"
+                    android:visibility="gone" />
+
+                <ImageView
+                    android:id="@+id/rf_view_menu_icon"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="0.5"
+                    android:contentDescription="@string/Blank"
+                    android:src="@drawable/rf_home_menu_icon"
+                    android:visibility="visible" />
+            </LinearLayout>
+
+            <!-- food detail layout start -->
+
+            <ScrollView
+                android:id="@+id/categories_scrollview"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:visibility="visible" >
+
+                <LinearLayout
+                    android:id="@+id/food_detail_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#c8d8fc"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:id="@+id/hotel_details_ly"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginRight="3dp"
+                        android:layout_weight="20"
+                        android:background="#162880"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:visibility="visible" >
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="3"
+                            android:orientation="horizontal" >
+
+                            <com.rf_user.activity.SquareImageView
+                                android:id="@+id/hotel_imageview"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:contentDescription="@string/Blank"
+                                android:scaleType="centerCrop"
+                                android:src="@drawable/rest_demo_image" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="2dp"
+                            android:layout_weight="5"
+                            android:gravity="center"
+                            android:orientation="vertical" >
+
+                            <!-- <LinearLayout -->
+                            <!-- android:layout_width="match_parent" -->
+                            <!-- android:layout_height="match_parent" -->
+                            <!-- android:layout_gravity="center" -->
+                            <!-- android:layout_marginLeft="5dp" -->
+                            <!-- android:layout_marginTop="5dp" -->
+                            <!-- android:gravity="left|center" -->
+                            <!-- android:orientation="vertical" -->
+                            <!-- android:weightSum="5" > -->
+
+                            <TextView
+                                android:id="@+id/hotel_name_textview"
+                                android:layout_width="match_parent"
+                                android:layout_height="0dp"
+                                android:layout_weight="1.5"
+                                android:gravity="left|center"
+                                android:paddingLeft="5dp"
+                                android:text=""
+                                android:textColor="@android:color/white"
+                                android:textSize="12sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/hotel_address_textview"
+                                android:layout_width="match_parent"
+                                android:layout_height="0dp"
+                                android:layout_gravity="left|center"
+                                android:layout_weight="3.5"
+                                android:gravity="left|center"
+                                android:paddingLeft="5dp"
+                                android:text=""
+                                android:textColor="@android:color/white"
+                                android:textSize="10sp" />
+                            <!-- </LinearLayout> -->
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="2"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="0dp"
+                                android:layout_gravity="center"
+                                android:layout_weight="1"
+                                android:orientation="vertical" >
+
+                                <ImageView
+                                    android:id="@+id/img_fav_default"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_gravity="center"
+                                    android:src="@drawable/favorite_default" />
+
+                                <ImageView
+                                    android:id="@+id/img_fav_select"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_gravity="center"
+                                    android:src="@drawable/favorite_select"
+                                    android:visibility="gone" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:orientation="vertical" >
+
+                                <ImageView
+                                    android:id="@+id/img_gallery"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_weight="1"
+                                    android:src="@drawable/gallery"
+                                    android:visibility="visible" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="10dp"
+                            android:layout_weight="2"
+                            android:gravity="right|center"
+                            android:orientation="vertical" >
+
+                            <ImageView
+                                android:id="@+id/img_grabtable"
+                                android:layout_width="wrap_content"
+                                android:layout_height="0dp"
+                                android:layout_gravity="left|center"
+                                android:layout_weight="1"
+                                android:contentDescription="@string/Blank"
+                                android:src="@drawable/grab_tabale" />
+
+                            <ImageView
+                                android:id="@+id/img_reviews"
+                                android:layout_width="wrap_content"
+                                android:layout_height="0dp"
+                                android:layout_gravity="left|center"
+                                android:layout_weight="1"
+                                android:contentDescription="@string/Blank"
+                                android:src="@drawable/reviews" />
+                        </LinearLayout>
+                    </LinearLayout>
+                    <!-- food layout finish -->
+
+
+                    <!-- text view and rating bar layout start -->
+
+                    <LinearLayout
+                        android:id="@+id/boarder_line_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <ImageView
+                            android:id="@+id/boarder_line_img"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center"
+                            android:layout_marginTop="2dp"
+                            android:contentDescription="@string/Blank"
+                            android:src="@drawable/boarder_line" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/service_ratingbar_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:layout_weight="4"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:visibility="visible" >
+
+                        <LinearLayout
+                            android:id="@+id/service_rating_textview_linear"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="5dp"
+                            android:layout_weight="2"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/service_textview"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginRight="2dp"
+                                android:gravity="center"
+                                android:text="@string/CustomerService"
+                                android:textColor="@android:color/black"
+                                android:textSize="10sp" >
+                            </TextView>
+
+                            <RatingBar
+                                android:id="@+id/service_Rating"
+                                style="?android:attr/ratingBarStyleSmall"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="2dp"
+                                android:clickable="false"
+                                android:numStars="5"
+                                android:progressDrawable="@drawable/ratingbar_golden" />
+                        </LinearLayout>
+
+<!--                         <TextView -->
+<!--                             android:id="@+id/horizontal_textview" -->
+<!--                             android:layout_width="wrap_content" -->
+<!--                             android:layout_height="wrap_content" -->
+<!--                             android:layout_gravity="center" -->
+<!--                             android:layout_marginBottom="5dp" -->
+<!--                             android:layout_marginLeft="2dp" -->
+<!--                             android:layout_marginRight="5dp" -->
+<!--                             android:gravity="center" -->
+<!--                             android:text="@string/horizontal_line" > -->
+<!--                         </TextView> -->
+
+                        <LinearLayout
+                            android:id="@+id/quality_rating_textview_linear"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="2"
+                            android:layout_marginLeft="5dp"
+                            android:layout_gravity="center"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/quality_textview"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginRight="2dp"
+                                android:gravity="center"
+                                android:text="@string/Food"
+                                android:textColor="@android:color/black"
+                                android:textSize="10sp" >
+                            </TextView>
+
+                            <RatingBar
+                                android:id="@+id/food_Rating"
+                                style="?android:attr/ratingBarStyleSmall"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="2dp"
+                                android:clickable="false"
+                                android:numStars="5"
+                                android:progressDrawable="@drawable/ratingbar_golden" />
+                        </LinearLayout>
+
+                        <!-- <TextView -->
+                        <!-- android:id="@+id/quality_horizontal_textview" -->
+                        <!-- android:layout_width="wrap_content" -->
+                        <!-- android:layout_height="wrap_content" -->
+                        <!-- android:layout_gravity="center" -->
+                        <!-- android:layout_marginBottom="5dp" -->
+                        <!-- android:layout_marginLeft="2dp" -->
+                        <!-- android:layout_marginRight="2dp" -->
+                        <!-- android:gravity="center" -->
+                        <!-- android:text="@string/horizontal_line" > -->
+                        <!-- </TextView> -->
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/price_rating_textview_linear"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="2dp"
+                        android:layout_weight="2"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/price_textview"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="2dp"
+                            android:text="@string/Cleanliness"
+                            android:textColor="@android:color/black"
+                            android:textSize="10sp" >
+                        </TextView>
+
+                        <RatingBar
+                            android:id="@+id/cleanliness_Rating"
+                            style="?android:attr/ratingBarStyleSmall"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="2dp"
+                            android:clickable="false"
+                            android:numStars="5"
+                            android:progressDrawable="@drawable/ratingbar_golden"
+                            android:rating="0" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/rate_boarder_line_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <ImageView
+                            android:id="@+id/ratingbar_boarder_ine"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center"
+                            android:contentDescription="@string/Blank"
+                            android:src="@drawable/boarder_line" />
+                    </LinearLayout>
+                    <!-- text view and rating bar layout finish -->
+
+
+                    <!-- notes layout start -->
+
+                    <LinearLayout
+                        android:id="@+id/notes_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="5"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/notes_textview"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center"
+                            android:layout_marginLeft="10dp"
+                            android:gravity="left|center"
+                            android:text="@string/Notes"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="#162880"
+                            android:textSize="12sp" />
+
+                        <TextView
+                            android:id="@+id/notes_detail_textview"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="2dp"
+                            android:background="@android:color/white"
+                            android:gravity="left|center"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@android:color/black"
+                            android:textSize="10sp" />
+                    </LinearLayout>
+                    <!-- notes layout finish -->
+
+                    <LinearLayout
+                        android:id="@+id/notes_boarder_line_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <ImageView
+                            android:id="@+id/notes_boarder_ine"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center"
+                            android:contentDescription="@string/Blank"
+                            android:src="@drawable/boarder_line" />
+                    </LinearLayout>
+                    <!-- minimum order layout start -->
+
+                    <LinearLayout
+                        android:id="@+id/minimum_order_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_gravity="left|center"
+                        android:layout_weight="5"
+                        android:gravity="left|center"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/minimum_order_textview"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:gravity="left|center"
+                            android:text="@string/Minimum_Order"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="#162880"
+                            android:textSize="12sp" />
+
+                        <TextView
+                            android:id="@+id/minimum_order_detail_textview"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="2dp"
+                            android:gravity="left|center"
+                            android:text="@string/Minimum_Order_details"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@android:color/black"
+                            android:textSize="10sp" />
+                    </LinearLayout>
+
+                    <!-- minimum order layout finish -->
+
+                    <LinearLayout
+                        android:id="@+id/minimum_order_boarder_line_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <ImageView
+                            android:id="@+id/minimum_order_boarder_ine"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center"
+                            android:contentDescription="@string/Blank"
+                            android:src="@drawable/boarder_line" />
+                    </LinearLayout>
+                    <!-- minimum time to order layout start -->
+
+                    <LinearLayout
+                        android:id="@+id/minimum_time_to_order_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="5"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/minimum_time_to_order_textview"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:gravity="left|center"
+                            android:text="@string/Minimum_time_to_Order"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="#162880"
+                            android:textSize="12sp" />
+
+                        <TextView
+                            android:id="@+id/minimum_time_to_orderdetail_textview"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="2dp"
+                            android:gravity="left|center"
+                            android:text="@string/Minimum_time_to_Order_details"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@android:color/black"
+                            android:textSize="10sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/last_boarder_line_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <ImageView
+                            android:id="@+id/boarder_ine"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center"
+                            android:contentDescription="@string/Blank"
+                            android:src="@drawable/boarder_line" />
+                    </LinearLayout>
+
+                    <!-- minimum time to order layout finish -->
+
+
+                    <!-- categories layout start -->
+
+                    <LinearLayout
+                        android:id="@+id/categories_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:weightSum="5" >
+
+                        <ImageView
+                            android:id="@+id/categories_imageview"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:src="@drawable/categories" />
+
+                        <AutoCompleteTextView
+                            android:id="@+id/search_autoCompleteTextView"
+                            android:layout_width="match_parent"
+                            android:layout_height="38dp"
+                            android:ems="10"
+                            android:hint="@string/Search_edittext_hint"
+                            android:inputType="textAutoComplete|textAutoCorrect"
+                            android:textSize="16sp" >
+
+                            <requestFocus />
+                        </AutoCompleteTextView>
+
+                        <!-- <ImageView -->
+                        <!-- android:id="@+id/search_Layout_imageview" -->
+                        <!-- android:layout_width="0dp" -->
+                        <!-- android:layout_height="match_parent" -->
+                        <!-- android:background="#f3f3f3" -->
+                        <!-- android:layout_weight="1" -->
+                        <!-- android:layout_gravity="center" -->
+                        <!-- android:contentDescription="@string/Blank" -->
+                        <!-- android:src="@drawable/search_layout_icon" /> -->
+
+                    </LinearLayout>
+                </LinearLayout>
+            </ScrollView>
+            <!-- categories layout finish -->
+
+        </LinearLayout>
+        <!-- header linear layout finish -->
+
+    </RelativeLayout>
+    <!-- header relativer layout finish -->
+
+
+    <!-- <ScrollView -->
+    <!-- android:id="@+id/food_categories_list_scrollview" -->
+    <!-- android:layout_width="fill_parent" -->
+    <!-- android:layout_height="match_parent" -->
+    <!-- android:background="@android:color/white" -->
+    <!-- android:layout_above="@+id/footer" -->
+    <!-- android:layout_below="@id/header" > -->
+
+
+    <!-- Inflate the contents of the ScrollView dynamicaly -->
+    <!-- <FrameLayout android:id="@+id/categories_listview_contents" -->
+    <!-- android:layout_width="fill_parent" -->
+    <!-- android:layout_height="fill_parent" -->
+    <!-- android:orientation="vertical" -->
+    <!-- android:background="@android:color/white" -->
+    <!-- android:layout_above="@+id/footer" -->
+    <!-- android:layout_below="@id/header" -->
+    <!-- > -->
+
+    <ListView
+        android:id="@+id/foodcategories_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/footer"
+        android:layout_below="@id/header"
+        android:background="@drawable/second_screen_background"
+        android:visibility="visible" >
+    </ListView>
+
+    <RelativeLayout
+        android:id="@+id/categories_google_map_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/footer"
+        android:layout_below="@id/header"
+        android:visibility="gone" >
+
+        <!-- <RelativeLayout -->
+        <!-- android:id="@+id/cross_layout" -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:gravity="right" -->
+        <!-- > -->
+
+
+        <!-- <TextView -->
+        <!-- android:id="@+id/locinfo" -->
+        <!-- android:layout_width="0dp" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:layout_weight="2" -->
+        <!-- android:text="" /> -->
+
+
+        <!-- <ImageView -->
+        <!-- android:id="@+id/yes" -->
+        <!-- android:layout_width="0dp" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:layout_gravity="center" -->
+        <!-- android:layout_weight="0.5" -->
+        <!-- android:src="@drawable/yes" /> -->
+
+
+        <!-- </RelativeLayout> -->
+
+        <RelativeLayout
+            android:id="@+id/MapLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <!-- pankaj 26-11                 AIzaSyCSYGIaKhU0MAx7W1q_t1cqOIWoJNRBlpM -->
+            <!-- pankaj-25-11                AIzaSyBWfZ5jWw8712P1gFMCfNxKptPkfPAiduA -->
+            <!-- pankaj-pc key: AIzaSyC49u7vF0JqgYGg5KRiIvBXqbHhvn6NQP8 -->
+            <!-- chetan-pc key: AIzaSyAayvTSzsm3S1ZsR86O_icKJDep-29xHpI -->
+            <!-- new pankaj  AIzaSyB4MGaiaQMl3HwjGAhI6Bf6MY66VDMuOwk -->
+
+            <fragment
+                android:id="@+id/map"
+                android:name="com.google.android.gms.maps.MapFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:apiKey="AIzaSyApDuP0M-IsCofIQ6736lmfhczSsnhdH-Q" />
+
+            <ImageView
+                android:id="@+id/img_cross"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/cross_circle" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!-- </FrameLayout> -->
+    <!-- </ScrollView> -->
+
+    <RelativeLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#83a1e1"
+        android:gravity="center"
+        android:padding="5dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:weightSum="4" >
+
+            <ImageView
+                android:id="@+id/footer_ordernow_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/ordernow" />
+
+            <ImageView
+                android:id="@+id/search_footer_viewmenu_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/viewmenu" />
+
+            <ImageView
+                android:id="@+id/footer_featured_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/featured" />
+
+            <ImageView
+                android:id="@+id/footer_setting_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/setting" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/view_menu_categories.xml -->

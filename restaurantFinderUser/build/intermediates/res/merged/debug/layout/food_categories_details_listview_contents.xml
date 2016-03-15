@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/food_detail_layout"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:background="#83A1E1"
+	android:gravity="center"
+	android:orientation="vertical"
+	android:visibility="visible"
+	android:weightSum="5" >
+
+	<LinearLayout
+		android:id="@+id/food_detail_layout_first"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:orientation="horizontal"
+		android:padding="2dp"
+		android:visibility="visible"
+		android:weightSum="5" >
+
+		<!-- IMAGE LAYOUT START -->
+
+		<LinearLayout
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_gravity="center"
+			android:layout_weight="1.5"
+			android:gravity="center"
+			android:orientation="horizontal" >
+
+			<com.rf_user.activity.SquareImageView
+				android:id="@+id/img_categories_image"
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				android:layout_weight="1.5"
+				 android:scaleType="centerCrop"
+				android:contentDescription="@string/Blank"
+				android:src="@drawable/photos_size" />
+		</LinearLayout>
+		<!-- IMAGE LAYOUT FINISH -->
+
+
+		<!-- CATEGORIES DETAILS LAYOUT START -->
+
+		<LinearLayout
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:layout_marginTop="5dp"
+			android:layout_weight="3.5"
+			android:gravity="center"
+			android:orientation="vertical" >
+
+			<!-- first hotel name rating bar layout start -->
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:layout_gravity="center"
+				android:layout_marginLeft="10dp"
+				android:layout_weight="1.5"
+				android:gravity="center"
+				android:orientation="horizontal" >
+
+				<LinearLayout
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_gravity="center"
+					android:layout_weight="1"
+					android:gravity="center"
+					android:orientation="vertical" >
+
+					<TextView
+						android:id="@+id/txv_categories_name"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_gravity="left|center"
+						android:text="@string/Restaurant_name"
+						android:textAppearance="?android:attr/textAppearanceLarge"
+						android:textColor="#fff"
+						android:textSize="16sp"
+						android:textStyle="bold" />
+
+					<TextView
+						android:id="@+id/txv_categories_size"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_gravity="left|center"
+						android:layout_marginTop="10dp"
+						android:gravity="left|center"
+						android:text="@string/order_address"
+						android:textAppearance="?android:attr/textAppearanceSmall"
+						android:textColor="#fff"
+						android:textSize="10sp" />
+				</LinearLayout>
+
+				<LinearLayout
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_gravity="center"
+					android:layout_weight="0.5"
+					android:gravity="center"
+					android:visibility="invisible"
+					android:orientation="horizontal" >
+
+					<RatingBar
+						android:id="@+id/rate_categoriesratingbar"
+						style="?android:attr/ratingBarStyleSmall"
+						android:layout_width="wrap_content"
+						android:layout_height="match_parent"
+						android:layout_gravity="center"
+						android:clickable="false"
+						android:max="5"
+						android:numStars="5"
+						android:progressDrawable="@drawable/ratingbar_golden" />
+				</LinearLayout>
+			</LinearLayout>
+
+			<!-- first hotel name rating bar layout end -->
+
+
+			<!-- second hotel details SR  layout START -->
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:layout_gravity="center"
+				android:layout_marginLeft="10dp"
+				android:layout_weight="0.5"
+				android:gravity="center"
+				android:orientation="horizontal" >
+
+				<LinearLayout
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_gravity="center"
+					android:layout_weight="1"
+					android:gravity="center"
+					android:orientation="vertical" >
+
+					<TextView
+						android:id="@+id/txv_categories_details"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_gravity="left|center"
+						android:layout_marginTop="10dp"
+						android:layout_weight="2.5"
+						android:gravity="left|center"
+						android:text="@string/order_address"
+						android:textAppearance="?android:attr/textAppearanceSmall"
+						android:textColor="#fff"
+						android:textSize="10sp" />
+				</LinearLayout>
+
+				<LinearLayout
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center"
+					android:layout_weight="0.5"
+					android:gravity="center"
+					android:orientation="vertical" >
+
+					<TextView
+						android:id="@+id/txv_sr"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_gravity="center"
+						android:layout_marginTop="3dp"
+						android:layout_weight="2.5"
+						android:paddingRight="3dp"
+						android:text="@string/SR"
+						android:textAppearance="?android:attr/textAppearanceLarge"
+						android:textColor="#fff"
+						android:textSize="16sp"
+						android:textStyle="bold" />
+				</LinearLayout>
+			</LinearLayout>
+			<!-- second hotel details SR  layout END -->
+
+
+			<!-- THIRD hotel SPICY LEVEL PLUS MINUS layout START -->
+
+			<LinearLayout
+				android:id="@+id/ly_add_mins"
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:layout_gravity="center"
+				android:layout_marginLeft="10dp"
+				android:layout_weight="1.5"
+				android:gravity="center"
+				android:orientation="horizontal" >
+
+				<LinearLayout
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_gravity="center"
+					android:layout_weight="1"
+					android:gravity="center"
+					android:orientation="horizontal" >
+
+					<TextView
+						android:id="@+id/txv_categories_spicylevel"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_gravity="left|center"
+						android:layout_weight="0.5"
+						android:gravity="left|center"
+						android:text="@string/spicy_level"
+						android:textAppearance="?android:attr/textAppearanceSmall"
+						android:textColor="#fff"
+						android:textSize="10sp" />
+
+					<Spinner
+						android:id="@+id/spinner_spicy_level"
+						android:layout_width="0dp"
+						style="@android:style/Widget.Holo.Spinner" 
+						android:layout_height="match_parent"
+						android:layout_marginLeft="2dp"
+						android:layout_weight="0.5"
+						android:popupBackground="#ffffff"
+						android:entries="@array/Spicy_Level"
+						android:gravity="left|center"
+						android:paddingLeft="2dp"
+						android:visibility="visible" />
+				</LinearLayout>
+
+				<LinearLayout
+					android:layout_width="wrap_content"
+					android:layout_height="match_parent"
+					android:layout_gravity="center"
+					android:layout_marginRight="10dp"
+					android:layout_weight="0.5"
+					android:background="@drawable/roundcorner_cart"
+					android:gravity="center"
+					android:orientation="horizontal"
+					android:weightSum="6" >
+
+					<Button
+						android:id="@+id/btn_Add"
+						style="?android:attr/buttonStyleSmall"
+						android:layout_width="wrap_content"
+						android:layout_height="match_parent"
+						android:layout_marginBottom="5dp"
+						android:layout_marginRight="2dp"
+						android:layout_marginTop="5dp"
+						android:layout_weight="1"
+						android:background="@drawable/roundcorner_cart"
+						android:text="@string/plus" />
+
+					<TextView
+						android:id="@+id/txv_quantity"
+						android:layout_width="wrap_content"
+						android:layout_height="match_parent"
+						android:layout_gravity="center"
+						android:layout_weight="2"
+						android:gravity="center"
+						android:text="@string/quantity"
+						android:textAppearance="?android:attr/textAppearanceSmall" />
+
+					<Button
+						android:id="@+id/btn_minus"
+						style="?android:attr/buttonStyleSmall"
+						android:layout_width="wrap_content"
+						android:layout_height="match_parent"
+						android:layout_gravity="right|center"
+						android:layout_marginBottom="5dp"
+						android:layout_marginLeft="2dp"
+						android:layout_marginTop="5dp"
+						android:layout_weight="1"
+						android:background="@drawable/roundcorner_cart"
+						android:text="@string/minus" />
+
+					<TextView
+						android:id="@+id/parent_index"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_gravity="right|center"
+						android:layout_weight="0.2"
+						android:visibility="gone"
+						android:width="0dp" />
+				</LinearLayout>
+			</LinearLayout>
+
+			<!-- THIRD hotel SPICY LEVEL PLUS MINUS layout END -->
+
+		</LinearLayout>
+
+		<!-- CATEGORIES DETAILS LAYOUT END -->
+
+	</LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/food_categories_details_listview_contents.xml -->

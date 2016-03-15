@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Super Admin</string>
+    <string name="action_settings">Setări</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- Loginscreen -->
+
+    <string name="No_Internet_Connection">Fără conexiune la internet</string>
+    <string name="rf_rememberme">Ține-mă minte!!!</string>
+    <string name="rf_login_txv_username">Nume Utilizator</string>
+    <string name="rf_login_ed_username">Tastează Nume Utilizator</string>
+    <string name="rf_login_ed_password">Tastează Parolă</string>
+    <string name="rf_login_txv_password">Parolă</string>
+    <string name="rf_login_forgetpass"><u>Ți-ai Uitat Parola???</u></string>
+    <string name="rf_login_dont">Loghează-te</string>
+    <string name="rf_login_rg_free">Loghează-te</string>
+    <string name="rf_supper_admin_login_background">Logare Super Admin</string>
+    <string name="rf_login_admin">Admin</string>
+    <string name="rf_login_profile_newpassword">Admin</string>
+    <string name="rf_supper_admin_header_name">Pagină de început</string>
+    <string name="rf_supper_tv_take_booking_name">Ia rezervare</string>
+    <string name="rf_supper_tv_manage_setting_name">Gestionează Setări</string>
+    <string name="rf_supper_tv_admin_profile_name">Profilul Administratorului</string>
+    <string name="rf_supper_tv_generate_invoice_name">Generează Invoice</string>
+    <string name="rf_profile_ed_newpassword">tastează parolă nouă</string>
+    <string name="rf_profile_ed_oldpassword">tastează parolă curentă</string>
+    <string name="txv_retypepassword">Confirmă Parola</string>
+    <string name="rf_profile_ed_resetpassword">Reintroduceți parola</string>
+    <string name="rf_supper_admin_txv_changepassword">Schimbă Parola</string>
+    <string name="txv_newpassword">Parolă Nouă</string>
+    <string name="txv_oldpassword">Parolă Curentă</string>
+    <string name="txv_fromdate">De la</string>
+    <string name="rf_invoice_ed_fromdate">Tastează data de la care</string>
+    <string name="txv_todate">la</string>
+    <string name="rf_invoice_ed_todate">tastează data la care</string>
+    <string name="rf_supper_admin_txv_home">Pagina de Început</string>
+    <string name="rf_supper_txv_restaurant_list">Lista cu Restaurante</string>
+    <string name="rf_supper_txv_manage_restaurant">Gestionează Restaurant</string>
+    <string name="rf_supper_txv_admin_profile">Profilul Administratorului</string>
+    <string name="rf_supper_txv_manage_packages_price_name">Gestionează Prețuri și Pachete</string>
+    <string name="rf_supper_txv_invoice">Generează Invoice</string>
+    <string name="supper_admin_txv_functionality">Funcționalitate</string>
+    <string name="supper_admin_txv_price">Preț</string>
+    <string name="supper_admin_txv_order">Comenzi Online</string>
+    <string name="supper_admin_txv_functionality_bookingcharges">Taxă globală pentru rezervare de masă</string>
+    <string name="supper_admin_txv_free">Gratuit</string>
+    <string name="supper_admin_txv_free_price">Gratuit</string>
+    <string name="supper_admin_txv_free_bookingcharges">2</string>
+    <string name="supper_admin_txv_pro">Pro</string>
+    <string name="supper_admin_txv_pro_price">Lei 89/lună</string>
+    <string name="supper_admin_txv_pro_bookingcharges">2</string>
+    <string name="supper_admin_txv_gold">Gold</string>
+    <string name="supper_admin_txv_gold_price">Lei 89/lună</string>
+    <string name="supper_admin_txv_gold_bookingcharges">2</string>
+    <string name="rf_supper_admin_txv_managerestaurant">Gestionează Restaurant</string>
+    <string name="ListView_items"></string>
+    <string name="rf_supper_admin_txv_restbiofrench">Restaurant Bio french</string>
+    <string name="rf_supper_admin_txv_packages">Pachete :</string>
+    <string name="rf_supper_admin_txv_free">Gratuit</string>
+    <string name="rf_supper_admin_txv_status">Status :</string>
+    <string name="rf_supper_admin_txv_processed">Procesat</string>
+    <string name="rf_supper_admin_txv_approved">Aprobat :</string>
+    <string name="rf_supper_admin_txv_waiting">În așteptare</string>
+    <string name="rf_supper_admin_txv_phone">telefon :</string>
+    <string name="rf_supper_admin_txt_phonenumber">+40-756 958 958</string>
+    <string name="rf_supper_admin_txv_detail">Detalii :</string>
+    <string name="rf_supper_admin_txv_details">Detalii</string>
+    <string name="rf_supper_admin_txv_lickcustomer">Numărul de clienți afiliați:</string>
+    <string name="rf_supper_admin_txv_restbookingcharge">Taxa pentru acest restaurant :</string>
+    <string name="rf_supper_admin_txv_bookingcharges"> 2</string>
+    <string name="rf_supper_admin_txv_globalbookingcharges"> 2</string>
+    <string name="rf_supper_admin_txv_action">Acțiune:</string>
+    <string name="rf_supper_admin_txv_restaurant_list">Lista cu Restaurante</string>
+    <string name="sunday">Duminică</string>
+    <string name="monday">Luni</string>
+    <string name="tuesday">Marți</string>
+    <string name="wednesday">Miercuri</string>
+    <string name="thursday">Joi</string>
+    <string name="friday">Vineri</string>
+    <string name="saturday">Sâmbătă</string>
+
+    <string-array name="months">
+        <item>Ianuarie</item>
+        <item>Februarie</item>
+        <item>Martie</item>
+        <item>Aprilie</item>
+        <item>Mai</item>
+        <item>Iunie</item>
+        <item>Iulie</item>
+        <item>August</item>
+        <item>Septembrie</item>
+        <item>Octombrie</item>
+        <item>Noiembrie</item>
+        <item>Decembrie</item>
+    </string-array>
+
+    <!-- Regis step 1 -->
+    <string name="Registration">Înregistrare</string>
+    <string name="str_rf_registration_tv_you">Tu</string>
+    <string name="str_rf_registration_your_restaurant">Restaurantul Tău</string>
+    <string name="str_rf_registration_tv_fname">Prenumele</string>
+    <string name="str_rf_registration_tv_lname">Numele</string>
+    <string name="str_rf_registration_tv_pwd">Parolă</string>
+    <string name="str_rf_registration_tv_country">Țară</string>
+    <string name="str_rf_registration_tv_region">Regiune</string>
+    <string name="str_rf_registration_tv_district">District</string>
+    <string name="str_rf_registration_tv_restaurant">Numele Restaurantului</string>
+    <string name="str_rf_registration_tv_remail">Email-ul Restaurantului</string>
+    <string name="str_rf_registration_tv_rphone">Telefonul Restaurantului</string>
+    <string name="str_rf_registration_tv_add">Adresă</string>
+    <string name="str_rf_registration_tv_zip_code">Codul Poștal</string>
+    <string name="str_rf_registration_tv_city">Oraș</string>
+    <string name="str_rf_registration_tv_website">Website</string>
+    <string name="str_rf_registration_tv_made_deliver">Câte livrări face în mod obișnuit?</string>
+    <string name="str_rf_registration_ed_fname">Prenume</string>
+    <string name="str_rf_registration_ed_lname">Nume</string>
+    <string name="str_rf_registration_ed_pwd">tastează parolă</string>
+    <string name="str_rf_registration_rdo_male">bărbat</string>
+    <string name="str_rf_registration_ed_female">Femeie</string>
+    <string name="str_rf_registration_sp_counrty">Tastează Țară</string>
+    <string name="str_rf_registration_ed_restaurant">Tastează Numele Restaurantului</string>
+    <string name="str_rf_registration_ed_remail">Tatează Email-ul Restaurantului</string>
+    <string name="str_rf_registration_ed_rphone">Număr de telefon</string>
+    <string name="str_rf_registration_ed_add">Adresa Restaurantului</string>
+    <string name="str_rf_registration_ed_zip_code">Tastează Cod Poștal</string>
+    <string name="str_rf_registration_ed_city">Oraș</string>
+    <string name="str_rf_registration_ed_website">Website-ul Restaurantului</string>
+    <string name="str_rf_registration_ed_made_deliver">Câte Livrări</string>
+    <string name="str_rf_registration_btn_continue">Continuă</string>
+    <string name="str_rf_registration_btn_map">Hartă</string>
+
+    <!-- Regis step 2 -->
+    <string name="str_rf_regi_step2_tv_reg">Înregistrare</string>
+    <string name="str_rf_regi_step2_tv_que">Întrebări? Nu ezita să ne contactezi la +40756216997</string>
+    <string name="str_rf_regi_step2_tv_no">+40756216997</string>
+    <string name="str_rf_regi_step2_tv_step">Ești la conducere!! Getionează-ți profilul după cum vrei</string>
+    <string name="str_rf_regi_step4_tv_step">Pasul 4/4 Pachete și Prețuri</string>
+    <string name="str_rf_regi_step2_tv_youhave">Îți cerem doar un singur lucru: tratează clienții pe care ii trimitem ție, cu o masă delicioasă</string>
+    <string name="tv_rf_registration_title">Titlu</string>
+    <string name="tv_rf_registration_latitude">Latitudine</string>
+    <string name="str_rf_registration_ed_latitude">tastează Latitudine</string>
+    <string name="tv_rf_registration_longitude">Longitudine</string>
+    <string name="str_rf_registration_ed_longitude">tastează Longitudine</string>
+    <string name="str_rf_regi_step2_rb_mr">DL.</string>
+    <string name="str_rf_regi_step2_rb_mrs">Dna</string>
+    <string name="str_rf_regi_step2_rb_miss">D-șoara</string>
+    <string name="str_rf_regi_step2_tv_dont">Nu-ți fă griji, Ne mișcăm repede!!</string>
+    <string name="rf_regi_step2_textview6">Rezervarea ta e generală</string>
+    <string name="str_rf_regi_step4_dont">Felicitări! Am reușit</string>
+    <string name="str_rf_regi_step4_free">Gratuit</string>
+    <string name="str_rf_regi_step3_tv1">Rezervările tale online</string>
+    <string name="str_rf_regi_step2_tv2">Comment-uri</string>
+    <string name="str_rf_regi_step4_online">Taxele de rezervare nu sunt incluse</string>
+    <string name="str_rf_regi_step4_tv1">Acest instrument este ideal pentru a-ți digitaliza și centraliza rezervările (de la tel,Online,..).Gestionează-ți imaginea din mediul online și arată ce fel de disponibilități ai! hiiii soooo niceeeee</string>
+    <string name="str_rf_regi_step4_pro">PRO +</string>
+    <string name="str_rf_regi_step4_tax">89.00 lei/lună</string>
+    <string name="str_rf_regi_step4_gold">GOLD</string>
+    <string name="rf_regi_step2_textview7">Orar</string>
+    <string name="rf_regi_step2_textview8">Luni</string>
+    <string name="rf_regi_step2_textview9">Marți</string>
+    <string name="rf_regi_step2_textview10">Miercuri</string>
+    <string name="rf_regi_step2_textview11">Joi</string>
+    <string name="rf_regi_step2_textview12">Vineri</string>
+    <string name="rf_regi_step2_textview13">Sâmbătă</string>
+    <string name="rf_regi_step2_textview14">Duminică</string>
+    <string name="rf_regi_step2_textview15">Orar</string>
+    <string name="rf_regi_step2_textview16">Ora la care ultima rezervare e acceptată</string>
+    <string name="rf_regi_step2_textview17">Prânz</string>
+    <string name="rf_regi_step2_textview18">Cină</string>
+    <string name="rf_regi_step2_textview19">Câte locuri are restaurantul dvs?</string>
+    <string name="rf_regi_step2_textview20">Cât costă o notă de plată medie?</string>
+    <string name="rf_regi_step2_textview21">Următoarele îți permit să configurezi diferite ore de disponibilitate pentru afacerea ta</string>
+    <string name="rf_regi_step2_seatsnum">Tastează numărul de locuri disponibile</string>
+    <string name="rf_regi_step2_overbill">Factură</string>
+    <string name="rf_regi_step2_textview22">Rezervarea ta online</string>
+    <string name="rf_regi_step2_textview23">Sunteți dispuși să primiți rezervări online tip ”last minute”?</string>
+    <string name="rf_regi_step2_textview24">Facilități</string>
+    <string name="rf_regi_step2_radiobutton1">Da</string>
+    <string name="rf_regi_step2_radiobutton2">NU</string>
+    <string name="rf_regi_step2_radiobutton3">Ridică din Restaurant</string>
+    <string name="rf_regi_step2_radiobutton4">Livrare</string>
+    <string name="rf_regi_step2_radiobutton5">Amândouă</string>
+    <string name="rf_regi_step2_textview1">Înregistrare</string>
+    <string name="str_rf_regi_step2_tv_thank">⁫Vă mulțumim că ați ales easyeat</string>
+
+    <!-- Pankaj Sakariya -->
+
+    <string name="str_title_manage_restaurant">Gestionează Restaurant</string>
+    <string name="str_dollar">6;</string>
+    <string name="str_please_wait">va rugam asteptati</string>
+    <string name="str_persons">Persoane</string>
+    <string name="fp_title">Ți-ai uitat parola?</string>
+    <string name="fp_email">tastează Email</string>
+    <string name="fp_resetpass">Resetează Parola</string>
+    <string name="super_admin_txv_price_unit_lei">lei</string>
+    <string name="super_admin_txv_price_unit_month">/lună</string>
+
+    <!-- admin profile -->
+    <string name="ap_indine">În Restaurant</string>
+    <string name="ap_online_order">Comandă Online</string>
+    <!-- generate invoice -->
+    <string name="gi_title">Generează invoice</string>
+    <string name="gi_from_date">De la data</string>
+    <string name="gi_to_date">la data</string>
+    <string name="gi_select_from_date">Selectează de la data</string>
+    <string name="gi_select_to_date">Selectează la data</string>
+    <string name="gi_submit">Înaintează</string>
+    <string name="gi_tg">Rezervare de masă</string>
+    <string name="gi_oo">Comandă Online</string>
+    <string name="gi_srno">SR No.</string>
+    <string name="gi_rest_name">Numele Restaurantului</string>
+    <string name="gi_loyalty">Puncte de loialitate</string>
+    <string name="gi_email">Email</string>
+    <string name="gi_sbooking">Rezervări</string>
+    <string name="gi_booking_charge">Taxă de Rezervare</string>
+    <string name="gi_total">Total</string>
+    <string name="gi_grand_total">Total general</string>
+    <string name="gi_payable_amount">PA</string>
+    <string name="gi_status">Stare plată</string>
+    <string name="gi_select_f_t_date">Vă rugăm selectați data de la care și până la care doriți să fie emis invoice-ul</string>
+    <string name="gi_select_only_one_restaurant">Vă rugăm să selectați doar un singur restaurant din filtrul de căutare</string>
+    <string name="gi_generate_pdf">Generează PDF si dă Email</string>
+    <string name="gi_loyality_point">Puncte de loialitate</string>
+
+    <!-- package price -->
+    <string name="pp_update">Actualizează</string>
+    <!-- manage rest -->
+    <string name="mr_all">TOT(1)</string>
+    <string name="mr_tp">Urmează să fie procesat</string>
+    <string name="mr_p">Procesat</string>
+    <string name="mr_rf_gc">Taxa globală de rezervare :</string>
+    <!-- rest details -->
+    <string name="rd_bc">Taxa de rezervare pentru Restaurant</string>
+    <string name="rd_gbc">Taxa globală de Rezervare</string>
+    <string name="rd_package">Pachete</string>
+    <string name="rd_status">Stare</string>
+    <string name="rd_linked_cust">Number de clienți afiliați</string>
+    <string name="rd_approve">Aprobă</string>
+    <string name="rd_decline">Respinge</string>
+
+    <!-- java file string -->
+    <string name="fp_pass">Parola nu se potrivește</string>
+    <string name="rd_wrong">Ceva a mers greșit..! Te Rugăm mai încearcă o dată..!</string>
+    <!-- popup menu -->
+    <string name="pm_rl">Lista cu Restaurante</string>
+    <string name="pm_mr">Gestionează Restaurant</string>
+    <string name="pm_ap">Profilul Administratorului</string>
+    <string name="pm_mpp">Gestionează Pachete și Prețuri</string>
+    <string name="pm_gi">Generează Invoice</string>
+    <string name="pm_ref">Reîmprospătare</string>
+    <string name="pm_global_setting">Setarea Global</string>
+    <string name="pm_logout">Ieșire</string>
+
+    <!-- Dhara -->
+    <string name="str_Pending">În așteptare</string>
+    <string name="str_Approved">Aprobat</string>
+    <string name="str_edit">Editează</string>
+    <string name="oo_invoice_po">PO</string>
+    <string name="oo_invoice_co">CO</string>
+    <string name="oo_invoice_cba">CBA</string>
+    <string name="oo_invoice_cbu">CBU</string>
+    <string name="oo_invoice_tb">TB</string>
+    <string name="oo_invoice_nop">NOP</string>
+    <string name="oo_invoice_bc">BC</string>
+    <string name="oo_invoice_modulo">%</string>
+    <string name="oo_invoice_rpo">RPO</string>
+    <string name="oo_invoice_fo">FO</string>
+    <string name="oo_invoice_nswt">NSWT</string>
+    <string name="oo_invoice_nsat">NSAT</string>
+    <string name="oo_invoice_ulp">ULP</string>
+    <string name="str_sa_fname">prenume</string>
+    <string name="str_sa_ed_fname">Introduceți Prenume</string>
+    <string name="str_sa_lname">Nume</string>
+    <string name="str_sa_email">email</string>
+    <string name="str_sa_ed_lname">Introduceți Nume</string>
+    <string name="str_sa_min_lp_to_redeem">Loialitate minime punct(e) pentru a răscumpăra</string>
+    <string name="str_sa_ed_min_lp_to_redeem">Introduceți loialitate minime punct(e) pentru a răscumpăra</string>
+    <string name="str_sa_max_lp_to_redeem">Maximum punct(e) de loialitate pentru a răscumpăra</string>
+    <string name="str_sa_ed_max_lp_to_redeem">Introduceți maxim Loylty punct(e) pentru a răscumpăra</string>
+    <string name="str_sa_lp_to_tg_customer">Recompensat punct de loialitate Clientului</string>
+    <string name="str_sa_ed_lp_to_tg_customer">Introduceți recompensate punct de loialitate Clientului</string>
+    <string name="str_sa_lp_equals_to_lei">Equls loialitate Punct de lei</string>
+    <string name="str_sa_ed_lp_equals_to_lei">Introduceți Equls loialitate Punct de lei</string>
+    <string name="str_sa_booking_time_limit">Rezervare Limita de timp</string>
+    <string name="str_sa_ed_booking_time_limit">Introduceți Booking Limita de timp</string>
+    <string name="str_sa_oo_percentage">OO Procentaj</string>
+    <string name="str_sa_ed_oo_percentage">Introduceți OO Procentaj</string>
+    <string name="btn_update">actualizare</string>
+    <string name="str_global_setting">Setarea Global</string>
+    <string name="str_All">toate</string>
+    <string name="str_To_be_Approved">Pentru a fi aprobate</string>
+    <string name="str_ok">OK</string>
+    <string name="str_cancel">anula</string>
+    <string name="update_button">Update</string>
+    <string name="str_manage">Gestionați Restaurant Categorie</string>
+    <string name="pm_manage_restaurant">Gestionați Restaurant Categorie</string>
+    <string name="str_add">adăuga</string>
+    <string name="str_current_pwd">Parola actuală nu poate fi gol .</string>
+    <string name="str_new_pwd">Parolă nouă nu poate fi gol .</string>
+    <string name="str_confirm_pwd">Confirmare parolă nu poate fi gol .</string>
+    <string name="str_Confirm">confirma</string>
+    <string name="str_clear">clar</string>
+    <string name="str_search_rest">căutare Restaurant</string>
+  
+    <string name="contact_gi_email">Emailul de contact</string>
+    <string name="str_current_package">pachetul curent</string>
+    <string name="str_requested_package">Pachetul a solicitat</string>
+    <string name="str_package_amount">pachetul Suma</string>
+    <string name="str_decline_button">declin</string>
+    <string name="str_approve_button">Aprobare</string>
+    <string name="mc_nodata">Nu exista inregistrari găsit</string>
+    <string name="gi_title_request">Cerere de actualizare Pachetul</string>
+    <string name="package_date">data</string>
+    <string name="str_rquest_update_package">Cerere de actualizare Pachetul</string>
+    <string name="update_package">Aprobare de actualizare pachet</string>
+    <string name="update_package_message">Ești Conform că doriți să actualizați pachetul de acest restaurant.</string>
+    <string name="mpp_tgtitle">Rezervă Masă</string>
+    <string name="mpp_pd">Descriere pachet</string>
+    <string name="str_contact_number">Număr de contact</string>
+
+</resources>

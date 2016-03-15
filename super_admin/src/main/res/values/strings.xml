@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Super Admin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- Loginscreen -->
+
+    <string name="No_Internet_Connection">No Internet Connection</string>
+    <string name="rf_rememberme">Remember Me</string>
+    <string name="rf_login_txv_username">User Name</string>
+    <string name="rf_login_ed_username">Enter UserName</string>
+    <string name="rf_login_ed_password">Enter Password</string>
+    <string name="rf_login_txv_password">Password</string>
+    <string name="rf_login_forgetpass"><u>Forgot your Password???</u></string>
+    <string name="rf_login_dont">rf_login_dont</string>
+    <string name="rf_login_rg_free">rf_login_rg_free</string>
+    <string name="rf_supper_admin_login_background">rf_supper_admin_login_background</string>
+    <string name="rf_login_admin">Admin</string>
+    <string name="rf_login_profile_newpassword">Admin</string>
+    <string name="rf_supper_admin_header_name">Home Screen</string>
+    <string name="rf_supper_tv_take_booking_name">Take Booking</string>
+    <string name="rf_supper_tv_manage_setting_name">Manage Setting</string>
+    <string name="rf_supper_tv_admin_profile_name">Admin_Profile</string>
+    <string name="rf_supper_tv_generate_invoice_name">Generate Invoice</string>
+    <string name="rf_profile_ed_newpassword">Enter new password</string>
+    <string name="rf_profile_ed_oldpassword">Enter current password</string>
+    <string name="txv_retypepassword">Confirm Password</string>
+    <string name="rf_profile_ed_resetpassword">Re-enter password</string>
+    <string name="rf_supper_admin_txv_changepassword">Change Password</string>
+    <string name="txv_newpassword">New password</string>
+    <string name="txv_oldpassword">Current password</string>
+    <string name="txv_fromdate">From Date</string>
+    <string name="rf_invoice_ed_fromdate">Enter from date</string>
+    <string name="txv_todate">To Date</string>
+    <string name="rf_invoice_ed_todate">Enter to date</string>
+    <string name="rf_supper_admin_txv_home">Home Screen</string>
+    <string name="rf_supper_txv_restaurant_list">Restaurant List</string>
+    <string name="rf_supper_txv_manage_restaurant">Manage Restaurant</string>
+    <string name="rf_supper_txv_admin_profile">Admin Profile</string>
+    <string name="rf_supper_txv_manage_packages_price_name">Manage packages &amp; Price</string>
+    <string name="rf_supper_txv_invoice">Generate Invoice</string>
+   <string name="manage_restaurant">Manage Restaurant Category</string>
+    <string name="supper_admin_txv_functionality">Functionality</string>
+    <string name="supper_admin_txv_price">Price</string>
+    <string name="supper_admin_txv_order">Online Order</string>
+    <string name="supper_admin_txv_functionality_bookingcharges">Global table booking charges</string>
+    <string name="supper_admin_txv_free">Free</string>
+    <string name="supper_admin_txv_free_price">Free</string>
+    <string name="supper_admin_txv_free_bookingcharges">2</string>
+    <string name="supper_admin_txv_pro">Pro</string>
+    <string name="supper_admin_txv_pro_price">€ 89/month</string>
+    <string name="supper_admin_txv_pro_bookingcharges">2</string>
+    <string name="supper_admin_txv_gold">Gold</string>
+    <string name="supper_admin_txv_gold_price">€ 89/month</string>
+    <string name="supper_admin_txv_gold_bookingcharges">2</string>
+    <string name="rf_supper_admin_txv_managerestaurant">Manage Restaurant</string>
+    <string name="ListView_items"></string>
+    <string name="rf_supper_admin_txv_restbiofrench">Restaurant Bio french</string>
+    <string name="rf_supper_admin_txv_packages">Packages :</string>
+    <string name="rf_supper_admin_txv_free">Free</string>
+    <string name="rf_supper_admin_txv_status">Status :</string>
+    <string name="rf_supper_admin_txv_processed">Processed</string>
+    <string name="rf_supper_admin_txv_approved">Approved :</string>
+    <string name="rf_supper_admin_txv_waiting">Waiting</string>
+    <string name="rf_supper_admin_txv_phone">Phone :</string>
+    <string name="rf_supper_admin_txt_phonenumber">+44-258 958 958</string>
+    <string name="rf_supper_admin_txv_detail">Detail :</string>
+    <string name="rf_supper_admin_txv_details">Detail</string>
+    <string name="rf_supper_admin_txv_lickcustomer">Number of licked customer :</string>
+    <string name="rf_supper_admin_txv_restbookingcharge">This restaurant booking charge :</string>
+    <string name="rf_supper_admin_txv_bookingcharges">\u20ac: 2</string>
+    <string name="rf_supper_admin_txv_globalbookingcharges">\u20ac; 2</string>
+    <string name="rf_supper_admin_txv_action">Action :</string>
+    <string name="rf_supper_admin_txv_restaurant_list">Restaurant List</string>
+    <string name="sunday">Sun</string>
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thur</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <!-- Regis step 1 -->
+    <string name="Registration">Registration</string>
+    <string name="str_rf_registration_tv_you">You</string>
+    <string name="str_rf_registration_your_restaurant">Your Restaurant</string>
+    <string name="str_rf_registration_tv_fname">First Name</string>
+    <string name="str_rf_registration_tv_lname">Last Name</string>
+    <string name="str_rf_registration_tv_pwd">Password</string>
+    <string name="str_rf_registration_tv_country">Country</string>
+    <string name="str_rf_registration_tv_region">Region</string>
+    <string name="str_rf_registration_tv_district">District</string>
+    <string name="str_rf_registration_tv_restaurant">Restaurant Name</string>
+    <string name="str_rf_registration_tv_remail">Restaurant Email</string>
+    <string name="str_rf_registration_tv_rphone">Restaurant Phone</string>
+    <string name="str_rf_registration_tv_add">Address</string>
+    <string name="str_rf_registration_tv_zip_code">Zip Code</string>
+    <string name="str_rf_registration_tv_city">City</string>
+    <string name="str_rf_registration_tv_website">Website</string>
+    <string name="str_rf_registration_tv_made_deliver">How many Restaurant are made deliver</string>
+    <string name="str_rf_registration_ed_fname">Enter Your First Name</string>
+    <string name="str_rf_registration_ed_lname">Enter Your Last Name</string>
+    <string name="str_rf_registration_ed_pwd">Enter Password</string>
+    <string name="str_rf_registration_rdo_male">Male</string>
+    <string name="str_rf_registration_ed_female">Female</string>
+    <string name="str_rf_registration_sp_counrty">Enter Country</string>
+    <string name="str_rf_registration_ed_restaurant">Enter Restaurant Name</string>
+    <string name="str_rf_registration_ed_remail">Enter Restaurant Email</string>
+    <string name="str_rf_registration_ed_rphone">Enter PhoneNo</string>
+    <string name="str_rf_registration_ed_add">Enter Restaurant Address</string>
+    <string name="str_rf_registration_ed_zip_code">Enter Zipcode</string>
+    <string name="str_rf_registration_ed_city">Enter City</string>
+    <string name="str_rf_registration_ed_website">Enter Restuarant Website</string>
+    <string name="str_rf_registration_ed_made_deliver">How many Deliver</string>
+    <string name="str_rf_registration_btn_continue">Continue</string>
+    <string name="str_rf_registration_btn_map">Map</string>
+
+    <!-- Regis step 2 -->
+    <string name="str_rf_regi_step2_tv_reg">Registration</string>
+    <string name="str_rf_regi_step2_tv_que">Questions? Dont`t hasitate to contact us at   423 123 4553</string>
+    <string name="str_rf_regi_step2_tv_no">423 123 4553</string>
+    <string name="str_rf_regi_step2_tv_step">Step 2/4 You are still in charges! Set your own parameters</string>
+    <string name="str_rf_regi_step4_tv_step">Step 4/4 Packages and Payment</string>
+    <string name="str_rf_regi_step2_tv_youhave">You have on time commitment and only one requirement: treat the customer we send you to delicious\n
+        									 meal.Registration on will not take you than longer</string>
+    <string name="tv_rf_registration_title">Title</string>
+    <string name="tv_rf_registration_latitude">Latitude</string>
+    <string name="str_rf_registration_ed_latitude">Enter Latitude</string>
+    <string name="tv_rf_registration_longitude">Longitude</string>
+    <string name="str_rf_registration_ed_longitude">Enter Longitude</string>
+    <string name="str_rf_regi_step2_rb_mr">Mr</string>
+    <string name="str_rf_regi_step2_rb_mrs">Mrs</string>
+    <string name="str_rf_regi_step2_rb_miss">Miss</string>
+    <string name="str_rf_regi_step2_tv_dont">Don`t worry moving fast</string>
+    <string name="rf_regi_step2_textview6">Your booking is general</string>
+    <string name="str_rf_regi_step4_dont">Congratulation Its over</string>
+    <string name="str_rf_regi_step4_free">Free</string>
+    <string name="str_rf_regi_step3_tv1">Your online booking</string>
+    <string name="str_rf_regi_step2_tv2">Comments</string>
+    <string name="str_rf_regi_step4_online">(Online booking fees not included)</string>
+    <string name="str_rf_regi_step4_tv1">This tool is ideal for digitalizing you booking centralize your
+        								 booking (Phone, Online, Walk ins...)and manageyour image and availability 
+        								 online.hiiii soooo niceeeee</string>
+    <string name="str_rf_regi_step4_pro">PRO +</string>
+    <string name="str_rf_regi_step4_tax">89.00 excl.tax/month</string>
+    <string name="str_rf_regi_step4_gold">GOLD</string>
+    <string name="rf_regi_step2_textview7">Opening Dats and house</string>
+    <string name="rf_regi_step2_textview8">Monday</string>
+    <string name="rf_regi_step2_textview9">Tuesday</string>
+    <string name="rf_regi_step2_textview10">Wednesday</string>
+    <string name="rf_regi_step2_textview11">Thursday</string>
+    <string name="rf_regi_step2_textview12">Friday</string>
+    <string name="rf_regi_step2_textview13">Saturday</string>
+    <string name="rf_regi_step2_textview14">Sunday</string>
+    <string name="rf_regi_step2_textview15">Meal opening Time</string>
+    <string name="rf_regi_step2_textview16">Time last is booking is accepted</string>
+    <string name="rf_regi_step2_textview17">Lunch</string>
+    <string name="rf_regi_step2_textview18">Dinner</string>
+    <string name="rf_regi_step2_textview19">How many seats dose youe restaurant have?</string>
+    <string name="rf_regi_step2_textview20">What is youe overage bill?(all mills combined)</string>
+    <string name="rf_regi_step2_textview21">The following allows you to configure different 
+                                             bussines hours for each day from your platfrom</string>
+    <string name="rf_regi_step2_seatsnum">Enter seats Number</string>
+    <string name="rf_regi_step2_overbill"></string>
+    <string name="rf_regi_step2_textview22">Your online booking</string>
+    <string name="rf_regi_step2_textview23">Are you willing to recive "last minute" booking?</string>
+    <string name="rf_regi_step2_textview24">Facility</string>
+    <string name="rf_regi_step2_radiobutton1">Yes</string>
+    <string name="rf_regi_step2_radiobutton2">No</string>
+    <string name="rf_regi_step2_radiobutton3">Pick up</string>
+    <string name="rf_regi_step2_radiobutton4">Dilivery</string>
+    <string name="rf_regi_step2_radiobutton5">Both</string>
+    <string name="rf_regi_step2_textview1">Registration</string>
+    <string name="str_rf_regi_step2_tv_thank">⁫Thank You for choosing Restaurant Finder</string>
+
+    <!-- Pankaj Sakariya -->
+
+    <string name="str_title_manage_restaurant">Manage Restaurant</string>
+    <string name="str_dollar">&#36;</string>
+    <string name="str_persons">Person(s)</string>
+    <string name="fp_title">Forgot Password</string>
+    <string name="fp_email">Enter Email ID</string>
+    <string name="fp_resetpass">Reset Password</string>
+    <string name="super_admin_txv_price_unit_lei">lei</string>
+    <string name="super_admin_txv_price_unit_month">/month</string>
+
+    <!-- admin profile -->
+    <string name="ap_indine">Indining</string>
+    <string name="ap_online_order">Online Order</string>
+    <!-- generate invoice -->
+    <string name="gi_title">Generate invoice</string>
+    <string name="gi_from_date">From Date</string>
+    <string name="gi_to_date">To Date</string>
+    <string name="gi_select_from_date">Select From Date</string>
+    <string name="gi_select_to_date">Select To Date</string>
+    <string name="gi_submit">Submit</string>
+    <string name="gi_tg">Table Grabber</string>
+    <string name="gi_oo">Online Order</string>
+    <string name="gi_srno">SR No.</string>
+    <string name="gi_rest_name">Restaurant Name</string>
+    <string name="gi_loyalty">Loyalty Points</string>
+    <string name="gi_email">Email</string>
+    <string name="gi_sbooking">Bookings</string>
+    <string name="gi_booking_charge">Booking charge</string>
+    <string name="gi_total">Total</string>
+    <string name="gi_grand_total">Grand Total</string>
+    <string name="gi_payable_amount">PA</string>
+    <string name="gi_status">Pay Status</string>
+    <string name="gi_select_f_t_date">Please select from date and to date for invoice data.</string>
+    <string name="gi_select_only_one_restaurant">Please select only one restaurant from search filter</string>
+    <string name="gi_generate_pdf">Generate PDF and Email</string>
+    <string name="gi_loyality_point">Loyalty Points</string>
+
+    <!-- package price -->
+    <string name="pp_update">Update</string>
+    <!-- manage rest -->
+    <string name="mr_all">ALL (1)</string>
+    <string name="mr_tp">To be processed (1)</string>
+    <string name="mr_p">Processed (1)</string>
+    <string name="mr_rf_gc">Global booking charge :</string>
+    <!-- rest details -->
+    <string name="rd_bc">Restaurant booking charge</string>
+    <string name="rd_gbc">Global booking charge</string>
+    <string name="rd_package">Package</string>
+    <string name="rd_status">Status</string>
+    <string name="rd_linked_cust">Number of linked customer</string>
+    <string name="rd_approve">Approve</string>
+    <string name="rd_decline">Decline</string>
+
+    <!-- java file string -->
+    <string name="fp_pass">Password does not match the confirm password</string>
+    <string name="rd_wrong">Something went wrong..! please try again..!</string>
+    <!-- popup menu -->
+    <string name="pm_rl">Restaurant List</string>
+    <string name="pm_mr">Manage Restaurant</string>
+    <string name="pm_ap">Admin Profile</string>
+    <string name="pm_manage_restaurant">Manage Restaurant category</string>
+    <string name="pm_mpp">Manage Packages and Price</string>
+    <string name="pm_gi">Generate Invoice</string>
+    <string name="pm_global_setting">Global Setting</string>
+    <string name="pm_ref">Refresh</string>
+    <string name="pm_logout">Logout</string>
+
+    <!-- Dhara -->
+    <string name="str_Pending">Pending</string>
+    <string name="str_Approved">Approved</string>
+    <string name="str_edit">Edit</string>
+    <string name="str_please_wait">please wait</string>
+    <string name="oo_invoice_po">PO</string>
+    <string name="oo_invoice_co">CO</string>
+    <string name="oo_invoice_cba">CBA</string>
+    <string name="oo_invoice_cbu">CBU</string>
+    <string name="oo_invoice_tb">TB</string>
+    <string name="oo_invoice_nop">NOP</string>
+     <string name="oo_invoice_bc">BC</string>
+    <string name="oo_invoice_modulo">%</string>
+    <string name="oo_invoice_rpo">RPO</string>
+    <string name="oo_invoice_fo">FO</string>
+    <string name="oo_invoice_nswt">NSWT</string>
+    <string name="oo_invoice_nsat">NSAT</string>
+    <string name="oo_invoice_ulp">ULP</string>
+    <string name="str_sa_fname">First Name</string>
+    <string name="str_sa_ed_fname">Enter First Name</string>
+    <string name="str_sa_lname">Last Name</string>
+    <string name="str_sa_ed_lname">Enter Last Name</string>
+    <string name="str_sa_min_lp_to_redeem">Minimum Loyalty Point(s) to Redeem</string>
+    <string name="str_sa_ed_min_lp_to_redeem">Enter Minimum Loyalty Point(s) to Redeem</string>
+    <string name="str_sa_max_lp_to_redeem">Maximum Loyalty Point(s) to Redeem</string>
+    <string name="str_sa_ed_max_lp_to_redeem">Enter Maximum Loylty Point(s) to Redeem</string>
+    <string name="str_sa_lp_to_tg_customer">Rewarded Loyalty Point to Customer</string>
+    <string name="str_sa_ed_lp_to_tg_customer">Enter Rewarded Loyalty Point to Customer</string>
+    <string name="str_sa_lp_equals_to_lei">Loyalty Point Equals to lei</string>
+    <string name="str_sa_ed_lp_equals_to_lei">Enter Loyalty Point Equals to lei</string>
+    <string name="str_sa_booking_time_limit">Booking Time Limit</string>
+    <string name="str_sa_ed_booking_time_limit">Enter Booking Time Limit</string>
+    
+    <string name="str_sa_oo_percentage">OO Percentage</string>
+    <string name="str_sa_ed_oo_percentage">Enter OO Percentage</string>
+    <string name="btn_update">Update</string>
+    <string name="str_global_setting">Global Setting</string>
+    <string name="str_sa_email">Email</string>
+    <string name="str_All">All</string>
+    <string name="str_To_be_Approved">To be Approved</string>
+    <string name="str_ok">OK</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="update_button">actualizare</string>
+    <string name="title_activity_activity_restaurant_category">Activity_restaurant_category</string>
+    
+    <string name="hello">Hello</string>
+    <string name="str_manage">Manage Restaurant Category</string>
+    <string name="str_add">Add</string>
+    <string name="str_current_pwd">Current password can not be blank.</string>
+    <string name="str_new_pwd">New password can not be blank.</string>
+    <string name="str_confirm_pwd">Confirm password can not be blank.</string>
+    
+    <string name="str_Confirm">Confirm</string>
+    <string name="str_clear">Clear</string>
+    
+    <string name="str_search_rest">Search Restaurant</string>
+    
+    <string name="contact_gi_email">Contact Email</string>
+    <string name="str_contact_number">Contact Number</string>
+    <string name="str_current_package">Current Package</string>
+    <string name="str_requested_package">Requested Package</string>
+    <string name="str_package_amount">Package Amount</string>
+    <string name="str_decline_button">Decline</string>
+    <string name="str_approve_button">Approve</string>
+
+	<string name="gi_title_request">Request Update Package</string>
+	<string name="str_rquest_update_package">Request Update Package</string>
+	
+	<string name="mc_nodata">No Record found</string>
+		<string name="package_date">Date</string>
+		<string name="update_package">Update package approval</string>
+		<string name="update_package_message">Are you Sure that you want to update the package for this restaurant.</string>
+		
+<!-- 		2/10******* -->
+    <string name="mpp_tgtitle">Grab Table</string>
+        <string name="mpp_pd">Package Description</string>
+    
+
+</resources>

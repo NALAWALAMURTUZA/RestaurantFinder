@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#c8d8fc"
+	android:orientation="vertical" >
+
+	<LinearLayout
+		android:id="@+id/rf_about_us_header"
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		android:layout_weight="10"
+		android:background="#83a1e1"
+		android:gravity="center"
+		android:orientation="horizontal" >
+
+		<ImageView
+			android:id="@+id/rf_about_us_back_arrow"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="left|center"
+			android:contentDescription="@string/Blank"
+			android:layout_weight="2"
+			android:visibility="invisible"
+			android:src="@drawable/back_img" />
+
+		<TextView
+			android:id="@+id/rf_about_us_header_name"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_weight="7"
+			android:gravity="center"
+			android:text="@string/abt_rest_txt"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textColor="@android:color/white" />
+
+		<ImageView
+			android:id="@+id/rf_about_us_menu_icon"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="left|center"
+			android:layout_weight="2"
+			android:visibility="visible"
+			android:src="@drawable/rf_home_menu_icon"
+			 />
+	</LinearLayout>
+
+<!-- 	<LinearLayout -->
+<!-- 		android:id="@+id/LinearLayout01" -->
+<!-- 		android:layout_width="match_parent" -->
+<!-- 		android:layout_height="0dp" -->
+<!-- 		android:layout_weight="90" -->
+<!-- 		android:background="#c8d8fc" -->
+<!-- 		android:orientation="vertical" > -->
+
+		<LinearLayout
+			android:id="@+id/rf_about_us_tital"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="10"
+			android:background="#ffffff"
+			android:gravity="center"
+			android:orientation="horizontal" >
+
+			<TextView
+				android:id="@+id/rf_abt_rest_rest_name"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:ems="10"
+				android:gravity="center"
+				android:padding="5dp"
+				android:textColor="#162880"
+				android:text=""
+				android:textSize="20sp" />
+		</LinearLayout>
+
+		<ScrollView
+		    android:id="@+id/abt_rest_details_scrollview"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:layout_weight="80" >
+			
+		    <LinearLayout 
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:orientation="vertical">
+		        
+		   
+		    <LinearLayout
+		        android:id="@+id/set_menu_linear" 
+		        android:layout_width="match_parent"
+		        android:layout_height="0dp"
+		        android:layout_weight="30"
+		        android:layout_marginTop="10dp"
+		        android:background="#ffffff"
+		        android:orientation="vertical">
+		        
+		        <TextView
+					android:id="@+id/setmenu_txt"
+					android:layout_width="wrap_content"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:gravity="center"
+					android:layout_gravity="center"
+					android:textColor="#162880"
+					android:textStyle="bold"
+					android:text="@string/set_menu" />
+		        
+		        <TextView
+					android:id="@+id/setmenu_starters_txt"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:gravity="center"
+					android:layout_marginLeft="20dp"
+					android:layout_marginRight="20dp"
+					android:background="@drawable/roundcorner_cart"
+					android:textColor="#162880"
+					android:text="" />
+		        
+		        <TextView
+					android:id="@+id/setmenu_maincoarse_txt"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:layout_marginLeft="20dp"
+					android:layout_marginRight="20dp"
+					android:gravity="center"
+					android:background="@drawable/roundcorner_cart"
+					android:textColor="#162880"
+					android:text="" />
+		        
+		        <TextView
+					android:id="@+id/setmenu_deserts_txt"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:gravity="center"
+					android:layout_marginLeft="20dp"
+					android:layout_marginRight="20dp"
+					android:layout_marginBottom="20dp"
+					android:background="@drawable/roundcorner_cart"
+					android:textColor="#162880"
+					android:text="" />
+		        
+		        
+		        
+		    </LinearLayout>
+		    
+		    <LinearLayout
+		        android:id="@+id/drinks_linear" 
+		        android:layout_width="match_parent"
+		        android:layout_height="0dp"
+		        android:layout_weight="20"
+		        android:layout_marginTop="10dp"
+		        android:background="#ffffff"
+		        android:orientation="vertical">
+		        
+		        <TextView
+					android:id="@+id/drinks_txt"
+					android:layout_width="wrap_content"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:gravity="center"
+					android:layout_gravity="center"
+					android:textColor="#162880"
+					android:textStyle="bold"
+					android:text="@string/drinks" />
+		        
+		        <TextView
+					android:id="@+id/drinks_various_txt"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_marginLeft="20dp"
+					android:layout_marginRight="20dp"
+					android:layout_marginBottom="20dp"
+					android:gravity="center"
+					android:background="@drawable/roundcorner_cart"
+					android:textColor="#162880"
+					android:text="" />
+		        
+		        
+		        
+		    </LinearLayout>
+		    
+		    <LinearLayout
+		        android:id="@+id/few_words_linear" 
+		        android:layout_width="match_parent"
+		        android:layout_height="0dp"
+		        android:layout_weight="10"
+		        android:layout_marginTop="10dp"
+		        android:background="#ffffff"
+		        android:visibility="visible"
+		        android:orientation="vertical">
+		        
+		        <TextView
+					android:id="@+id/few_words_static_txt"
+					android:layout_width="wrap_content"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:gravity="center"
+					android:layout_gravity="center"
+					android:textColor="#162880"
+					android:textStyle="bold"
+					android:text="@string/few_words_abt_rest" />
+		        
+		         <TextView
+					android:id="@+id/few_words_comment_txt"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:layout_marginLeft="20dp"
+					android:layout_marginRight="20dp"
+					android:layout_marginBottom="20dp"
+					android:gravity="center"
+					android:background="@drawable/roundcorner_cart"
+					android:textColor="#162880"
+					android:text="" />
+		        
+		        <TextView
+					android:id="@+id/comment_txt"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:gravity="left|center"
+					android:textColor="#162880"
+					android:visibility="gone"
+					android:text="" />
+		        
+		        
+		    </LinearLayout>
+		
+			<LinearLayout
+			    android:id="@+id/services_linear"
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:layout_weight="20"
+				android:layout_marginBottom="10dp"
+				android:orientation="vertical" >
+		        
+			    <TextView
+					android:id="@+id/cuisine_txt"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:gravity="left|center"
+					android:textColor="#162880"
+					android:text="" />
+				
+			    <TextView
+					android:id="@+id/lunch_timing_txt"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:gravity="left|center"
+					android:textColor="#162880"
+					android:text="" />
+			
+			    
+			    <TextView
+					android:id="@+id/dinner_timing_txt"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:gravity="left|center"
+					android:textColor="#162880"
+					android:text="" />
+			
+			    <TextView
+					android:id="@+id/services_txt"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:gravity="left|center"
+					android:textColor="#162880"
+					android:text="" />
+			
+
+				<TextView
+					android:id="@+id/accepted_creditcards_txt"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_marginTop="5dp"
+					android:gravity="left|center"
+					android:textColor="#162880"
+					android:text="" />
+			</LinearLayout>
+			
+			   </LinearLayout>
+			
+		</ScrollView>
+		
+		
+		
+		 <LinearLayout
+                android:id="@+id/ly_No_abt_rest"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="90"
+                android:background="#F2F2F2"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/Blank"
+                    android:src="@drawable/search_not_inf" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/No_abt_restaurant"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+           
+        </LinearLayout>
+		
+		
+<!-- 	</LinearLayout> -->
+
+</LinearLayout>

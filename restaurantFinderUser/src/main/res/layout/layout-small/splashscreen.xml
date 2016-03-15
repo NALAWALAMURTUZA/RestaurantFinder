@@ -1,0 +1,235 @@
+<!-- <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" -->
+<!--     xmlns:tools="http://schemas.android.com/tools" -->
+<!--     android:layout_width="match_parent" -->
+<!--     android:layout_height="wrap_content" -->
+<!--     android:background="@drawable/background" -->
+<!--     android:orientation="vertical" -->
+<!--     tools:context=".Splashscreen" > -->
+ <ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+               xmlns:tools="http://schemas.android.com/tools"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+           
+            >
+
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+            android:background="@drawable/background"
+         android:orientation="vertical" >
+
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_gravity="center"
+   android:layout_weight="1">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/wjbty_logo" 
+        android:layout_gravity="center"
+        android:contentDescription="@string/Blank"/>
+    
+</LinearLayout>
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="bottom|center"
+   android:layout_weight="0.3"
+   android:layout_marginTop="10dp"
+   >
+
+    <EditText
+        android:id="@+id/username_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/password"
+        android:gravity="left|center"
+        android:hint="@string/spl_Username"
+        android:inputType="textPersonName"
+         >
+
+        <requestFocus />
+    </EditText>
+    
+</LinearLayout>
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="bottom|center"
+    android:layout_marginTop="10dp"
+   android:layout_weight="0.3"
+   >
+
+    <EditText
+        android:id="@+id/password_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/password"
+        android:gravity="left|center"
+        android:hint="@string/spl_Password"
+        android:inputType="textPassword"
+        android:padding="10dp" />
+    
+</LinearLayout>
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="bottom|center"
+    android:layout_marginTop="10dp"
+   android:layout_weight="0.3"
+   >
+
+    <ImageView
+        
+        android:id="@+id/spl_login_img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/login" 
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="#da101f"
+          android:layout_gravity="top|center"
+        android:contentDescription="@string/Blank"/>
+    
+</LinearLayout>
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginTop="10dp"
+   android:layout_weight="0.3"
+   >
+
+    <TextView
+        android:id="@+id/or_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/spl_Or"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+</LinearLayout>
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginTop="10dp"
+   android:layout_weight="0.3"
+   >
+<ImageView
+        android:id="@+id/spl_register_img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/login" 
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+          android:layout_gravity="top|center"
+          android:background="#da101f"
+        android:contentDescription="@string/Blank"/>
+
+
+    
+</LinearLayout>
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:layout_marginTop="10dp"
+   android:layout_weight="0.3"
+   >
+<TextView
+    android:id="@+id/forget_password_textview"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/spl_FORGET_PASSWORD"
+    android:textColor="@android:color/white"
+    android:textAppearance="?android:attr/textAppearance" />
+</LinearLayout>
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginTop="5dp"
+   >
+ <ImageView
+        android:id="@+id/line_img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:contentDescription="@string/Blank"
+        android:src="@drawable/line" />
+</LinearLayout>
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center"
+   android:layout_weight="1">
+<LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginRight="15dp"
+    android:gravity="right|center">
+    <ImageView
+        android:id="@+id/facebook_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:contentDescription="@string/Blank"
+        android:src="@drawable/facebook" />
+    </LinearLayout>
+    <LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center">
+    <ImageView
+        android:id="@+id/tweeter_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:contentDescription="@string/Blank"
+        android:src="@drawable/tweeter" />
+    </LinearLayout>
+    <LinearLayout 
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginLeft="15dp"
+    android:gravity="left|center">
+    <ImageView
+        android:id="@+id/google_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:contentDescription="@string/Blank"
+        android:src="@drawable/google" />
+    </LinearLayout>
+    
+</LinearLayout>
+</LinearLayout>
+</ScrollView>
+<!-- </LinearLayout> -->

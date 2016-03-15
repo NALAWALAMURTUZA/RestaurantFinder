@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="google_play_services_version">8115000</integer>
+
+    <string name="app_name">Restaurant Admin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>zzz
+    <string name="No_Internet_Connection">No Internet Connection</string>
+    <string name="Blank">Blank</string>
+    <!-- Login -->
+    <string name="str_rf_login_tv_username">Username</string>
+    <string name="str_rf_login_tv_password">Password</string>
+    <string name="rf_rememberme">Remember Me?</string>
+    <string name="str_rf_login_ed_username">Enter Email as UserName</string>
+    <string name="str_rf_login_ed_password">Enter Password</string>
+    <string name="str_rf_login_tv_forgetpass"><u>Forgot Your Password?</u></string>
+    <string name="rf_login_dont">Don\'t have a Restaurant Finder account yet?</string>
+    <string name="rf_login_rg_free">REGISTER HERE FOR FREE </string>
+    <!-- Bank Account No -->
+    <string name="str_frm">Format</string>
+    <string name="str_french">French</string>
+    <string name="str_iban">IBAN</string>
+    <string name="str_bic">BIC</string>
+    <string name="str_hint">you must be the account holder or you should have the necessary power to act on behalf of an account holder</string>
+    <string name="str_hint1">To receive SMS code to sign the mandate... please confirm your mobile phone number.</string>
+    <string name="str_num">Actual mobile phone</string>
+    <string name="str_email">Actual Email Address</string>
+    <string name="title_activity_registration_step2_">Registration_step2_Activity</string>
+
+    <!-- Regis step 1 -->
+    <string name="Registration">Registration</string>
+    <string name="str_rf_registration_tv_you">You</string>
+    <string name="str_rf_registration_your_restaurant">Your Restaurant</string>
+    <string name="str_rf_registration_tv_fname">Your First Name</string>
+    <string name="str_rf_registration_fname">First Name</string>
+    <string name="str_rf_registration_tv_lname">Your Last Name</string>
+    <string name="str_rf_registration_lname">Last Name</string>
+    <string name="str_rf_registration_tv_pwd">Password</string>
+    <string name="str_rf_registration_tv_pwd_retype">Retype Password</string>
+    <string name="str_rf_registration_email">Email</string>
+    <string name="str_rf_registration_phone">Phone</string>
+    <string name="str_rf_registration_tv_country">Country</string>
+    <string name="str_rf_registration_tv_region">Region</string>
+    <string name="str_rf_registration_tv_district">District</string>
+    <string name="str_rf_registration_tv_restaurant">Restaurant Name</string>
+    <string name="str_rf_registration_tv_remail">Restaurant Email</string>
+    <string name="str_rf_registration_tv_rphone">Restaurant Phone</string>
+    <string name="str_rf_registration_tv_add">Address</string>
+    <string name="str_rf_registration_tv_zip_code">Zip Code</string>
+    <string name="str_rf_registration_tv_city">City</string>
+    <string name="str_rf_registration_tv_website">Website</string>
+    <string name="str_rf_registration_tv_made_deliver">How many reservations are made daily?</string>
+    <string name="str_rf_registration_ed_fname">Enter Your First Name</string>
+    <string name="str_rf_registration_ed_lname">Enter Your Last Name</string>
+    <string name="str_rf_registration_ed_pwd">Enter Password</string>
+    <string name="str_rf_registration_ed_pwd_retype">Retype Password</string>
+    <string name="str_rf_registration_rdo_male">Male</string>
+    <string name="str_rf_registration_ed_female">Female</string>
+    <string name="str_rf_registration_sp_counrty">Enter Country</string>
+    <string name="str_rf_registration_ed_restaurant">Enter Restaurant Name</string>
+    <string name="str_rf_registration_ed_remail">Enter Restaurant Email</string>
+    <string name="str_rf_registration_ed_special_note">Special Note</string>
+    <string name="str_rf_registration_ed_rphone">Enter Phone Number</string>
+    <string name="str_rf_registration_ed_add">Enter Restaurant Address</string>
+    <string name="str_rf_registration_ed_zip_code">Enter Zipcode</string>
+    <string name="str_rf_registration_ed_city">Enter City</string>
+    <string name="str_rf_registration_ed_website">Enter Restuarant Website</string>
+    <string name="str_rf_registration_ed_made_deliver">How many order Deliveries?</string>
+    <string name="str_rf_registration_btn_continue">Continue</string>
+    <string name="str_rf_registration_btn_map">Map</string>
+    <string name="str_rf_registration_step1">Step 1</string>
+    <string name="str_rf_registration_step2">Step 2</string>
+    <string name="str_rf_registration_step3">Step 3</string>
+    <string name="str_rf_registration_step4">Step 4</string>
+
+    <!-- Regis step 2 -->
+    <string name="str_rf_regi_step2_tv_reg">Registration</string>
+    <string name="str_rf_regi_step2_tv_thank">⁫Thank You for choosing Restaurant Finder</string>
+    <string name="str_rf_regi_step2_tv_que">Questions? Don\'t hasitate to contact us at   423 123 4553</string>
+    <string name="str_rf_regi_step2_tv_no">+40 756 216 997</string>
+    <string name="str_rf_regi_step2_tv_step">Step 2/4 You are still in charge! Set your own parameters</string>
+    <string name="str_rf_regi_step4_tv_step">Step 4/4 Packages and Payment</string>
+    <string name="str_rf_regi_step2_tv_youhave">You have on time commitment and only one requirement: treat the customer we send you to have them delicious \n
+        									 meal. Registration will not take long time.</string>
+    <string name="tv_rf_registration_title">Title</string>
+    <string name="tv_rf_registration_latitude">Latitude</string>
+    <string name="str_rf_registration_ed_latitude">Enter Latitude</string>
+    <string name="tv_rf_registration_longitude">Longitude</string>
+    <string name="str_rf_registration_ed_longitude">Enter Longitude</string>
+    <string name="str_rf_regi_step2_rb_mr">Mr</string>
+    <string name="str_rf_regi_step2_rb_mrs">Mrs</string>
+    <string name="str_rf_regi_step2_rb_miss">Miss</string>
+    <string name="str_rf_regi_step2_tv_dont">Don\'t worry moving fast</string>
+    <string name="rf_regi_step2_textview6">Your booking is general</string>
+    <string name="str_rf_regi_step4_dont">Congratulation... Its over</string>
+    <string name="str_rf_regi_step4_free">Free</string>
+    <string name="str_rf_regi_step3_tv1">Your online booking</string>
+    <string name="str_rf_regi_step2_tv2">Comments</string>
+    <string name="str_rf_regi_step4_online">(Online booking fees not included)</string>
+    <string name="str_rf_regi_step4_tv1">This tool is ideal to manage your image and availability 
+        								 online.</string>
+    <string name="str_rf_regi_step4_pro">PRO +</string>
+    <string name="str_rf_regi_step4_tax">89.00 excl.tax/month</string>
+    <string name="str_rf_regi_step4_gold">GOLD</string>
+    <string name="rf_regi_step2_textview7">Opening Date and hours</string>
+    <string name="rf_regi_step2_textview8">Monday</string>
+    <string name="rf_regi_step2_textview9">Tuesday</string>
+    <string name="rf_regi_step2_textview10">Wednesday</string>
+    <string name="rf_regi_step2_textview11">Thursday</string>
+    <string name="rf_regi_step2_textview12">Friday</string>
+    <string name="rf_regi_step2_textview13">Saturday</string>
+    <string name="rf_regi_step2_textview14">Sunday</string>
+    <string name="rf_regi_step2_textview15">Meal opening Time</string>
+    <string name="rf_regi_step2_textview16">Latest Time until when booking is accepted</string>
+    <string name="rf_regi_step2_textview17">Lunch</string>
+    <string name="rf_regi_step2_textview18">Dinner</string>
+    <string name="rf_regi_step2_textview19">How many seats dose your restaurant have?</string>
+    <string name="rf_regi_step2_textview20">What is your average bill?(all mills combined)</string>
+    <string name="rf_regi_step2_textview21">The following allows you to configure different 
+                                             business hours for each day from your admin panel</string>
+    <string name="rf_regi_step2_seatsnum">Enter Number of seats</string>
+    <string name="rf_regi_step2_overbill"></string>
+    <string name="rf_regi_step2_textview22">Your online booking</string>
+    <string name="rf_regi_step2_textview23">Are you willing to receive "last minute" booking?</string>
+    <string name="rf_regi_step2_textview24">Facility</string>
+    <string name="rf_regi_step2_radiobutton1">Yes</string>
+    <string name="rf_regi_step2_radiobutton2">No</string>
+    <string name="rf_regi_step2_radiobutton3">Pick up</string>
+    <string name="rf_regi_step2_radiobutton4">Delivery</string>
+    <string name="rf_regi_step2_radiobutton5">Both</string>
+    <string name="rf_regi_step2_textview1">Registration</string>
+    <string name="str_rf_open">Opening Days and hours</string>
+    <!-- Regis step 2 -->
+
+    <string name="daybefore">Day Before</string>
+    <string name="mto_order">Order</string>
+    <string name="mto_1before">Day Before</string>
+
+    <string-array name="array_mto">
+        <item>Order 0 Day Before</item>
+        <item>Order 1 Day Before</item>
+        <item>Order 2 Day Before</item>
+        <item>Order 3 Day Before</item>
+        <item>Order 4 Day Before</item>
+        <item>Order 5 Day Before</item>
+        <item>Order 6 Day Before</item>
+        <item>Order 7 Day Before</item>
+    </string-array>
+
+    <string name="str_rf_mon">Mon</string>
+    <string name="str_rf_tue">Tue</string>
+    <string name="str_rf_wed">Wed</string>
+    <string name="str_rf_thu">Thu</string>
+    <string name="str_rf_fri">Fri</string>
+    <string name="str_rf_sat">Sat</string>
+    <string name="str_rf_sun">Sun</string>
+    <string name="str_rf_lunch">Lunch</string>
+    <string name="str_rf_din">Dinner</string>
+    <string name="str_rf_meal">Meal Opening Time</string>
+    <string name="str_rf_time">Latest Time until when booking is accepted</string>
+    <string name="str_rf_how">How many seats does your restaurant have?</string>
+    <string name="str_rf_covers">Covers</string>
+    <string name="str_rf_the">The following allows you to configure different
+        					  business hours for each day from your admin panel</string>
+    <string name="str_rf_no1">15</string>
+    <string name="str_rf_what">What is your average bill?(all meals combined)</string>
+    <string name="str_rf_no2">100</string>
+    <string name="ed_add_comments">About Restaurant</string>
+    <string name="str_rf_regi_step3_tv_cuisine">Cuisine</string>
+    <string name="str_rf_regi_step3_ed_veg">Enter Vegetarian</string>
+    <string name="str_rf_regi_step3_tv_strng">Your restaurant\'s Strong Point</string>
+    <string name="str_rf_regi_step3_ed_strng">Enter restaurant\'s strong point</string>
+    <string name="str_rf_regi_step3_tv_special">A Special anecdote</string>
+    <string name="str_rf_regi_step3_ed_purity">Enter anecdote</string>
+    <string name="str_rf_regi_step3_tv_service">Service</string>
+    <string name="str_rf_regi_step3_tv_select_service">Select Service</string>
+    <string name="str_rf_regi_step3_tv_select_cards">Select Cards</string>
+    <string name="str_rf_regi_step3_tv_credit">Accepted Credit Cards</string>
+    <string name="str_rf_regi_step3_tv_setmenu">Set Menu</string>
+    <string name="str_rf_regi_step3_tv_exceprt">An excerpt from your menu</string>
+    <string name="rf_regi_step3_tv_dishname">Dish name</string>
+    <string name="str_rf_regi_step3_tv_price">Price</string>
+    <string name="str_rf_regi_step3_tv_starter1">Starter 1</string>
+    <string name="str_rf_regi_step3_tv_starter2">Starter 2</string>
+    <string name="str_rf_regi_step3_tv_starter3">Starter 3</string>
+    <string name="str_rf_regi_step3_ed_starter1">Enter Dish Name</string>
+    <string name="str_rf_regi_step3_ed_price1">12.00</string>
+    <string name="str_rf_regi_step3_ed_course1">Baked Cheesy broccoli pasta</string>
+    <string name="str_rf_regi_step3_tv_course1">Main Course 1</string>
+    <string name="str_rf_regi_step3_tv_course2">Main Course 2</string>
+    <string name="str_rf_regi_step3_tv_course3">Main Course 3</string>
+    <string name="str_rf_regi_step3_ed_course2">Fennel lemon risotto</string>
+    <string name="str_rf_regi_step3_ed_price2">35.00</string>
+    <string name="str_rf_regi_step3_tv_dessert1">Dessert 1</string>
+    <string name="str_rf_regi_step3_tv_dessert2">Dessert 2</string>
+    <string name="str_rf_regi_step3_ed_dessert1">Vegan Brownies</string>
+    <string name="str_rf_regi_step3_ed_dessert2">Egg free Chocolate Cake</string>
+    <string name="str_rf_regi_step3_tv_dessert3">Dessert 3</string>
+    <string name="rf_regi_step3_drink">Drink</string>
+    <string name="str_rf_regi_step3_glass_wine">Price of a glass of wine</string>
+    <string name="str_rf_regi_step3_min">Minimum</string>
+    <string name="str_rf_regi_step3_max">Maximum</string>
+    <string name="str_rf_regi_step3_champ_glass">Glass</string>
+    <string name="str_rf_regi_step3_champ_bottle">Bottle</string>
+    <string name="str_rf_regi_step3_litterbootle">1 L</string>
+    <string name="str_rf_regi_step3_halfbootle">&#189; L</string>
+    <string name="str_rf_regi_step3_bot_wine">Price of a bottle of wine</string>
+    <string name="str_rf_regi_step3_stl_wtr">Price of bottle of Water</string>
+    <string name="str_rf_regi_step3_tv_cofee">Price of a Cup of Coffee</string>
+    <string name="str_rf_regi_step3_stl_wtr1">Minimum price of a champagne</string>
+    <string name="str_rf_regi_step3_tv_comment">Comments</string>
+    <string name="str_rf_regi_step3_calcel"><u>Cancel</u></string>
+    <string name="str_rf_regi_step3_btn_contn">Continue</string>
+    <string name="str_rf_regi_step3_popup_title">Service</string>
+    <string name="str_rf_regi_step3_popup_creditcards">Credit Cards</string>
+
+    <!-- step4.. -->
+    <string name="str_rf_regi_step4_choice">Choice of the package</string>
+    <string name="str_rf_regi_step4_payment">Payment Method</string>
+    <string name="str_rf_regi_step4_tv3">The only payment method accepted for payment of your bill is SEPA</string>
+    <string name="str_rf_regi_step4_tv5">Fill in your billing information,and then you will be redirected to a
+        								 secure page to fill in your bank details and so finish your registration</string>
+    <string name="str_rf_registration_ed_amount">Enter Amount</string>
+    <string name="str_rf_regi_step4_corporate">Corporate name of the company</string>
+    <string name="str_rf_regi_step4_textid">Tax Identification Number</string>
+    <string name="str_rf_regi_step4_ed_fname">First Name</string>
+    <string name="str_rf_regi_step4_tv_fname">First name of legal representative (you)</string>
+    <string name="str_rf_regi_step4_tv_lname">Last name of legal representative (you)</string>
+    <string name="str_rf_regi_step4_ed_lname">Last Name</string>
+    <string name="str_rf_regi_step4_country">Country</string>
+    <string name="str_rf_regi_step4_region">Region</string>
+    <string name="str_rf_regi_step4_inoice">Invoice Address</string>
+    <string name="str_rf_regi_step4_city">City</string>
+    <string name="str_rf_regi_step4_district">District</string>
+    <string name="str_rf_regi_step4_inoice_add">Invoice Address</string>
+    <string name="str_rf_regi_step4_zipcod">Zipcode</string>
+    <string name="str_rf_regi_step4_billing">Billing Email</string>
+    <string name="str_rf_regi_step4_ch_billing_address">The address of my registered office is different from my billing address</string>
+    <string name="str_rf_regi_step4_comment">Comments</string>
+    <string name="str_rf_regi_step4_tv4">if you have any complain  </string>
+    <string name="str_rf_regi_step4_orat">or at</string>
+    <string name="str_rf_regi_step4_tv6">support@restaurantfinder.ro</string>
+    <string name="str_rf_regi_step4_cancel"><u>Cancel</u></string>
+    <string name="str_bank_acc_det_btn_validate">Cancel</string>
+    <string name="str_rf_regi_step4_no">+40 756 216 997</string>
+    <string name="title_activity_registration_step3_">Registration_step3_Activity</string>
+    <string name="title_activity_registration_step4">Registration_step4Activity</string>
+    <string name="ed_bic">Enter BIC</string>
+    <string name="editText2">Enter IBAN</string>
+    <string name="ed_email">Enter Email</string>
+    <string name="btn_validate">Validate</string>
+
+    <string-array name="array_launch_openingtime">
+        <item>00:00</item>
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+        <item>24:00</item>
+    </string-array>
+    <string-array name="array_launch_closetime">
+        <item>00:00</item>
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+        <item>24:00</item>
+    </string-array>
+    <string-array name="array_credit_card">
+        <item>Credit Cards</item>
+        <item>Master Cards</item>
+        <item>Visa</item>
+    </string-array>
+
+    <!-- **************dhamo -->
+
+    <string name="rf_admin_header_name">Home Screen</string>
+    <string name="rf_tv_manage_booking_name">Manage Bookings</string>
+    <string name="rf_tv_take_booking_name">Take Booking</string>
+    <string name="rf_admin_tv_manage_customer">Manager Customers</string>
+    <string name="rf_admin_tv_all_booking">All Bookings</string>
+    <string name="rf_admin_feedback">Manage Feedback</string>
+    <string name="rf_admin_logout">Logout</string>
+    <string name="rf_admin_presantation">Restaurant Presentation</string>
+    <string name="rf_admin_subscription">Change your Subscription</string>
+    <string name="rf_admin_tv_cart_and_set_menu">Cart And Set Menu</string>
+    <string name="rf_admin_photos">Manage Photos</string>
+    <string name="rf_admin_tv_statistics">Statistics</string>
+    <string name="rf_admin_global_setting">Global Settings</string>
+    <string name="rf_admin_tv_invoice_and_credit">Invoice And Credit</string>
+    <string name="rf_admin_tv_change_your_subscription">Change Your Subscription</string>
+    <string name="rf_admin_tv_food_order">Food Order</string>
+    <string name="rf_admin_tv_offer">Offer</string>
+    <string name="rf_admin_tv_manage_setting">Manage Settings</string>
+    <string name="rf_admin_tv_header_time">12:05 pm</string>
+    <string name="rf_supper_admin_header_name">Restaurant Bio french</string>
+    <string name="rf_admin_tv_table_no">Table No</string>
+    <string name="rf_admin_table_number">No TableNo</string>
+    <string name="rf_admin_status">Status</string>
+    <string name="rf_admin_detail">Detail</string>
+    <string name="rf_admin_booked">Booked</string>
+    <string name="rf_admin_confirmed">Confirmed</string>
+    <string name="rf_admin_tv_finish">Finish</string>
+    <string name="rf_admin_tv_cancel"><u>Cancel</u></string>
+    <string name="rf_admin_tv_special_note">Special Note</string>
+    <string name="rf_admin_tv_privacy_needed">Privacy Need</string>
+    <string name="rf_admin_tv_no_show">No Show</string>
+    <string name="rf_admin_header_tv_booking_list">Booking List</string>
+    <string name="rf_admin_header_tv_category">Category</string>
+    <string name="rf_admin_tv_french">French</string>
+    <string name="rf_admin_header_food">Food Order</string>
+    <string name="rf_admin_header_tv_add_food">Add Food</string>
+    <string name="rf_admin_tv_img">Image</string>
+    <string name="rf_admin_tv_name">Name</string>
+    <string name="rf_admin_tv_add_food_description">Description</string>
+    <string name="rf_admin_add_tv_food_code">Food Code</string>
+    <string name="rf_admin_tv_add_food_test_type">Taste Type</string>
+    <string name="rf_admin_tv_add_food_level_of_test">Level Of Taste</string>
+    <string name="rf_admin_tv_add_food_price">Price</string>
+    <string name="rf_admin_tv_add_food_subitem">sub Item</string>
+    <string name="rf_admin_tv_add_food_delete">Remove</string>
+    <string name="rf_admin_add_food_tv_price">Price</string>
+    <string name="rf_admin_tv_add_food_italian_food">Italian Food</string>
+    <string name="rf_admin_add_food_rf_5412">R5412</string>
+    <string name="rf_admin_tv_add_food_spicy">Spicy</string>
+    <string name="rf_admin_tv_add_food_level_1">Level 1</string>
+    <string name="rf_admin_tv_add_food_prices">Prices</string>
+    <string name="rf_admin_tv_add_test_type">Taste Type</string>
+    <string name="rf_admin_tv_add_description">Description</string>
+    <string name="title_activity_take_booking">Take Booking Activity</string>
+    <string name="title_activity_booking_list__tablayout">Booking List Table layout</string>
+    <string name="title_activity_online_table_">OnlineTable_Activity</string>
+
+    <!-- **********************online table grabbing -->
+    <string name="tg_loyalty_points">Used Loyalty Points :</string>
+
+    <string-array name="array_book_status">
+        <item>Booked</item>
+        <item>Confirmed</item>
+        <item>Finish</item>
+        <item>No Show</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="array_service_process">
+        <item>Pick up</item>
+        <item>Delivery</item>
+    </string-array>
+    <string-array name="array_payment_status">
+        <item>Paid</item>
+        <item>Not Paid</item>
+    </string-array>
+    <string-array name="array_meal">
+        <item>All</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+    <string-array name="array_online_order_status">
+        <item>Pending</item>
+        <item>In-Process</item>
+        <item>Dispatched</item>
+        <item>Delivered</item>
+        <item>Cancelled</item>
+        <item>Declined</item>
+    </string-array>
+
+    <string name="oo_orderdate">Order Date : </string>
+    <string name="oo_ordertime">Order Time : </string>
+    <string name="oo_orderno">Order Number : </string>
+    <string name="oo_orderstatus">Order Status : </string>
+    <string name="oo_service_process">Service Process :</string>
+    <string name="oo_payment_status">Payment Status :</string>
+    <string name="oo_comments">Comment :</string>
+    <string name="oo_service_charge">Service Charge :</string>
+    <string name="tg_details_title">Customer Details</string>
+    <string name="title_activity_manage_gallery">Manage Gallery Activity</string>
+
+    <!-- murtuza string 23 4 -->
+
+
+    <!-- Category -->
+    <!-- child food -->
+    <string name="rf_admin_ed_name">Name</string>
+
+    <string-array name="array_child_avaibility">
+        <item>Available</item>
+        <item>Not Available</item>
+    </string-array>
+    <string-array name="array_parent_level_of_test">
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+        <item>Level 4</item>
+     <!--    <item>Level 5</item> -->
+    </string-array>
+    <string-array name="array_parent_level">
+        <item>Spicy</item>
+        <item>Sweet</item>
+        <item>Sour</item>
+        <item>Bitter</item>
+        <item>Salty</item>
+        <item>Umami</item>
+    </string-array>
+    <string-array name="array_parent_vag_nonvag">
+        <item>Non-Veg</item>
+        <item>Veg</item>
+    </string-array>
+    <string-array name="array_takebooking_status">
+        <item>Pending</item>
+        <item>Confirmed</item>
+    </string-array>
+    <!-- TakeBooking -->
+    <!-- TEXTVIEW -->
+    <string name="tb_surname">Last Name</string>
+    <string name="tb_firstname">First Name</string>
+    <string name="tb_email">Email</string>
+    <string name="tb_phone">Phone</string>
+    <string name="tb_business">Business</string>
+    <string name="tb_date">Date</string>
+    <string name="tb_size">Size</string>
+    <string name="tb_time">Time</string>
+    <string name="tb_tableno">Table.no</string>
+    <string name="tb_note">Note</string>
+    <string name="tb_status">Status</string>
+    <string name="tb_occasion">Occasion</string>
+    <string name="tb_mustendat">Must end at</string>
+    <string name="tb_donotmove">Do not move</string>
+    <string name="tb_meal_duration">Meal Duration</string>
+    <string name="tb_amount">Amount</string>
+    <string name="tb_attached_file">Attach file</string>
+    <string name="tb_booking">Booking</string>
+
+    <string-array name="meal_duration">
+        <item>1 Hour</item>
+        <item>2 Hours</item>
+        <item>3 Hours</item>
+        <item>4 Hours</item>
+        <item>5 Hours</item>
+        <item>6 Hours</item>
+    </string-array>
+    <!-- EDITTEXT -->
+
+    <string name="tb_enter_surname">Enter Last Name</string>
+    <string name="tb_enter_firstname">Enter First Name</string>
+    <string name="tb_enter_email">Enter Email</string>
+    <string name="tb_enter_phone">Enter Phone</string>
+    <string name="tb_enter_business">Enter Business</string>
+    <string name="tb_select_date">Select Date</string>
+    <string name="tb_select_size">Select Size</string>
+    <string name="tb_select_time">Select Time</string>
+    <string name="tb_enter_tableno">Enter Table Number</string>
+    <string name="tb_enter_note">Enter Note</string>
+    <string name="tb_select_status">Select Status</string>
+    <string name="tb_enter_Occasion">Enter Occasion</string>
+    <string name="tb_select_occasion">Select Occasion</string>
+    <string name="tb_number_size">Enter Number of Persons </string>
+    <string name="title_activity_cart_set_menu">Cart Set Menu Activity</string>
+
+    <!-- Cart set Menu -->
+    <string name="csm_title">Cart and Set Menu</string>
+    <string name="csm_dishname">Dish Name</string>
+    <string name="csm_price">Price</string>
+    <string name="csm_drinks">Drinks</string>
+    <string name="csm_confirm">Confirm</string>
+    <string name="csm_cancel">Cancel</string>
+    <string name="csm_menu_descr">AN EXCERPT FROM YOUR MENU</string>
+    <string name="csm_menu_descr1">Here, Please Share dishes that represents what your menu has to offer.</string>
+    <string name="csm_menu_checkbox">The Restaurant Offers mainly Set Menus(There is one set price for the deserts and main course)</string>
+    <string name="title_activity_online_order_order_details">Online Order Details Activity</string>
+
+    <!-- OnlineOrderOrderDetails -->
+    <string name="ood_title">Order Details</string>
+    <string name="receipt_invoice">INVOICE</string>
+    <string name="receipt_pay_invoice">Pay Invoice</string>
+    <string name="receipt_customer_name">Customer Name</string>
+    <string name="receipt_Date">November 12,2014</string>
+    <string name="receipt_Email">Email :</string>
+    <string name="receipt_customer_Email">jtt.meghraj@gmail.com</string>
+    <string name="receipt_Contact_no">Contact Number :</string>
+    <string name="receipt_Payment_status_title">Status :</string>
+    <string name="receipt_Payment_status">Waiting(Cash on Delivery)</string>
+    <string name="receipt_customerContact_no">123456789</string>
+    <string name="receipt_items_name">Items Name</string>
+    <string name="receipt_items_qty">QTY</string>
+    <string name="receipt_items_price">Price</string>
+    <string name="receipt_items_total">Total</string>
+    <string name="receipt_spicylevel">Spicy</string>
+    <string name="receipt_thanks">Thank You For Buying Our Products.</string>
+    <string name="receipt_customer_address">Test house test street Jeddah
+                                            Al Sala Jeddah western Saudi Arabia(1234)</string>
+    <string name="tab_Contact_Details">Contact Details</string>
+    <string name="tab_Payment">Payment</string>
+    <string name="tab_Reciept">Receipt</string>
+    <string name="checkout_mobile_verify">You have to Verify your contact details and order number to pick up this order</string>
+
+    <!-- seven checkout delivery screen 3 -->
+    <string name="checkout_used_saved_address">test house
+                                                  test street
+                                                  Al Bawadi,Jeddah(western)
+                                                  Saudi Arabia</string>
+    <string name="payment_Delivery_charge">Delivery Charge :</string>
+    <string name="payment_Sr">SR 3000</string>
+    <string name="payment_Total">Total :</string>
+    <string name="payment_Offer">Best Offer For You</string>
+    <string name="payment_test_Offer">Test Offer</string>
+    <string name="payment_Offer_discount">10%</string>
+    <string name="payment_Offer_apply">Apply</string>
+    <string name="payment_Method">Please Select Payment Method</string>
+    <string name="payment_Method_select">Cash on Delivery</string>
+    <string name="payment_Continue_to_next">Continue to Next Step</string>
+    <string name="payment_Offer_discount_order">Discount On Order</string>
+    <string name="payment_rawfile_index">1.</string>
+    <string name="payment_rawfile_item_name">Chicken Noodle Soup</string>
+    <string name="payment_rawfile_item_quantity">4</string>
+    <string name="payment_rawfile_item_SR">SR 300</string>
+    <string name="payment_Offer_discount_details">One Piece 4 Lei.The order no earlier than 24 Piece</string>
+    <string name="title_activity_grab_table_profile">Grab Table Profile Activity</string>
+    <!-- popupfilter -->
+    <string name="pfoo_order_status">Order Status</string>
+    <string name="pfoo_pending">Pending</string>
+    <string name="pfoo_confirme">Confirmed</string>
+    <string name="pfoo_cancel">Cancelled</string>
+    <string name="pfoo_service_type">Service Process</string>
+    <string name="pfoo_pickup">Pick up</string>
+    <string name="pfoo_delivery">Delivery</string>
+    <string name="pftg_shift">Shift</string>
+    <string name="pftg_all">All</string>
+    <string name="pftg_launch">Lunch</string>
+    <string name="pftg_dinner">Dinner</string>
+    <string name="title_activity_restaurant_prasentation">Restaurant Presentation Activity</string>
+
+    <!-- rest presentation -->
+    <string name="rp_day_holiday">OPENNING DAYS AND HOLIDAYS PERIOD</string>
+    <string name="rp_title">Restaurant Presentation</string>
+    <string name="rp_cusine">Cuisine</string>
+    <string name="rp_service">Service</string>
+    <string name="rp_creditcards">Accepted credit cards</string>
+    <string name="rp_confirme">Confirm</string>
+    <string name="rp_cancel">Cancel</string>
+    <string name="title_activity_all_booking">All Booking Activity</string>
+    <string name="title_activity_manage_customers">Manage Customers Activity</string>
+
+    <!-- All Bookings -->
+    <string name="ab_title">All Bookings</string>
+    <string name="ab_all">All</string>
+    <string name="ab_oo">Online Table</string>
+    <string name="ab_tg">Table Grabbing</string>
+    <string name="ab_selectdate">Select Date</string>
+    <string name="ab_search">Search</string>
+    <string name="ab_date">Date</string>
+    <string name="ab_type">Booking Type</string>
+    <string name="ab_name">Name</string>
+    <string name="ab_per">Number of Persons</string>
+    <string name="ab_noper">Not applicable</string>
+    <string name="ab_status">Status</string>
+    <string name="ab_action">Action</string>
+
+    <!-- Manage customers -->
+    <string name="mc_title">Manage Customers</string>
+    <string name="mc_pdf">Export to PDF</string>
+    <string name="mc_Sr_No">Sr.No</string>
+    <string name="mc_search_hint">Customer name, Email, Phone</string>
+    <string name="mc_customer_name">Customer</string>
+    <string name="mc_customer_phoneno">Phone Number</string>
+    <string name="mc_customer_email">Email</string>
+    <string name="mc_customer_business">Business</string>
+    <string name="mc_customer_ordertype">Order Type</string>
+    <string name="mc_customer_lastbooking">Last Booking</string>
+    <string name="mc_customer_action">Action</string>
+    <string name="title_activity_manage_feedback">Manage Feedback Activity</string>
+
+    <!-- Feedback -->
+    <string name="mc_fd_search_hint">Customer name, Date, Comment</string>
+    <string name="fb_title">Reviews</string>
+    <string name="fb_date">Date</string>
+    <string name="fb_customer">Customer</string>
+    <string name="fb_cumulative">Cumulative</string>
+    <string name="fb_food">Food</string>
+    <string name="fb_look">Look</string>
+    <string name="fb_clean">Cleanliness</string>
+    <string name="fb_atmosphere">Atmosphere</string>
+    <string name="fb_comment">Comment</string>
+    <string name="fb_Services">Services</string>
+    <string name="fb_action">Action</string>
+    <string name="title_activity_manage_subscription">Manage Subscription Activity</string>
+    <!-- subscription -->
+    <string name="sb_title">Change your Subscription</string>
+    <string name="sb_pro">Pro</string>
+    <string name="sb_gold">Gold</string>
+    <string name="sb_free">Free</string>
+    <string name="sb_next">Next</string>
+    <string name="sb_descp">If package selected  is PRO or GOLD then redirect to payment screen</string>
+    <string name="title_activity_forget_password">Forget Password Activity</string>
+    <!-- forget password -->
+    <string name="fp_title">Forget Password</string>
+    <string name="fp_email">Enter Email</string>
+    <string name="fp_resetpass">Reset Password</string>
+    <!-- globa settings -->
+    <string name="gs_title">Global Setting</string>
+    <string name="fdc_title">Categories</string>
+    <!-- popup -->
+    <string name="popup_mb">Manage Bookings</string>
+    <string name="popup_tb">Take Booking</string>
+    <string name="popup_ab">All Bookings</string>
+    <string name="popup_mc">Manage Customers</string>
+    <string name="popup_rp">Restaurant Presentation</string>
+    <string name="popup_mf">Manage Feedback</string>
+    <string name="popup_fo">Food Order</string>
+    <string name="popup_cm">Cart and Set Menu</string>
+    <string name="popup_mp">Manage Photos</string>
+    <string name="popup_cs">Change Your Subscription</string>
+    <string name="popup_gs">Global Settings</string>
+    <string name="popup_signout">Logout</string>
+
+    <!-- Dhara -->
+    <string name="str_Pending">Pending</string>
+    <string name="str_Confirmed">Confirmed</string>
+    <string name="str_Not_Show">Not Show</string>
+    <string name="str_Review">Review</string>
+    <string name="str_Over">Over</string>
+    <string name="str_Cancel">Cancel</string>
+    <string name="str_Select_Cards">Select Cards</string>
+    <string name="str_Confirme">Confirm</string>
+    <string name="str_Delivery">Delivery</string>
+    <string name="str_Pickup">Pick up</string>
+    <string name="str_Paid">Paid</string>
+    <string name="str_FREE">FREE</string>
+    <string name="str_TG">Table Grab</string>
+    <string name="str_Select_Service">Select Service</string>
+    <string name="str_img">Image</string>
+    <string name="str_Name">Name</string>
+    <string name="str_Description">Description</string>
+    <string name="str_Food_code">Food code</string>
+    <string name="str_Taste_Type">Taste Type</string>
+    <string name="str_Level_Of_Taste">Level Of Taste</string>
+    <string name="str_Availability">Availability</string>
+    <string name="str_Price">Price</string>
+    <string name="str_subitem">sub Item</string>
+    <string name="str_Action">Action</string>
+    <string name="str_No_Data_found">No Information found</string>
+    <string name="str_na">NA</string>
+    <string name="str_Not_Paid">Not Paid</string>
+    <string name="str_Name_Field_starter1_null">Description of first starter should not be Null</string>
+    <string name="str_Name_Field_starter2_null">Description of second starter should not be Null</string>
+    <string name="str_Name_Field_starter3_null">Description of third starter should not be Null</string>
+    <string name="str_Name_Field_course1_null">Description of first course should not be Null</string>
+    <string name="str_Name_Field_course2_null">Description of second course should not be Null</string>
+    <string name="str_Name_Field_course3_null">Description of third course should not be Null</string>
+    <string name="str_Name_Field_dessert1_null">Description of first dessert should not be Null</string>
+    <string name="str_Name_Field_dessert2_null">Description of second dessert should not be Null</string>
+    <string name="str_Name_Field_dessert3_null">Description of third dessert should not be Null</string>
+    <string name="str_Price_Field_starter1_null">Description of first starter should not be Null</string>
+    <string name="str_Price_Field_starter2_null">Description of second starter should not be Null</string>
+    <string name="str_Price_Field_starter3_null">Description of third starter should not be Null</string>
+    <string name="str_Price_Field_course1_null">Description of first course should not be Null</string>
+    <string name="str_Price_Field_course2_null">Description of second course should not be Null</string>
+    <string name="str_Price_Field_course3_null">Description of third course should not be Null</string>
+    <string name="str_Price_Field_dessert1_null">Description of first dessert should not be Null</string>
+    <string name="str_Price_Field_dessert2_null">Description of second dessert should not be Null</string>
+    <string name="str_Price_Field_dessert3_null">Description of third dessert should not be Null</string>
+    <string name="str_min_price_glass_wine">Enter minimum price of glass of wine</string>
+    <string name="str_max_price_glass_wine">Enter maximum price of glass of wine</string>
+    <string name="str_min_price_glass_wine_greater">Maximum value of Glass of wine should be greater then Minimum value</string>
+    <string name="str_min_price_bottle_wine">Enter minimum price of bottle of wine</string>
+    <string name="str_max_price_bottle_wine">Enter maximum price of bottle of wine</string>
+    <string name="str_min_price_bottle_wine_greater">Maximum value of bottle of wine should be greater then Minimum value of wine</string>
+    <string name="str_price_bottle_water">Enter price of one litre bottle of water</string>
+    <string name="str_price_half_bottle_water">Enter price of half litre bottle of water</string>
+    <string name="str_price_full_bottle_water_greater">Price of one litre water bottle should be greater then half litre bottle</string>
+    <string name="str_min_price_glass_Champagne">Enter minimum price of glass of Champagne</string>
+    <string name="str_max_price_glass_Champagne">Enter maximum price of glass of Champagne</string>
+    <string name="str_price_glass_Champagne_greater">Maximum Price of glass of Champagne should be greater then minimum price of glass</string>
+    <string name="str_min_price_cup_Coffee">Enter minimum price of a cup of Coffee</string>
+    <string name="str_max_price_cup_Coffee">Enter maximum price of a cup of Coffee</string>
+    <string name="str_price_cup_Coffee_greater">Maximum Price of a cup of Coffee should be greater then minimum price</string>
+    <string name="str_update_succ">Updated Successfully</string>
+    <string name="str_MalformedURLException">MalformedURLException</string>
+    <string name="str_Exception">Exception : </string>
+    <string name="str_Upload_file_to">Upload file to server</string>
+    <string name="str_Upload_file_to_server">Upload file to server Exception</string>
+    <string name="str_Enter_Email">Enter Email</string>
+    <string name="str_no_data_found">No information found</string>
+    <string name="str_no_data_found_as_search">No information Found as per your search</string>
+    <string name="str_Enter_Legend">Enter Legend</string>
+    <!-- <string name="str_file_upload_start">File Upload Start.</string> -->
+    <string name="str_Source_File_not_exist">Source File Does not exist</string>
+    <string name="str_uploadFile">upload File</string>
+    <string name="str_Uploading">Uploading file...</string>
+    <string name="str_Upload_Complete">File Upload Complete.</string>
+    <string name="str_Package_information">Package information updated Successfully</string>
+    <string name="str_no_location">No Location found</string>
+    <string name="str_gps_is_off">GPS is Off</string>
+    <string name="str_facility">Select at least one Facility</string>
+    <string name="str_dinner_opening">Dinner opening time should be always earlier then closing time</string>
+    <string name="str_Lunch_opening">Lunch opening time should be always earlier then closing time</string>
+    <string name="str_select_cards">Select Cards</string>
+    <string name="str_price_glass_wine_larger">Maximum price of glass of wine must be larger then minimum price</string>
+    <string name="str_price_bottle_wine_larger">Maximum price of bottle of wine must be larger then minimum price</string>
+    <string name="str_price_1litter">Price of 1/2L water bottle is less than 1L water bottle</string>
+    <string name="str_Price_champagne">Price of champagne glass must be less than bottle of champagne</string>
+    <string name="str_price_coffee">Maximum price of a cup of coffee must be larger than minimum price</string>
+    <string name="str_Service_not_available">Service not available</string>
+    <string name="str_CreditCards_not_available">Credit Cards not available</string>
+    <string name="str_Enter_BIC">Enter BIC</string>
+    <string name="str_Enter_IBAN">Enter IBAN</string>
+    <string name="str_Regi_succeess">Your Registration has been completed successfully</string>
+    <string name="str_select_one_service">Please select at least one service type</string>
+    <string name="str_select_one_payment">Please select at least one payment type</string>
+    <string name="str_No_Data_Available">No Information Available</string>
+    <string name="str_File_Selected">File Selected:</string>
+    <string name="str_pdf_cvs">Please Select .pdf,.csv,.txt file only</string>
+    <string name="str_image">Please Select .jpg,.png,.jpeg file only</string>
+    <string name="str_File_Path_not_found">File Path not found</string>
+    <string name="str_FileSelectorTestActivity">File Selector Test Activity</string>
+    <string name="str_File_select_error">File select error</string>
+    <string name="str_Invalid_Date">Invalid Date</string>
+    <string name="str_Select_Edit_option">Select Edit option</string>
+    <string name="str_mobile_no_not_found">Mobile Number not found</string>
+    <string name="str_device_not_support">Your Device does not support call functionality</string>
+    <string name="str_call_failed">Call failed, please try again later.</string>
+    <string name="str_somthing_wrong">Something went wrong..! please try again..!</string>
+    <string name="str_please_wait">Please wait...</string>
+    <string name="str_yy">yyyy-MM-dd</string>
+    <string name="str_yyyy_MM">yyyy-MM</string>
+    <string name="str_take_photo">Take Photo</string>
+    <string name="str_choose_from">Choose from Gallery</string>
+    <string name="str_add_photo">Add Photo!</string>
+    <string name="str_path_of_image">path of image from gallery......******************.........</string>
+    <string name="str_http_response">HTTP Response is :</string>
+    <string name="str_Please_Try_again">Please Try again</string>
+    <string name="str_error">error: </string>
+    <string name="str_indexCapacity">index Capacity</string>
+    <string name="str_Parse_Exception">Parse Exception</string>
+    <string name="str_you_r_here">You are Here...</string>
+    <string name="str_text_length_limit">Text length limit is 4</string>
+    <string name="str_repeat_password">Passwords does not match.</string>
+    <string name="str_route">route</string>
+    <string name="str_we_can_accept_unlimited">(We can accept unlimited orders)</string>
+    <string name="str_We_can_accept_maximum">(We can accept maximum</string>
+    <string name="str_orders">orders)</string>
+    <!-- <string name="str_open_time">open_time</string> -->
+    <string name="str_close_time">close_time</string>
+    <string name="str_invalid_date">You can only book table within 1 month from current date.</string>
+    <string name="str_there_is_no">There is no email client installed.</string>
+    <string name="str_invitation_send_mail">Send mail</string>
+
+    <!-- **********30/6 -->
+
+    <string name="hs_title">Home Screen</string>
+    <string name="af_img">Image</string>
+    <string name="af_name">Name</string>
+    <string name="af_fc">Food code</string>
+    <string name="af_availab">Availability</string>
+    <string name="af_action">Action</string>
+
+    <!-- 30/6/ -->
+    <string name="step2_mto">Minimum time to order</string>
+    <string name="step2_lastbooking">Are you willing to receive last minute booking? :</string>
+    <string name="step2_facility">Facility:</string>
+    <string name="step2_pickup">Pick up</string>
+    <string name="step2_delivery">Delivery</string>
+    <string name="step2_contin">Continue</string>
+    <string name="step2_nofile">No file chosen</string>
+    <string name="step2_yes">Yes</string>
+    <string name="step2_no">No</string>
+    <string name="confirm">Confirm</string>
+    <!-- managephoto -->
+    <string name="mp_title">Photos</string>
+    <string name="mp_legend">Legend?</string>
+    <string name="mp_preview">Preview</string>
+    <string name="mp_action">Action</string>
+    <string name="mp_gallary">Photo Gallery</string>
+    <string name="mp_legend_hint">Enter Legend</string>
+    <string name="mp_photoformate">Recommended photo format;800*450</string>
+    <string name="mp_noimage">No Image For this Restaurant</string>
+    <string name="gt_noorder">No Order for this Month</string>
+    <string name="categories">Food Categories</string>
+    <string name="lot">Level of Taste</string>
+    <string name="ch_avi">Available</string>
+    <!-- generate invoice -->
+    <string name="gi_restname">Restaurant Name</string>
+    <string name="gi_bookings">Bookings</string>
+    <string name="gi_email">Email</string>
+    <string name="gi_booking_charge">Booking charge</string>
+    <string name="gi_total">Total</string>
+    <string name="gi_status">Status</string>
+    <string name="gi_submit">Submit</string>
+    <string name="gi_generatepdf">Generate PDF</string>
+    <string name="gi_fromdate">From Date</string>
+    <string name="gi_todate">To Date</string>
+    <string name="gi_indine">In Dining</string>
+    <string name="gi_oo">Online Order</string>
+    <string name="gi_invice">Invoice</string>
+    <string name="gs_ci">Choose Icon</string>
+    <string name="gs_cb">Choose Banner</string>
+    <string name="gs_cf">Choose File</string>
+    <string name="ba_details">Bank Account Detail</string>
+    <string name="mc_nodata">No Record found</string>
+    <!-- oorawfile -->
+    <string name="oorawfile_co">Confirm Order</string>
+    <string name="oorawfile_coo">Confirmed Order</string>
+    <string name="oorawfile_cancelorder">Cancel Order</string>
+    <string name="oorawfile_dc">Decline Order</string>
+    <string name="gs_dc">Decline Order</string>
+    <!-- tgrawfile -->
+    <string name="tgrawfile_ns">Not show</string>
+    <string name="tgrawfile_sc">Confirm Order</string>
+    <string name="tgrawfile_dc">Cancel Order</string>
+    <string name="tgrawfile_co">Cancel Order</string>
+    <string name="tgrawfile_finish">Finish</string>
+    <!-- 1/7 -->
+    <string name="tgrawfile_bookingdate">Booking Date :</string>
+    <string name="tgrawfile_ordertime">Order Time :</string>
+    <string name="tgrawfile_Status">Status :</string>
+    <string name="tgrawfile_comments">Comments :</string>
+    <string name="tgrawfile_nocomments">No Comments</string>
+    <string name="tgrawfile_details">Details</string>
+    <string name="oorawfile_NA">NA</string>
+    <string name="oorawfile_order">Order</string>
+    <string name="tgrawfile_noper">No of Persons:</string>
+
+    <!-- TG STATUS -->
+    <string name="TG_statuspending">Pending</string>
+    <string name="TG_status_confirmed">Confirmed</string>
+    <string name="TG_status_cancel">Cancelled</string>
+    <string name="TG_status_cancel_by_user">Cancelled By User</string>
+    <string name="Tb_tablayoutGT">Grab Table</string>
+    <string name="Tb_tablayoutOO">Online Order</string>
+    <!-- OO STATUS -->
+    <string name="OO_statusWaiting">Waiting</string>
+    <!-- calender -->
+    <string name="jan">January</string>
+    <string name="feb">February</string>
+    <string name="mar">March</string>
+    <string name="apr">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="augest">August</string>
+    <string name="sep">September</string>
+    <string name="oct">October</string>
+    <string name="nov">November</string>
+    <string name="dec">December</string>
+    <!-- *********** -->
+    <string name="filter">Filters</string>
+    <string name="photos">Photos ?</string>
+    <!-- 7/7/015 -->
+    <string name="oo_pickup_msg"><![CDATA[<b><font color=#FF0000>Customer pickup his food from your restaurant</b>]]></string>
+    <!-- 8/7/2015 -->
+    <string name="oo_pickup">Pick up</string>
+    <string name="oo_del">Delivery</string>
+    <string name="oo_paid">Paid</string>
+    <string name="oo_notpaid">Not Paid</string>
+    <string name="oo_details_nolocation">No Location found for this Order</string>
+    <string name="oo_cancel">Cancelled</string>
+
+    <!-- 10/7/2015 -->
+    <string name="oo_details_spicy">Level</string>
+    <string name="photo_delete">Are You Sure want to Delete this item?</string>
+    <string name="cs_pro">Pro</string>
+    <string name="cs_gold">Gold</string>
+    <string name="cs_free">Free</string>
+
+    <!-- Manage subcrsciption screen -->
+    <string name="online_booking_fees_not_included">(Online booking fees Not included)</string>
+    <string name="online_booking_fees">(Online booking fees</string>
+    <!-- <string name="online_booking_fees_not_included">(Online booking fees Not included)</string> -->
+    <string name="included">included)</string>
+    <string name="regstep5_validate">Validate</string>
+
+    <!-- 30/7 -->
+    <string name="regstep5_title">Bank Account Detail</string>
+    <string name="ed_mo_hont">Enter Mobile</string>
+    <string name="gsaveragebill">What is your average bill?</string>
+    <string name="gslastminute">Do you want to receive last minute booking?</string>
+    <string name="reg_noregion">No Region Available</string>
+    <string name="reg_nocity">No City Available</string>
+    <string name="gs_minimum_reqorder">Minimum Required Order</string>
+    <string name="Popup_Exit">Are you sure that you want to exit?</string>
+    <string name="Popup_Exit_title">Exit App</string>
+    <string name="str_coemail">Corporate Email Address</string>
+    <string name="str_moper">Persons</string>
+    <string name="terms_condi">Accept Terms and Conditions</string>
+    <string name="ok">OK</string>
+    <string name="nozipcode">No Zipcode</string>
+    <string name="nodata">No Information Available</string>
+    <string name="food_level">Level</string>
+    <string name="map_desc">Please zoom out and keep marker pressed\n and then Drag it to a particular location </string>
+    <string name="str_Please_choose_valid_time">Please choose valid time</string>
+    <string name="terms_condi_details" formatted="false">This Platform provides the 
+                                 possibility for the Restaurants 
+                             to get more clients through online ordering option and
+                             through table grabbing option\n
+                             For these services, you will be charged, for each booking made
+                              through our platform, 3 lei/person.\n
+                              Regarding the online order functionality, you will be charged 10% from 
+                              the total order.\n
+                              We will issue the bill at the end of each month for the previous 
+                              month and we will send it to you through your e mail/ or by post 
+                              if you will request that.\n
+                               After we issue the bill, you will have 15 days at your disposal to pay.\n 
+                               If the payment is not made within this period, you will be charged 0.2% as 
+                               interest calculated daily from the total amount of the bill.\n 
+                               This represents a contract and by accepting it, you acknowledge what is 
+                               written above and subscribe to it.  All the differences will be solved by the 
+                               jurisdictions within Romania </string>
+    <string name="invalid_file_name">Invalid file name, Please retry</string>
+    <string name="tgrawfile_bookingid">Booking Id:</string>
+    <string name="subscription_message">Your current package and requested package is same.</string>
+
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    <string-array name="order_type">
+        <item>Online Order</item>
+        <item>Table Grabing</item>
+
+    </string-array>
+    <string name="title_activity_manage_offers">Manage Offers</string>
+
+    <string name="noti_new_oo">New Online Order</string>
+    <string name="noti_new_tgk">New Table Graber</string>
+    <string name="noti_oo">Order Confirmation</string>
+    <string name="noti_tg">Booking Confirmation</string>
+
+</resources>

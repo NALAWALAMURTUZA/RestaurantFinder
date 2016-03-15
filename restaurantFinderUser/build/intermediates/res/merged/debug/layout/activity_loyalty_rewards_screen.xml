@@ -1,0 +1,244 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/second_screen_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#83a1e1"
+        android:layout_marginBottom="5dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="@string/loyalty_reward_screen"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/loyalty_static_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        android:visibility="visible" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:padding="5dp"
+                android:text="@string/loyalty_pts_static_txt"
+                android:textColor="#162880" />
+
+            <!-- <TextView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:textStyle="bold" -->
+            <!-- android:text="@string/loyalty_reward_screen" /> -->
+
+
+            <!-- <TextView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:text="@string/loyalty_reward_screen_one" /> -->
+        </LinearLayout>
+    </ScrollView>
+
+    <!-- <ScrollView -->
+    <!-- android:id="@+id/loyalty_dynamic_scrollview" -->
+    <!-- android:layout_width="match_parent" -->
+    <!-- android:layout_height="match_parent" -->
+    <!-- android:scrollbars="vertical" > -->
+
+    <LinearLayout
+        android:id="@+id/main_linear"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:id="@+id/rf_home_header_with_logo"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+            android:background="#83a1e1"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <ImageView
+                android:id="@+id/rf_home_screen_login_icon"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="left|center"
+                android:layout_marginRight="15dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/ic_launcher"
+                android:visibility="invisible" />
+
+            <ImageView
+                android:id="@+id/rf_home_screen_logo_icon"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center"
+                android:layout_weight="5"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/logo_header"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/rf_loyalty_screen_header_loyalty_icon"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center"
+                android:layout_weight="2"
+                android:background="@drawable/rounded_corner_loyalty_box"
+                android:gravity="center"
+                android:visibility="visible" />
+
+            <ImageView
+                android:id="@+id/rf_loyalty_screen_header_menu_icon"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center"
+                android:layout_weight="2"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/rf_home_menu_icon"
+                android:visibility="visible" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+            android:background="@drawable/rounded_corner_loyalty_box"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/my_loyalty_program_one"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:layout_weight="5"
+                android:gravity="center"
+                android:text="@string/my_loyalty_program_one"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#162880" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:layout_weight="5"
+                android:gravity="center"
+                android:text="@string/my_loyalty_program_two"
+                android:textAppearance="?android:attr/textAppearance"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="20"
+            android:background="#83a1e1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <!-- <TextView -->
+            <!-- android:id="@+id/loyalty_minimum" -->
+            <!-- android:layout_width="0dp" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_gravity="center" -->
+            <!-- android:layout_weight="5" -->
+            <!-- android:gravity="right" -->
+            <!-- android:text="@string/my_loyalty_program_one" -->
+            <!-- android:textAppearance="?android:attr/textAppearanceMedium" /> -->
+
+            <SeekBar
+                android:id="@+id/seekBar1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:padding="10dp"
+                android:enabled = "false"
+                 />
+
+            <!-- <TextView -->
+            <!-- android:id="@+id/loyalty_maximum" -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="0dp" -->
+            <!-- android:layout_gravity="center" -->
+            <!-- android:layout_weight="5" -->
+            <!-- android:gravity="center" -->
+            <!-- android:text="@string/my_loyalty_program_one" -->
+            <!-- android:textAppearance="?android:attr/textAppearanceMedium" /> -->
+
+        </LinearLayout>
+
+        <!-- <LinearLayout -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="0dp" -->
+        <!-- android:layout_marginTop="5dp" -->
+        <!-- android:layout_weight="50" -->
+        <!-- android:orientation="vertical" > -->
+
+        <ListView
+            android:id="@+id/loyalty_listview"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="50"
+            android:visibility="visible" >
+        </ListView>
+        <!-- </LinearLayout> -->
+
+        <LinearLayout
+            android:id="@+id/ly_No_loyalty_Booking"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="50"
+            android:background="#F2F2F2"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/Blank"
+                android:src="@drawable/search_not_inf" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/No_Booking"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- </ScrollView> -->
+
+</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/activity_loyalty_rewards_screen.xml -->

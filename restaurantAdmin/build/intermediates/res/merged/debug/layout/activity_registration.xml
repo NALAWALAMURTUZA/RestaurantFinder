@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:background="#77D7FA"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/img_rf_regi_header_logo"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/rf_home_header_logo" />
+
+        <TextView
+            android:id="@+id/rf_regi_step2_tv_reg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="8"
+            android:gravity="center"
+            android:hint="@string/str_rf_regi_step2_tv_reg"
+            android:textColorHint="#ffffff"
+            android:textStyle="bold"
+            android:textSize="28sp" />
+
+        <ImageView
+            android:id="@+id/img_rf_regi_filter_icon"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:visibility="invisible"
+            android:src="@drawable/filter_icon" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="90"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TabHost
+            android:id="@android:id/tabhost"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left|center" >
+                </TabWidget>
+
+                <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+<!--                     <LinearLayout -->
+<!--                         android:id="@+id/tab1" -->
+<!--                         android:layout_width="match_parent" -->
+<!--                         android:layout_height="match_parent" > -->
+
+<!--                         <TextView -->
+<!--                             android:id="@+id/textView1" -->
+<!--                             android:layout_width="wrap_content" -->
+<!--                             android:layout_height="wrap_content" -->
+<!--                             android:text="" /> -->
+<!--                     </LinearLayout> -->
+
+<!--                     <LinearLayout -->
+<!--                         android:id="@+id/tab2" -->
+<!--                         android:layout_width="match_parent" -->
+<!--                         android:layout_height="match_parent" > -->
+
+<!--                         <TextView -->
+<!--                             android:id="@+id/textView2" -->
+<!--                             android:layout_width="wrap_content" -->
+<!--                             android:layout_height="wrap_content" -->
+<!--                             android:text="" /> -->
+<!--                     </LinearLayout> -->
+
+<!--                     <LinearLayout -->
+<!--                         android:id="@+id/tab3" -->
+<!--                         android:layout_width="match_parent" -->
+<!--                         android:layout_height="match_parent" > -->
+
+<!--                         <TextView -->
+<!--                             android:id="@+id/textView3" -->
+<!--                             android:layout_width="wrap_content" -->
+<!--                             android:layout_height="wrap_content" -->
+<!--                             android:text="" /> -->
+<!--                     </LinearLayout> -->
+
+<!--                     <LinearLayout -->
+<!--                         android:id="@+id/tab4" -->
+<!--                         android:layout_width="match_parent" -->
+<!--                         android:layout_height="match_parent" > -->
+
+<!--                         <TextView -->
+<!--                             android:id="@+id/textView4" -->
+<!--                             android:layout_width="wrap_content" -->
+<!--                             android:layout_height="wrap_content" -->
+<!--                             android:text="" /> -->
+<!--                     </LinearLayout> -->
+                </FrameLayout>
+            </LinearLayout>
+        </TabHost>
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/layout/activity_registration.xml -->

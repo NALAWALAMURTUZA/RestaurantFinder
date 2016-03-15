@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="310dp"
+    android:layout_height="300dp"
+    android:layout_marginLeft="2dp"
+    android:layout_marginRight="2dp"
+    android:background="#F2F2F2"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp"
+        android:background="#989898"
+        android:weightSum="2" >
+
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.5"
+            android:gravity="center"
+            android:text="@string/popup_verification_code"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#505050"
+            android:textStyle="bold" />
+        <ImageView
+        android:id="@+id/img_enter_code_cancel"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:contentDescription="@string/Blank"
+        android:src="@drawable/mail_delete" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_send_code"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/mobile_icon" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:weightSum="2" >
+            <EditText
+        android:id="@+id/ed_enter_code"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_weight="1.5"
+        android:editable="false"
+        android:hint="@string/popup_code"
+        android:inputType="textPassword" >
+
+        <requestFocus />
+    </EditText>
+
+        <ImageView
+            android:id="@+id/img_popup_next"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:layout_gravity="center"
+            android:src="@drawable/arrow_right" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txv_verification_error"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:gravity="center"
+        android:textColor="#EA1111"
+        android:layout_height="wrap_content"
+        android:text="" />
+    
+
+</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/popup_enter_verifycode.xml -->

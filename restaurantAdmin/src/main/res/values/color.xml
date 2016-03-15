@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#2B60DE</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    
+    <color name="white">#FFF</color>
+    <color name="grid_white">#50FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#6E6E6E</color>
+    <color name="transparent">#00000000</color>
+    <color name="sliding_menu_bg">#50ffffff</color>
+    <color name="facebook">#3b5999</color>
+    <color name="twitter">#01bbf6</color>
+    <color name="share">#5b9139</color>
+    <color name="list_selector">#BF424242</color>
+    <color name="facebook_pressed">#4a6eba</color>
+    <color name="twitter_pressed">#66ccff</color>
+    <color name="share_pressed">#6cac44</color>
+
+    <color name="button_backgroung_crem">#FFF</color>
+    <color name="button_text_brown">#B3D2F3</color>
+    <color name="brown">#B3D2F3</color>
+    <color name="crim">#f6f5e0</color>
+
+    <color name="green">#68a142</color>
+    <color name="red">#ffff4444</color>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ly_Payment_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_weight="5" >
+
+        <TextView
+            android:id="@+id/txv_cart_index"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:text="@string/payment_rawfile_index"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/txv_cart_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="2"
+            android:gravity="left|center"
+            android:paddingLeft="10dp"
+            android:text="@string/payment_rawfile_item_name"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/txv_spicylevel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center"
+            android:layout_weight="0.7"
+            android:gravity="left|center"
+            android:paddingLeft="5dp"
+            android:text="Level 1"
+            android:textSize="16sp"
+            />
+
+        <TextView
+            android:id="@+id/txv_cart_quantity"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center"
+            android:layout_weight="0.7"
+            android:gravity="left|center"
+            android:paddingLeft="5dp"
+            android:text="@string/payment_rawfile_item_quantity"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/txv_cart_price"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:gravity="left|center"
+            android:paddingLeft="5dp"
+            android:text="@string/payment_rawfile_item_SR"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/txv_cart_total"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:gravity="left|center"
+            android:paddingLeft="5dp"
+            android:text="@string/payment_rawfile_item_SR"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</LinearLayout>

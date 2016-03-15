@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#ffffff"
+	android:orientation="vertical" >
+
+	<!-- Header aligned to top -->
+
+	<LinearLayout
+		android:id="@+id/rf_login_img_header"
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		android:layout_weight="10"
+		android:background="@drawable/rf_supper_admin_header_background"
+		android:orientation="horizontal" >
+
+		<ImageView
+			android:id="@+id/rf_login_img_header_icon"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="left|center"
+			android:layout_weight="2"
+			android:src="@drawable/rf_supper_admin_home_icon" />
+
+		<ImageView
+			android:id="@+id/img_menu"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="left|center"
+			android:layout_weight="1"
+			android:src="@drawable/ic_launcher"
+			android:visibility="invisible" />
+
+		<TextView
+			android:id="@+id/rf_supper_admin_txv_restaurant_list"
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_weight="8"
+			android:gravity="center"
+			android:text="@string/rf_supper_admin_txv_restaurant_list"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:textColor="@android:color/white"
+			android:textSize="35sp" />
+
+		<ImageView
+			android:id="@+id/img_menu1"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="left|center"
+			android:layout_weight="2"
+			android:src="@drawable/ic_launcher"
+			android:visibility="invisible" />
+
+		<ImageView
+			android:id="@+id/img_logo"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:layout_weight="2"
+			android:src="@drawable/ic_launcher"
+			android:visibility="invisible" />
+	</LinearLayout>
+
+<!-- 	<ScrollView -->
+<!-- 		android:layout_width="match_parent" -->
+<!-- 		android:layout_height="0dp" -->
+<!-- 		android:layout_marginLeft="5dp" -->
+<!-- 		android:layout_marginRight="5dp" -->
+<!-- 		android:layout_weight="90" > -->
+
+<!-- 		<LinearLayout -->
+<!-- 			android:id="@+id/header" -->
+<!-- 			android:layout_width="match_parent" -->
+<!-- 			android:layout_height="match_parent" -->
+<!-- 			android:orientation="vertical" > -->
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:layout_marginTop="10dp"
+				android:layout_weight="10"
+				android:orientation="horizontal"
+				android:visibility="visible" >
+
+				<LinearLayout
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="2"
+					android:gravity="center"
+					android:orientation="horizontal"
+					android:padding="2dp"
+					android:visibility="gone" >
+
+				     <TextView
+						android:id="@+id/txv_notification"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="2"
+						android:hint="Notification (1)"
+						android:gravity="center"
+						android:textSize="14sp"
+						style="@android:style/Widget.Button" 
+						android:visibility="invisible"
+						 />
+				
+				    
+				
+
+					</LinearLayout>
+
+				<LinearLayout
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="1.2"
+					android:gravity="center"
+					android:orientation="horizontal"
+					android:padding="2dp" >
+					
+				    <TextView
+						android:id="@+id/txv_all_restaurant"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="2"
+						android:hint="@string/mr_all"
+						android:textSize="14sp"
+						android:gravity="center"
+						style="@android:style/Widget.Button" 
+						/>
+				
+
+				</LinearLayout>
+
+				<LinearLayout
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="2.5"
+					android:gravity="center"
+					android:orientation="horizontal"
+					android:padding="2dp" >
+
+					  <TextView
+						android:id="@+id/txv_to_be_processed"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="2"
+						android:hint="@string/mr_tp"
+						android:textSize="14sp"
+						android:gravity="center"
+						style="@android:style/Widget.Button" 
+					 />
+				
+
+				</LinearLayout>
+
+				<LinearLayout
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="1.5"
+					android:gravity="center"
+					android:orientation="horizontal"
+					android:padding="2dp" >
+
+					
+					  <TextView
+						android:id="@+id/txv_processed"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="2"
+						android:hint="@string/mr_p"
+						android:textSize="14sp"
+						android:gravity="center"
+						style="@android:style/Widget.Button" 
+						/>
+				
+
+				</LinearLayout>
+
+				
+			</LinearLayout>
+			
+			
+			
+
+<!-- 			<LinearLayout -->
+<!-- 				android:layout_width="match_parent" -->
+<!-- 				android:layout_height="0dp" -->
+<!-- 				android:layout_marginTop="10dp" -->
+<!-- 				android:layout_weight="10" -->
+<!-- 				android:orientation="horizontal" > -->
+
+<!-- 				<LinearLayout -->
+<!-- 					android:id="@+id/month_indicator" -->
+<!-- 					android:layout_width="0dp" -->
+<!-- 					android:layout_height="match_parent" -->
+<!-- 					android:layout_weight="2" -->
+<!-- 					android:gravity="center" -->
+<!-- 					android:orientation="horizontal" -->
+<!-- 					android:padding="2dp" > -->
+
+					<!-- <ImageView -->
+					<!-- android:id="@+id/rf_img_indicator_prev" -->
+					<!-- android:layout_width="0dp" -->
+					<!-- android:layout_height="wrap_content" -->
+					<!-- android:layout_gravity="left|center" -->
+					<!-- android:layout_weight="2" -->
+					<!-- android:src="@drawable/rf_img_indicator_prev" /> -->
+
+
+					<!-- <TextView -->
+					<!-- android:id="@+id/rf_indicator_prev" -->
+					<!-- android:layout_width="0dp" -->
+					<!-- android:layout_height="match_parent" -->
+					<!-- android:layout_weight="8" -->
+					<!-- android:gravity="center" -->
+					<!-- android:text="@string/rf_supper_admin_txv_restaurant_list" -->
+					<!-- android:textAppearance="?android:attr/textAppearanceLarge" -->
+					<!-- android:textColor="@android:color/white" -->
+					<!-- android:textSize="35sp" /> -->
+
+
+					<!-- <ImageView -->
+					<!-- android:id="@+id/rf_img_indicator_fwd" -->
+					<!-- android:layout_width="0dp" -->
+					<!-- android:layout_height="wrap_content" -->
+					<!-- android:layout_gravity="left|center" -->
+					<!-- android:layout_weight="2" -->
+					<!-- android:src="@drawable/rf_img_indicator_fwd" -->
+					<!-- android:visibility="invisible" /> -->
+<!-- 				</LinearLayout> -->
+<!-- 			</LinearLayout> -->
+
+<!-- 			<LinearLayout -->
+<!-- 				android:layout_width="match_parent" -->
+<!-- 				android:layout_height="0dp" -->
+<!-- 				android:layout_marginTop="10dp" -->
+<!-- 				android:layout_weight="10" -->
+<!-- 				android:orientation="horizontal" > -->
+
+<!-- 				<LinearLayout -->
+<!-- 					android:layout_width="0dp" -->
+<!-- 					android:layout_height="match_parent" -->
+<!-- 					android:layout_weight="10" -->
+<!-- 					android:gravity="center" -->
+<!-- 					android:orientation="horizontal" -->
+<!-- 					android:padding="2dp" > -->
+
+<!-- 					<ImageView -->
+<!-- 						android:id="@+id/image_restaurant_list_images" -->
+<!-- 						android:layout_width="match_parent" -->
+<!-- 						android:layout_height="wrap_content" -->
+<!-- 						android:src="@drawable/restaurant_list_images" /> -->
+<!-- 				</LinearLayout> -->
+<!-- 			</LinearLayout> -->
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="0dp"
+				android:layout_weight="70"
+				android:layout_marginTop="10dp"
+				android:orientation="vertical" >
+
+<!-- 				<ViewSwitcher -->
+<!-- 					android:id="@+id/calendar_switcher" -->
+<!-- 					android:layout_width="match_parent" -->
+<!-- 					android:layout_height="wrap_content" /> -->
+
+<!-- 				<TextView -->
+<!-- 					android:id="@+id/month_and_year" -->
+<!-- 					android:layout_width="wrap_content" -->
+<!-- 					android:layout_height="wrap_content" -->
+<!-- 					android:layout_centerInParent="true" -->
+<!-- 					android:textColor="#fff" -->
+<!-- 					android:textSize="18sp" -->
+<!-- 					android:textStyle="bold" /> -->
+
+				<ListView
+					android:id="@+id/lV_resturant_list"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent" >
+				</ListView>
+			</LinearLayout>
+<!-- 		</LinearLayout> -->
+<!-- 	</ScrollView> -->
+
+</LinearLayout>

@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:background="@drawable/rf_supper_admin_header_background"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:src="@drawable/rf_supper_admin_home_icon"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/rf_supper_admin_header_name"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="8"
+            android:gravity="center"
+            android:text="@string/tg_details_title"
+            android:textColor="@android:color/white"
+            android:textSize="35sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:src="@drawable/rf_supper_admin_home_icon"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="80"
+        android:background="#B3D2F3"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/rf_regi_step2_tv_step"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:hint="@string/str_rf_regi_step2_tv_step"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColorHint="#000000" />
+
+            <TextView
+                android:id="@+id/rf_regi_step2_tv_youhave"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/str_rf_regi_step2_tv_youhave" />
+        </LinearLayout>
+
+        <ScrollView
+            android:id="@+id/ll_registration"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="70"
+            android:visibility="visible" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="horizontal"
+                    android:visibility="visible" >
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="25"
+                        android:orientation="vertical"
+                        android:visibility="invisible" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_weight="4"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/rf_regi_step2_tv_you"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="12"
+                                android:gravity="center"
+                                android:text="@string/str_rf_registration_tv_you"
+                                android:textColor="#0b1b70"
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="13"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/tv_rf_registration_your_restaurant"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="@string/str_rf_registration_your_restaurant"
+                                android:textColor="#0b1b70"
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="50"
+                        android:gravity="center"
+                        android:orientation="vertical" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/rf_registration_tv_fname"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:text="@string/str_rf_registration_fname"
+                                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_fname"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:singleLine="true"
+                                android:textSize="14sp" >
+                            </EditText>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/rf_registration_tv_lname"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:hint="@string/str_rf_registration_lname"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_lname"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:ems="10"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:singleLine="true"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center" >
+
+                            <TextView
+                                android:id="@+id/rf_email"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:text="@string/str_rf_registration_email"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_email"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:ems="10"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:singleLine="true"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center" >
+
+                            <TextView
+                                android:id="@+id/rf_phone"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:text="@string/str_rf_registration_phone"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_phone"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:ems="10"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:singleLine="true"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center" >
+
+                            <TextView
+                                android:id="@+id/rf_registration_tv_add"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:hint="@string/str_rf_registration_tv_add"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_address"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center" >
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:hint="@string/tb_business"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_business"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center" >
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:hint="@string/tb_date"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_date"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center" >
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:hint="@string/tb_time"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_time"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center" >
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:hint="@string/tb_occasion"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_occasion"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center" >
+
+                            <TextView
+                                android:id="@+id/rf_registration_tv_add"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:hint="@string/tb_meal_duration"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_meal_duration"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center" >
+
+                            <TextView
+                                android:id="@+id/rf_registration_tv_zip_code"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:hint="@string/str_rf_registration_tv_zip_code"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_zip"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center" >
+
+                            <TextView
+                                android:id="@+id/rf_registration_tv_country"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:hint="@string/str_rf_registration_tv_country"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_country"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:singleLine="true"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center" >
+
+                            <TextView
+                                android:id="@+id/rf_registration_tv_region"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:hint="@string/str_rf_registration_tv_region"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_region"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:singleLine="true"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center" >
+
+                            <TextView
+                                android:id="@+id/rf_registration_tv_city"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="2"
+                                android:gravity="right|center"
+                                android:hint="@string/str_rf_registration_tv_city"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColorHint="#000000" />
+
+                            <EditText
+                                android:id="@+id/tg_ed_city"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:hint="@string/nodata"
+                                android:padding="10dp"
+                                android:singleLine="true"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="5"
+                            android:gravity="center"
+                            android:visibility="gone" >
+
+                            <EditText
+                                android:id="@+id/tg_ed_district"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_weight="3"
+                                android:background="@drawable/text_box"
+                                android:editable="false"
+                                android:ems="10"
+                                android:inputType="phone"
+                                android:padding="10dp"
+                                android:singleLine="true"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="20"
+                        android:orientation="vertical" >
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/google_map_layout"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="77"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="10"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/locinfo"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:text="" />
+
+                <ImageView
+                    android:id="@+id/yes"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/yes" />
+
+                <ImageView
+                    android:id="@+id/wrong"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/cross_circle" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/MapLayout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="66"
+                android:orientation="vertical" >
+
+                <fragment
+                    android:id="@+id/map"
+                    android:name="com.google.android.gms.maps.MapFragment"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="50"
+                    android:apiKey="AIzaSyCyhhKZn0T1BVlz60Thr2M5AU47iG3kEJE" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#eeeeee"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="3dp" >
+
+        <TextView
+            android:id="@+id/txv_fd_date"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"
+            android:text="@string/fb_date"
+            android:textColor="#000000"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txv_fd_customer"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"
+            android:text="@string/fb_customer"
+            android:textColor="#000000"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txv_fd_services"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"
+            android:text="@string/fb_Services"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txv_fd_food"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"
+            android:text="@string/fb_food"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txv_fd_look"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"
+            android:text="@string/fb_look"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txv_fd_clean"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"
+            android:text="@string/fb_clean"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txv_fd_atmosphere"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"
+            android:text="@string/fb_atmosphere"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txv_fd_cumulative"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"
+            android:text="@string/fb_cumulative"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txv_fd_comment"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/roundcorner_all_booking"
+            android:gravity="center"
+            android:text="@string/fb_comment"
+            android:textSize="14sp" />
+
+        
+    </LinearLayout>
+
+</LinearLayout>

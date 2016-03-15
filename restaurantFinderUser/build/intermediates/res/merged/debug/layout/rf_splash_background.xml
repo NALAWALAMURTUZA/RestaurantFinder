@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rf_splash_background">
+    
+     <LinearLayout
+                android:id="@+id/SplashMapLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="invisible" >
+
+                <!-- pankaj 26-11                 AIzaSyCSYGIaKhU0MAx7W1q_t1cqOIWoJNRBlpM -->
+                <!-- pankaj-25-11                AIzaSyBWfZ5jWw8712P1gFMCfNxKptPkfPAiduA -->
+                <!-- pankaj-pc key: AIzaSyC49u7vF0JqgYGg5KRiIvBXqbHhvn6NQP8 -->
+                <!-- chetan-pc key: AIzaSyAayvTSzsm3S1ZsR86O_icKJDep-29xHpI -->
+                <!-- new pankaj  AIzaSyB4MGaiaQMl3HwjGAhI6Bf6MY66VDMuOwk -->
+
+<!--                 <fragment -->
+<!--                     android:id="@+id/splashmap" -->
+<!--                     android:name="com.google.android.gms.maps.MapFragment" -->
+<!--                     android:layout_width="match_parent" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:apiKey="AIzaSyDQRQ23QEsmidzAc75VWIQeq8MrvTVh8nc" /> -->
+            </LinearLayout>
+    
+
+</LinearLayout>
+<!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/rf_splash_background.xml -->

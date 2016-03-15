@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/my_booking"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="always|withText"
+        android:title="@string/my_booking">
+    </item>
+    <item
+        android:id="@+id/my_profile"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="always|withText"
+        android:title="@string/my_profile">
+    </item>
+    <item
+        android:id="@+id/my_favourites"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        android:showAsAction="always|withText"
+        android:title="@string/my_favourites">
+    </item>
+    
+     <item
+        android:id="@+id/my_networking"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        android:showAsAction="always|withText"
+        android:title="@string/my_networking">
+    </item>
+    
+    <item
+        android:id="@+id/about_restaurant"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="always|withText"
+        android:title="@string/about_restaurant">
+    </item>
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="always|withText"
+        android:title="@string/logout">
+    </item>
+
+</menu>
+
+<!-- <menu xmlns:android="http://schemas.android.com/apk/res/android"> -->
+<!--     <item android:id="@+id/new_game" -->
+<!--           android:icon="@drawable/ic_launcher" -->
+<!--           android:title="new_game" -->
+<!--           android:showAsAction="ifRoom"/> -->
+<!--     <item android:id="@+id/help" -->
+<!--           android:icon="@drawable/ic_launcher" -->
+<!--           android:title="help" /> -->
+<!-- </menu> -->

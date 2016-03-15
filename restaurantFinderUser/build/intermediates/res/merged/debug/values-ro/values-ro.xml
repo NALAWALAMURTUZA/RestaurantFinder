@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string-array name="Delivery_Option">
+        <item>Tot</item>
+        <item>Ridică din Restaurant</item>
+        <item>Livrare</item>
+    </string-array>
+    <string-array name="Minimum_Order_Time_Array">
+        <item>1 zi înainte</item>
+        <item>Comandă cu 1 zi înainte</item>
+        <item>Comandă cu 2 zile înainte</item>
+        <item>Comandă cu 3 zile înainte</item>
+        <item>Comandă cu 4 zile înainte</item>
+        <item>Comandă cu 5 zile înainte</item>
+        <item>Comandă cu 6 zile înainte</item>
+        <item>Comandă cu 7 zile înainte</item>
+    </string-array>
+    <string-array name="Spicy_Level">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="array_book_status">
+        <item>Rezervat</item>
+        <item>Confirmat</item>
+        <item>Termină</item>
+        <item>Nu arată</item>
+        <item>Anulează</item>
+    </string-array>
+    <string-array name="array_child_avaibility">
+        <item>Disponibil</item>
+        <item>Nedisponibil</item>
+    </string-array>
+    <string-array name="array_child_level_of_test">
+        <item>Gustos nivel 1</item>
+        <item>Gustos nivel 2</item>
+        <item>Gustos nivel 3</item>
+        <item>Gustos nivel 4</item>
+        <item>Gustos nivel 5</item>
+    </string-array>
+    <string-array name="array_credit_card">
+        <item>Cărți de credit</item>
+        <item>Master Cards</item>
+        <item>Visa</item>
+    </string-array>
+    <string-array name="array_launch_closetime">
+        <item>00:00</item>
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+        <item>24:00</item>
+    </string-array>
+    <string-array name="array_launch_openingtime">
+        <item>00:00</item>
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+        <item>24:00</item>
+    </string-array>
+    <string-array name="array_meal">
+        <item>Tot</item>
+        <item>Prânz</item>
+        <item>Cină</item>
+    </string-array>
+    <string-array name="array_mto">
+        <item>Comandă cu 0 zi înainte</item>
+        <item>Comandă cu 1 zi înainte</item>
+        <item>Comandă cu 2 zile înainte</item>
+        <item>Comandă cu 3 zile înainte</item>
+        <item>Comandă cu 4 zile înainte</item>
+        <item>Comandă cu 5 zile înainte</item>
+        <item>Comandă cu 6 zile înainte</item>
+        <item>Comandă cu 7 zile înainte</item>
+    </string-array>
+    <string-array name="array_online_order_status">
+        <item>În așteptare</item>
+        <item>În procesare</item>
+        <item>În curs de livrare</item>
+        <item>livrat</item>
+        <item>Anulat</item>
+        <item>Respins</item>
+    </string-array>
+    <string-array name="array_parent_level">
+        <item>Picant</item>
+        <item>Dulce</item>
+        <item>Acru</item>
+        <item>Amar</item>
+        <item>Sărat</item>
+        <item>Umami</item>
+    </string-array>
+    <string-array name="array_parent_vag_nonvag">
+        <item>Non-Veg</item>
+        <item>Veg</item>
+    </string-array>
+    <string-array name="array_payment_status">
+        <item>Plătit</item>
+        <item>Neplătit</item>
+    </string-array>
+    <string-array name="array_service_process">
+        <item>Ridică</item>
+        <item>Livrare</item>
+    </string-array>
+    <string-array name="array_takebooking_status">
+        <item>În așteptare</item>
+        <item>Confirmat</item>
+    </string-array>
+    <string-array name="country_code_array">
+        <item>+04</item>
+    </string-array>
+    <string-array name="drawer_array">
+        <item>Rezervarea mea</item>
+        <item>Profilul meu</item>
+        <item>Favoritele mele</item>
+        <item>Despre Restaurant</item>
+        <item>Ieșire</item>
+    </string-array>
+    <string-array name="meal_duration">
+        <item>1 oră</item>
+        <item>2 ore</item>
+        <item>3 ore</item>
+        <item>4 ore</item>
+        <item>5 ore</item>
+        <item>6 ore</item>
+    </string-array>
+    <string-array name="proximity">
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+        <item>10000</item>
+        <item>11000</item>
+        <item>12000</item>
+        <item>13000</item>
+        <item>14000</item>
+        <item>15000</item>
+    </string-array>
+    <string-array name="select_region">
+        <item>Vest</item>
+        <item>centru</item>
+        <item>Nord</item>
+    </string-array>
+    <integer name="google_play_services_version">4323000</integer>
+    <string name="Address">ADRESĂ</string>
+    <string name="Address_title">Adresă</string>
+    <string name="Blank">Blank</string>
+    <string name="Booking_Confirmation">confirmare rezervare</string>
+    <string name="Cancel">Anulează</string>
+    <string name="Categories">Categorii</string>
+    <string name="Categories_sr">lei</string>
+    <string name="Cleanliness">Curățenie</string>
+    <string name="CustomerService">Serviciu Clienți</string>
+    <string name="Delivery">Livrare</string>
+    <string name="Delivery_Areas">Zone de Livrare</string>
+    <string name="EMAIL">EMAIL</string>
+    <string name="Emial">Email</string>
+    <string name="FORGET_PASSWORD">Resetează parola</string>
+    <string name="Food">Mâncare</string>
+    <string name="Food_Categories_Name">Numele Categoriei de mâncare</string>
+    <string name="Food_Categories_Quantity_Details">O bucată 4 lei.</string>
+    <string name="Food_Categories_Spicy_Level">Nivel picant</string>
+    <string name="Food_Categories_size">mărime mică</string>
+    <string name="Header_Categories">CATEGORII</string>
+    <string name="House_Number">Numărul adresei</string>
+    <string name="Indine">În Restaurant</string>
+    <string name="Invitation">invitație</string>
+    <string name="Lastname">Nume</string>
+    <string name="Login">Logare</string>
+    <string name="Minimum_Order">Comandă Minimă: </string>
+    <string name="Minimum_Order_details"> E necesară o Comandă minimă de 150 RON</string>
+    <string name="Minimum_Time_Order">Timpul minim de livrare</string>
+    <string name="Minimum_time_to_Order">Ora minimă de comandă: </string>
+    <string name="Minimum_time_to_Order_details">Comandă cu 2 zile înainte </string>
+    <string name="Mobile_Number">Număr de telefon</string>
+    <string name="Name">Nume</string>
+    <string name="Newest">Cel mai nou</string>
+    <string name="No_Booking">Oops, Nu găsim nici o rezervare</string>
+    <string name="No_City">Nici un oraș disponibil</string>
+    <string name="No_District">Nici un oraș disponibil</string>
+    <string name="No_Fav_Restaurant">Oops! Nu găsim nici un restaurant</string>
+    <string name="No_Gallery">Oops, Nici o imagine de găsit</string>
+    <string name="No_Internet_Connection">Fără Conexiune la Internet</string>
+    <string name="No_Restaurant">Oops! Nu găsim nici un restaurant în apropiere de tine</string>
+    <string name="No_Reviews">Oops, Nu găsim nici un Review!</string>
+    <string name="No_abt_restaurant">Oops, Nu există nici un detaliu!</string>
+    <string name="Notes">Note: </string>
+    <string name="Notes_detail">Nici o notă de arătat</string>
+    <string name="OO_statusWaiting">în așteptare</string>
+    <string name="Online_Order">Comanda online</string>
+    <string name="Password">Parolă</string>
+    <string name="Persons">Per.</string>
+    <string name="Pickup">Ridică din Restaurant</string>
+    <string name="Popup_Exit">Sunteti siguri că doriţi să ieşiţi?</string>
+    <string name="Popup_Exit_title">APPA compensatorii</string>
+    <string name="Price">Preț</string>
+    <string name="Quality">Calitate</string>
+    <string name="Ratings">Evaluări</string>
+    <string name="Register">Înregistrare</string>
+    <string name="Register_Select_City">Selectează Oraș</string>
+    <string name="Registration">Înregistrare</string>
+    <string name="Repeat_Password">Repetă Parola</string>
+    <string name="Restaurant">RESTAURANT</string>
+    <string name="Restaurant_name">Numele Restaurantului</string>
+    <string name="Review">REVIEWS</string>
+    <string name="Riquired">lei</string>
+    <string name="SR">lei 960</string>
+    <string name="Search">Caută</string>
+    <string name="Search_Restaurant">CAUTĂ RESTAURANT</string>
+    <string name="Search_edittext_hint">CAUTĂ</string>
+    <string name="Select_City">SELECTEAZĂ ORAȘ</string>
+    <string name="Select_District">Selectează Oraș</string>
+    <string name="Select_FR_Region">SELECTEAZĂ REGIUNE</string>
+    <string name="Select_Region">Selectează Regiune</string>
+    <string name="Service">Servicii</string>
+    <string name="Status">Status: </string>
+    <string name="Street">Stradă</string>
+    <string name="Sweet_spicy">Dulce/Picant</string>
+    <string name="TG_status_cancel">Rezervare anulată</string>
+    <string name="TG_status_cancel_by_user">Anulată de utilizator</string>
+    <string name="TG_status_confirmed">Rezervare confirmată</string>
+    <string name="TG_statuspending">în așteptare</string>
+    <string name="Table_Graber">Rezervare de masă</string>
+    <string name="Top_rated">Cel mai bine cotat</string>
+    <string name="Types_of_food">Tip de mâncare</string>
+    <string name="Update">Actualizare</string>
+    <string name="Update_profile">PROFIL</string>
+    <string name="Username">Nume Utilizator</string>
+    <string name="ab_action">Acțiune</string>
+    <string name="ab_all">Tot</string>
+    <string name="ab_date">Data</string>
+    <string name="ab_name">Nume</string>
+    <string name="ab_noper">Neaplicabil</string>
+    <string name="ab_oo">Rezervări mese online</string>
+    <string name="ab_per">Număr de persoane</string>
+    <string name="ab_search">Caută</string>
+    <string name="ab_selectdate">Selectează data</string>
+    <string name="ab_status">Status</string>
+    <string name="ab_tg">Rezervări mese online</string>
+    <string name="ab_title">Toate Rezervările</string>
+    <string name="ab_type">Tipul de rezervare</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Terminat"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Afișați-le pe toate"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Interogare de căutare"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Trimiteți la %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="about_restaurant">Despre Restaurant</string>
+    <string name="abr_Accepted_Credit_Cards">Mod de plata :</string>
+    <string name="abr_Closing_Time">Ora de închidere :</string>
+    <string name="abr_Cuisine">bucătărie :</string>
+    <string name="abr_Deserts">Dessert :</string>
+    <string name="abr_Dinner_Timing">Cina :</string>
+    <string name="abr_Lunch_Timing">masa de pranz Timing :</string>
+    <string name="abr_Main_Coarse">Fel principal :</string>
+    <string name="abr_Opening_Days">Zilele în care e deschis :</string>
+    <string name="abr_Opening_Time">Ora de deschidere :</string>
+    <string name="abr_Services">servicii :</string>
+    <string name="abr_Starters">Aperitive :</string>
+    <string name="abt_rest_txt">Despre Restaurant</string>
+    <string name="action_settings">Setări</string>
+    <string name="admin_rest_registration_link"><u>Bussines</u></string>
+    <string name="af_action">acțiune</string>
+    <string name="af_availab">disponibilitate</string>
+    <string name="af_fc">codul alimente</string>
+    <string name="af_img">img</string>
+    <string name="af_name">nume</string>
+    <string name="app_name">Aplicația pentru Utilizator</string>
+    <string name="atmosphere">Atmosferă</string>
+    <string name="bc_notes">Notă:</string>
+    <string name="bc_points">puncte = 1 leu</string>
+    <string name="blank_city">Câmpul ”Oraș” nu poate fi gol</string>
+    <string name="blank_district">Câmpul ”Oraș” nu poate fi gol</string>
+    <string name="blank_email">Câmpul ”Email” nu poate fi gol</string>
+    <string name="blank_first_name">Câmpul ”Prenume” nu poate fi gol</string>
+    <string name="blank_house_number">Câmpul ”Numărul adresei” nu poate fi gol</string>
+    <string name="blank_last_name">Câmpul ”Nume” nu poate fi gol</string>
+    <string name="blank_mobile_number">Nu este un număr de telefon valid</string>
+    <string name="blank_street">Câmpul ”Strada” nu poate fi gol</string>
+    <string name="boarder_line">-</string>
+    <string name="btn_ar">Română</string>
+    <string name="btn_en">Engleză</string>
+    <string name="btn_validate">Validează</string>
+    <string name="cancel_order"><u>Anulează Comanda</u></string>
+    <string name="categories">Categorii de produse alimentare</string>
+    <string name="categories_textview">Categorii</string>
+    <string name="ch_avi">disponibil</string>
+    <string name="check_box_text">Am citit și acceptat termenii și condițiile</string>
+    <string name="checkout">Ieșire</string>
+    <string name="checkout_ContactDetails">Detalii de Contact</string>
+    <string name="checkout_Delivery">Livrare</string>
+    <string name="checkout_Payment">Plată</string>
+    <string name="checkout_Payment_header">Plată</string>
+    <string name="checkout_Reciept">Chitanță</string>
+    <string name="checkout_Reciept_header">Chitanță</string>
+    <string name="checkout_city">Selectează Oraș</string>
+    <string name="checkout_district">Selectează Oraș</string>
+    <string name="checkout_mobile_verify">Trebuie să îți verifici detaliile de contact și numărul comenzii pentru a o ridica</string>
+    <string name="checkout_pick_myself">Îl voi ridica eu</string>
+    <string name="checkout_pont_location">Punctează-ți adresa pe harta pentru acuratețe și livrare mai rapidă</string>
+    <string name="checkout_saved_address">Utilizează adresa salvată</string>
+    <string name="checkout_shipping_information">Informațiile pentru livrare</string>
+    <string name="checkout_title_shipping_information">Informațiile pentru livrare</string>
+    <string name="checkout_used_saved_address">Strada Ilarie Chendi nr. 19</string>
+    <string name="checkout_zipcode">Cod Poștal(Optional)</string>
+    <string name="cleanliness">Curățenie</string>
+    <string name="comment">Comentariu</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-ro/base_strings.xml -->
+    <eat-comment/>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> necesită unul sau mai multe servicii Google Play, care momentan nu sunt disponibile. Contactați dezvoltatorul pentru asistență."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Activați serviciile Google Play"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va funcționa decât dacă activați serviciile Google Play."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"Activați serviciile Google Play"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"Descărcați serviciile Google Play"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care lipsesc de pe telefon."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care lipsesc de pe tabletă."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"Descărcați serviciile Google Play"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"Contul menționat nu există pe acest dispozitiv. Alegeți alt cont."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"Contul nu este valid"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"Eroare de rețea"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Eroare privind serviciile Google Play"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"Accesarea conturilor dintr-un profil cu permisiuni limitate nu este acceptată."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"Profil cu permisiuni limitate"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"Eroare la conectarea la contul specificat. Alegeți alt cont."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"Conectarea nu a reușit"</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-ro/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> întâmpină probleme privind serviciile Google Play. Dacă problema persistă, contactați dezvoltatorul pentru asistență."</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-ro/base_strings.xml -->
+    <eat-comment/>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> se bazează pe serviciile Google Play, care nu sunt acceptate de dispozitiv. Contactați producătorul pentru asistență."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Serviciile Google Play"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"Actualizați"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula decât dacă actualizați serviciile Google Play."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"Actualizați serviciile Google Play"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care momentan se actualizează."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Se actualizează serviciile Google Play"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza automat în curând."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"Deschideți pe telefon"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"Conectați-vă"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"Conectați-vă cu Google"</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="confirm">confirma</string>
+    <string name="confirm_order"><u>Confirmă Comanda</u></string>
+    <string name="contact_Comments">Comment-uri</string>
+    <string name="contact_details_delivery_TIME">Ora livrării</string>
+    <string name="contact_details_delivery_date">Data Livrării</string>
+    <string name="contact_details_delivery_select_DATE">Selectează Dată</string>
+    <string name="contact_details_delivery_select_TIME">Selectează Oră</string>
+    <string name="contact_details_title">Detalii de contact</string>
+    <string name="contact_email">Email</string>
+    <string name="contact_firstname">Prenumele</string>
+    <string name="contact_lastname">Numele</string>
+    <string name="contact_mobile"> Număr Mobil</string>
+    <string name="csm_cancel">Anulează</string>
+    <string name="csm_confirm">Confirmă</string>
+    <string name="csm_dishname">fel de mâncare</string>
+    <string name="csm_drinks">Băuturi</string>
+    <string name="csm_menu_checkbox">Restaurantul oferă de obicei doar meniuri fixe(Nu e posibil să comanzi din meniu a la carte. Este un singur preț pentru felul principal și desert)</string>
+    <string name="csm_menu_descr">O EXCEPȚIE DE LA MENIU</string>
+    <string name="csm_menu_descr1">Aici, vă rugăm să vorbiți despre felurile de mâncare ce reprezintă meniul restaurantului dvs.</string>
+    <string name="csm_price">Preț</string>
+    <string name="csm_title">Meniu și Meniu a la Carte</string>
+    <string name="customer_service">Serviciu Clienți</string>
+    <string name="day_before">Zi înainte</string>
+    <string name="delivery_option">Opțiuni de livrare</string>
+    <string name="downfile">Descărcarea de fișiere. Te rog asteapta...</string>
+    <string name="drawer_close">Închide secțiunea de navigare</string>
+    <string name="drawer_open">Deschide secțiunea de navigare</string>
+    <string name="drinks">Băuturi</string>
+    <string name="ed_add_comments">Despre Restaurant</string>
+    <string name="ed_bic">Tastează BIC</string>
+    <string name="ed_email">Tastează Email</string>
+    <string name="ed_mo_hont">Introduceți Mobile</string>
+    <string name="editText2">Tastează IBAN</string>
+    <string name="empty_cart">Coșul tău este gol</string>
+    <string name="fabulous">Fabulos</string>
+    <string name="facebook_app_id">841446575941953</string>
+    <string name="fb_Services">Servicii</string>
+    <string name="fb_action">Acțiune</string>
+    <string name="fb_atmosphere">Atmosferă</string>
+    <string name="fb_clean">Curățenie</string>
+    <string name="fb_comment">Comment</string>
+    <string name="fb_cumulative">Cumulativ</string>
+    <string name="fb_customer">Client</string>
+    <string name="fb_date">Dată</string>
+    <string name="fb_food">Mâncare</string>
+    <string name="fb_look">Aspect</string>
+    <string name="fb_title">Reviews</string>
+    <string name="fdc_title">Categorii</string>
+    <string name="few_words_abt_rest">Câteva cuvinte despre Restaurant</string>
+    <string name="find_restaurant">Găsește Restaurant</string>
+    <string name="find_table_screen_txt">Când vrei să îți rezervi masa în restaurant?</string>
+    <string name="first_name">Prenume</string>
+    <string name="food">Mâncare</string>
+    <string name="fp_email">tastează Email</string>
+    <string name="fp_resetpass">Resetează Parola</string>
+    <string name="fp_title">Ți-ai uitat parola</string>
+    <string name="generate_invoice"> Sigur vrei să Generare factură ?</string>
+    <string name="gs_minimum_reqorder">Minimuma ekuireda ordera</string>
+    <string name="gs_title">Setări Globale</string>
+    <string name="gsaveragebill">Care este factura medie?</string>
+    <string name="gslastminute">Primiți ultimul rezervare minut?</string>
+    <string name="gt_noorder">Nu pentru ca această lună</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="horizontal_line">|</string>
+    <string name="hs_title">ecran De Start</string>
+    <string name="invalid_email">Nu este o adresă validă de Email</string>
+    <string name="invalid_file_name">Invalid file name, Please retry</string>
+    <string name="invitation_booking_txt">Rezervarea dvs așteaptă confirmare de la Restaurant/ Veți primi un răspuns cât mai curând posibil</string>
+    <string name="logout">Ieșire</string>
+    <string name="look">Aspect</string>
+    <string name="lot">Nivel de gust</string>
+    <string name="loyalty_pts">0</string>
+    <string name="loyalty_pts_notes">Notă:21 puncte = 1 leu</string>
+    <string name="loyalty_pts_static_txt">.\n\n EasyEAT e mândru să vă ofere un program unic cu beneficii speciale și recompense pentru fiecare client care folosește aplicația noastră. E un beneficiu atât pentru restaurante cât și pentru clienți. 
+<b>De ce au nevoie Restaurantele de un program de loialitate?\n</b>Acest program de loialitate are un imens impact și asupra restaurantelor:\
+        ●Prin acest program clientul are motive puternice să creadă că va primi ceva în mod gratuit următoarea dată când va vizita restaurantul.
+        \n ● Restaurantele îmbunătățesc relația lor cu clienții.
+        \n ● De asemenea restaurantele pot construi o bază de date cu clienții lor.
+        \n ● Prin acest program, restaurantele au posibilitatea de a răsplăti și de a-și arăta recunoștința față de clienții lor.
+        \n ● Prin aceasta își construiesc brand-ul.
+        \n ● În acest sens, și oferta devine mai diversificată și comoetiția mai acerbă. 
+        \n ● Fluxul de clienți crește. 
+        \n ● Restaurantul poate face mai mulți bani.  
+<b>Cum se pot alătura clienții acestu program?\n</b> E complet gratuit, așa că, de ce nu?\n 
+Înregistrează-te pe EasyEat\n \n
+<b>Cum pot câștiga clienții puncte de loialitate?</b>Primește recompense făcând ceea ce ție îți place.
+●	Selectează Restaurantul pe care îl dorești 
+●	Rezervă masa
+●	Bucură-te de mancare 
+●	Scrie un review pentru restaurantul respectiv 
+●	Și așa ești răsplătit cu puncte de loialitate
+
+Punctele vor fi câștigate doar după ce vei lăsa restaurantului un review
+<b>Cum își vor valorifica clienții punctele de loialitate?</b> Adună-le sau primește ceva în schimb 
+●	După ce aduni punctele de loialitate, vei câștiga un anumit discount
+●	Selectează restaurantul dorit și care a acceptat acest program
+●	Rezervă masa și alege să ai discount cu punctele de loialitate
+●	Primește discount-ul pe nota ta de plată
+Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte = 1 leu.
+<b>Considerarea Punctelor</b> Punctele asociate cu rezervarea ta, vor fi disponibile pentru tine, doar după ce vei lăsa un review. 
+●	Vei putea să dai un review doar după ce ai făcut o rezervare confirmată de restaurant 
+●	Gândește în perspectivă: Așteaptă unpic mai mult, câștigă mai multe puncte și primește un discount mai mare. 
+●	Punctele pot fi fructificate doar pe nota de plată
+●	Câștigă puncte indiferent de terminalul de pe care faci rezervarea.
+</string>
+    <string name="loyalty_pts_text">Tastează-ți punctele de loialitate</string>
+    <string name="loyalty_reward_screen">Programul de Loialitate</string>
+    <string name="loyalty_reward_screen_one">EasyEAT e mândru să vă ofere un program unic cu beneficii speciale și recompense pentru fiecare client care folosește aplicația noastră. E un beneficiu atât pentru restaurante cât și pentru clienți. 
+<string name="loyalty_reward_screen_two">Acest program de loialitate are un imens impact și asupra restaurantelor:\
+        ●Prin acest program clientul are motive puternice să creadă că va primi ceva în mod gratuit următoarea dată când va vizita restaurantul.
+        \n ● Restaurantele îmbunătățesc relația lor cu clienții.
+        \n ● De asemenea restaurantele pot construi o bază de date cu clienții lor.
+        \n ● Prin acest program, restaurantele au posibilitatea de a răsplăti și de a-și arăta recunoștința față de clienții lor.
+        \n ● Prin aceasta își construiesc brand-ul.
+        \n ● În acest sens, și oferta devine mai diversificată și comoetiția mai acerbă. 
+        \n ● Fluxul de clienți crește. 
+        \n ● Restaurantul poate face mai mulți bani. 
+</string><string name="loyalty_reward_screen_three">Programul de loialitate</string><string name="loyalty_reward_screen_four">Programul de loialitate</string><string name="loyalty_reward_screen_five">De ce Restaurantele au nevoie de un program de loialitate?</string></string>
+    <string name="loyalty_txt">Recompense de loialitate</string>
+    <string name="loyalty_user_pts">Puncte de loialitate utilizator</string>
+    <string name="map_desc">Vă rugăm să zoom out și țineți apăsat Marker și apoi glisați-l la anumită locație </string>
+    <string name="mc_Sr_No">Sr.No</string>
+    <string name="mc_customer_action">Acțiune</string>
+    <string name="mc_customer_business">Business</string>
+    <string name="mc_customer_email">Email</string>
+    <string name="mc_customer_lastbooking">Ultima rezervare</string>
+    <string name="mc_customer_name">Client</string>
+    <string name="mc_customer_ordertype">Tipul Comenzii</string>
+    <string name="mc_customer_phoneno">Număr de telefon</string>
+    <string name="mc_fd_search_hint">Numele clientului, Dată, Comment</string>
+    <string name="mc_pdf">Exportează tip PDF</string>
+    <string name="mc_search_hint">Numele clientul</string>
+    <string name="mc_title">Gestionează Clienți</string>
+    <string name="minimum">Minimum</string>
+    <string name="minus">-</string>
+    <string name="mobile_code">+40</string>
+    <string name="most_booked_search">Most Booked</string>
+    <string name="mp_action">acțiune</string>
+    <string name="mp_gallary">Galerie Foto</string>
+    <string name="mp_legend">legendă?</string>
+    <string name="mp_legend_hint">Introduceți Legend</string>
+    <string name="mp_noimage">Nici o imagine Pentru acest Restaurant</string>
+    <string name="mp_photoformate">Formatul foto recomandate; 800 * 450</string>
+    <string name="mp_preview">previzualizare</string>
+    <string name="mp_title">Fotografii</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Trimiteți"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Se caută dispozitive..."</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Conectați-vă la dispozitiv"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Deconectați-vă"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"Nu sunt disponibile informații"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Întrerupeți"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Redați"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Setări pentru traseu"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Nu mai proiectați"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistem"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispozitive"</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="my_booking">Rezervarea mea</string>
+    <string name="my_favourites">Favoritele mele</string>
+    <string name="my_loyalty_program_one">Programul meu de loialitate</string>
+    <string name="my_loyalty_program_two">Punctele de recompensă/loialitate sunt doar începutul</string>
+    <string name="my_networking">Rețele</string>
+    <string name="my_odrer_title">Comenzile mele</string>
+    <string name="my_orders">Comenzile mele</string>
+    <string name="my_profile">Profilul meu</string>
+    <string name="nearby_search">Near by</string>
+    <string name="no">nu</string>
+    <string name="ok">Bine</string>
+    <string name="oo_comments">Comment :</string>
+    <string name="oo_orderdate">Data comenzii : </string>
+    <string name="oo_orderno">Numărul comenzii : </string>
+    <string name="oo_orderstatus">Status-ul comenzii : </string>
+    <string name="oo_ordertime">Ora comenzii : </string>
+    <string name="oo_payment_status">Status-ul comenzii :</string>
+    <string name="oo_service_charge">tarif :</string>
+    <string name="oo_service_process">Procesul serviciului :</string>
+    <string name="ood_title">Detaliile Comenzii</string>
+    <string name="oorawfile_cancelorder">Comandă anulată</string>
+    <string name="oorawfile_coo">Comandă confirmată</string>
+    <string name="order">Comanda</string>
+    <string name="order_Payment_method">Metodă de plată</string>
+    <string name="order_address">Adresa de livrare</string>
+    <string name="order_cancelation_rule_one">poti anula comanda înainte cu minim </string>
+    <string name="order_cancelation_rule_two"> ora</string>
+    <string name="order_canceled">Comanda a fost anulată</string>
+    <string name="order_details"><u>Comanda Detalii</u></string>
+    <string name="order_expired">Tu cant anula comanda . comanda a expirat .</string>
+    <string name="order_restaurant">Restaurant</string>
+    <string name="order_sr">Comanda minimă cerută este de </string>
+    <string name="order_status">Status</string>
+    <string name="order_time">Ora de livrare</string>
+    <string name="order_total">Total</string>
+    <string name="order_zem">:</string>
+    <string name="payment_Continue_to_next">Continuă la Pasul Următor</string>
+    <string name="payment_Delivery_charge">Taxă de livrare:</string>
+    <string name="payment_Method">Vă rugăm selectați metoda de plată</string>
+    <string name="payment_Method_select">Plata la livrare</string>
+    <string name="payment_Offer">Cea mai bună ofertă pentru tine</string>
+    <string name="payment_Offer_apply">Aplică</string>
+    <string name="payment_Offer_discount">10</string>
+    <string name="payment_Offer_discount_details">O bucată 4 lei. Comanda nu poate fi mai mică de 5 bucăți</string>
+    <string name="payment_Offer_discount_order">Discount la Comandă</string>
+    <string name="payment_Sr">lei 0</string>
+    <string name="payment_Total">Total :</string>
+    <string name="payment_rawfile_index">1.</string>
+    <string name="payment_rawfile_item_SR">lei 300</string>
+    <string name="payment_rawfile_item_name">Supă de Pui</string>
+    <string name="payment_rawfile_item_quantity">4</string>
+    <string name="payment_test_Offer">Testează ofertă</string>
+    <string name="pfoo_cancel">Anulat</string>
+    <string name="pfoo_confirme">Confirmat</string>
+    <string name="pfoo_delivery">Livrare</string>
+    <string name="pfoo_order_status">Status-ul comenzii</string>
+    <string name="pfoo_pending">În așteptare</string>
+    <string name="pfoo_pickup">Ridicare de la Restaurant</string>
+    <string name="pfoo_service_type">Procesul</string>
+    <string name="pftg_all">Tot</string>
+    <string name="pftg_dinner">Cină</string>
+    <string name="pftg_launch">Prânz</string>
+    <string name="pftg_shift">Schimbă</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/values-ro/location_strings.xml -->
+    <eat-comment/>
+    <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"Ștergeți căutarea"</string>
+    <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"Căutați"</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="please_login">Te rugăm să te loghezi</string>
+    <string name="please_wait">Vă rugăm așteptați...</string>
+    <string name="plus">+</string>
+    <string name="popup_Offer">Selectează Oferta</string>
+    <string name="popup_Offer_error">Oferta nu este validă pentru această comandă</string>
+    <string name="popup_Send_verification_code">Trimite Codul de verificare</string>
+    <string name="popup_Sendcode_error">Vă rugăm tastați codul de verificare</string>
+    <string name="popup_code">tastează cod</string>
+    <string name="popup_verification_code">Cod de verificare</string>
+    <string name="popup_your_mobile_no">Numărul tău de telefon :</string>
+    <string name="post_review">Revizuire Mesaj</string>
+    <string name="profile_Confirm_Password">Confirmă Parolă</string>
+    <string name="profile_First_name">Prenume</string>
+    <string name="profile_Gender">Gen</string>
+    <string name="profile_Last_name">Nume</string>
+    <string name="profile_Mobile_no">Număr de telefon</string>
+    <string name="profile_New_Password">Parolă Nouă</string>
+    <string name="profile_Old_Password">Parolă veche</string>
+    <string name="profile_display_name">Afișează Numele</string>
+    <string name="profile_title">PROFIL</string>
+    <string name="quantity">0</string>
+    <string name="raw_file_details_four">Ai primit 100 de puncte pentru rezervarea făcută </string>
+    <string name="raw_file_details_one">Am rezervat masă la restaurant</string>
+    <string name="raw_file_details_three">Acesta </string>
+    <string name="raw_file_details_two">Pentru</string>
+    <string name="receipt_Contact_no">Număr de contact:</string>
+    <string name="receipt_Date">Noiembrie 12,2014</string>
+    <string name="receipt_Email">Email :</string>
+    <string name="receipt_Payment_status">În așteptare(Plata la livrare)</string>
+    <string name="receipt_Payment_status_title">Status :</string>
+    <string name="receipt_customerContact_no">123456789</string>
+    <string name="receipt_customer_Email">toni.lucian@yahoo.com</string>
+    <string name="receipt_customer_address"> Strada Ilarie Chendi nr. 19</string>
+    <string name="receipt_customer_name">Numele Clientului</string>
+    <string name="receipt_invoice">INVOICE</string>
+    <string name="receipt_items_name">Numele Produsului</string>
+    <string name="receipt_items_price">Preț</string>
+    <string name="receipt_items_qty">QTY</string>
+    <string name="receipt_items_total">Total</string>
+    <string name="receipt_pay_invoice">Platește Invoice</string>
+    <string name="receipt_thanks">Vă mulțumim că ați cumpărat produsele noastre</string>
+    <string name="reg_nocity">Nici orașului disponibile</string>
+    <string name="reg_noregion">Nu Regiune disponibile</string>
+    <string name="regstep5_title">Contul bancar</string>
+    <string name="regstep5_validate">Valideaza</string>
+    <string name="restaurant_closed">Restaurantul este închis în această zi.</string>
+    <string name="rf_admin_add_food_rf_5412">R5412</string>
+    <string name="rf_admin_add_food_tv_price">Preț</string>
+    <string name="rf_admin_add_tv_food_code">Codul mâncării</string>
+    <string name="rf_admin_booked">Rezervat</string>
+    <string name="rf_admin_confirmed">Confirmat</string>
+    <string name="rf_admin_detail">Detalii</string>
+    <string name="rf_admin_ed_name">Nume</string>
+    <string name="rf_admin_feedback">Gestionează feed back-ul</string>
+    <string name="rf_admin_global_setting">Setări Generale</string>
+    <string name="rf_admin_header_food">Comandă de mâncare</string>
+    <string name="rf_admin_header_name">Pagina principală</string>
+    <string name="rf_admin_header_tv_add_food">Adaugă fel de mâncare</string>
+    <string name="rf_admin_header_tv_booking_list">Listă Rezervări</string>
+    <string name="rf_admin_header_tv_category">Categorie</string>
+    <string name="rf_admin_logout">Ieșire</string>
+    <string name="rf_admin_photos">Gestionează Poze</string>
+    <string name="rf_admin_presantation">Prezentarea Restaurantului</string>
+    <string name="rf_admin_status">Status</string>
+    <string name="rf_admin_subscription">Schimbă-ți subscripția</string>
+    <string name="rf_admin_table_number">Masa nr. </string>
+    <string name="rf_admin_tv_add_description">Descriere</string>
+    <string name="rf_admin_tv_add_food_delete">Șterge</string>
+    <string name="rf_admin_tv_add_food_description">Descriere</string>
+    <string name="rf_admin_tv_add_food_italian_food">Mâncare italiană</string>
+    <string name="rf_admin_tv_add_food_level_1">Nivel  1</string>
+    <string name="rf_admin_tv_add_food_level_of_test">Nivelul testului</string>
+    <string name="rf_admin_tv_add_food_price">Preț</string>
+    <string name="rf_admin_tv_add_food_prices">Prețuri</string>
+    <string name="rf_admin_tv_add_food_spicy">Picant</string>
+    <string name="rf_admin_tv_add_food_subitem">Adaugă</string>
+    <string name="rf_admin_tv_add_food_test_type">Tip Test</string>
+    <string name="rf_admin_tv_add_test_type">Tip test</string>
+    <string name="rf_admin_tv_all_booking">Toate Rezervările</string>
+    <string name="rf_admin_tv_cancel"><u>Anulează</u></string>
+    <string name="rf_admin_tv_cart_and_set_menu">Meniu a la Carte</string>
+    <string name="rf_admin_tv_change_your_subscription">Schimbă-ți Subscripția</string>
+    <string name="rf_admin_tv_finish">Termină</string>
+    <string name="rf_admin_tv_food_order">Comandă de mâncare</string>
+    <string name="rf_admin_tv_french">French</string>
+    <string name="rf_admin_tv_header_time">12:05 pm</string>
+    <string name="rf_admin_tv_img">Img</string>
+    <string name="rf_admin_tv_invoice_and_credit">Facturează și creditează</string>
+    <string name="rf_admin_tv_manage_customer">Gestionează clienţi</string>
+    <string name="rf_admin_tv_manage_setting">Gestionează Setări</string>
+    <string name="rf_admin_tv_name">Nume</string>
+    <string name="rf_admin_tv_no_show">Nu arată</string>
+    <string name="rf_admin_tv_offer">Ofertă</string>
+    <string name="rf_admin_tv_privacy_needed">Nevoie de intimitate</string>
+    <string name="rf_admin_tv_special_note">Notă Specială</string>
+    <string name="rf_admin_tv_statistics">Statistici</string>
+    <string name="rf_admin_tv_table_no">Masa nr. </string>
+    <string name="rf_login_dont">Încă nu ai cont în aplicația noastră?</string>
+    <string name="rf_login_ed_username">Tastează nume Utilizator</string>
+    <string name="rf_login_forgetpass">Ți-ai uitat parola???</string>
+    <string name="rf_login_rg_free">Înregistrează-te aici gratuit</string>
+    <string name="rf_profile_ed_newpassword">Tastează parolă nouă</string>
+    <string name="rf_profile_ed_oldpassword">Tastează parolă actuală</string>
+    <string name="rf_profile_ed_resetpassword">Retastează parola</string>
+    <string name="rf_regi_step2_overbill"/>
+    <string name="rf_regi_step2_radiobutton1">Da</string>
+    <string name="rf_regi_step2_radiobutton2">Nu</string>
+    <string name="rf_regi_step2_radiobutton3">Ridicare de la Restaurant</string>
+    <string name="rf_regi_step2_radiobutton4">Livrare</string>
+    <string name="rf_regi_step2_radiobutton5">Amândouă</string>
+    <string name="rf_regi_step2_seatsnum">Tastează numărul de locuri</string>
+    <string name="rf_regi_step2_textview1">Înregistrare</string>
+    <string name="rf_regi_step2_textview10">Miercuri</string>
+    <string name="rf_regi_step2_textview11">Joi</string>
+    <string name="rf_regi_step2_textview12">Vineri</string>
+    <string name="rf_regi_step2_textview13">Sâmbătă</string>
+    <string name="rf_regi_step2_textview14">Duminică</string>
+    <string name="rf_regi_step2_textview15">Orele de deschidere pentru masă</string>
+    <string name="rf_regi_step2_textview16">Ora la care este acceptată ultima rezervare</string>
+    <string name="rf_regi_step2_textview17">Prânz</string>
+    <string name="rf_regi_step2_textview18">Cină</string>
+    <string name="rf_regi_step2_textview19">Câte locuri are restaurantul dvs?</string>
+    <string name="rf_regi_step2_textview20">La cât se ridică o notă de plată medie?</string>
+    <string name="rf_regi_step2_textview21">Următoarea secțiune vă permite să setați diefite
+                                             ore/zile de disponibilitate direct de pe platforma dvs.</string>
+    <string name="rf_regi_step2_textview22">Rezervarea ta online</string>
+    <string name="rf_regi_step2_textview23">Sunteți dispus să primiți rezervări tip ”last minute”?</string>
+    <string name="rf_regi_step2_textview24">Facilități</string>
+    <string name="rf_regi_step2_textview6">Rezervarea ta e generală</string>
+    <string name="rf_regi_step2_textview7">Zile și ore în care restaurantul e disponibil</string>
+    <string name="rf_regi_step2_textview8">Luni</string>
+    <string name="rf_regi_step2_textview9">Marți</string>
+    <string name="rf_regi_step3_drink">Băutură</string>
+    <string name="rf_regi_step3_tv_dishname">fel de mâncare</string>
+    <string name="rf_rememberme">Ține-mă minte!</string>
+    <string name="rf_supper_admin_header_name">Restaurant Bio french</string>
+    <string name="rf_tv_manage_booking_name">Gestionează Rezervări</string>
+    <string name="rf_tv_take_booking_name">Ia Rezervarea</string>
+    <string name="rf_user_txv_changepassword">Schimbă Parola</string>
+    <string name="rp_cancel">Anulează</string>
+    <string name="rp_confirme">Confirmă</string>
+    <string name="rp_creditcards">Cărți de credit acceptate</string>
+    <string name="rp_cusine">Bucătăria</string>
+    <string name="rp_day_holiday">Zile in care e deschis și perioade de vacanță</string>
+    <string name="rp_service">Servicii</string>
+    <string name="rp_title">Prezentarea Restaurantului</string>
+    <string name="sb_descp">Dacă pachetele selectate sunt pro sau gold atunci redirecționează la secțiunea de plăți</string>
+    <string name="sb_free">Gratuit</string>
+    <string name="sb_gold">Gold</string>
+    <string name="sb_next">Următorul</string>
+    <string name="sb_pro">Pro</string>
+    <string name="sb_title">Schimbă-ți Subscripția</string>
+    <string name="search_hint"> Întrebări cu privire la căutare</string>
+    <string name="select">Selectează</string>
+    <string name="set_menu">Meniu fix</string>
+    <string name="sort_by">Sortează:</string>
+    <string name="spicy_level">nivelul picant</string>
+    <string name="spl_FORGET_PASSWORD">Ți-ai Uitat parola?</string>
+    <string name="spl_Login">LOGARE</string>
+    <string name="spl_Or">sau</string>
+    <string name="spl_Password">Parolă</string>
+    <string name="spl_Register">Înregistrare</string>
+    <string name="spl_Username">Nume Utilizator</string>
+    <string name="sr_multiplication">x</string>
+    <string name="sr_total">lei  TOTAL</string>
+    <string name="sr_total_value">10</string>
+    <string name="static_txt"><b>Adaugă un comment</b> Să fie scurt, sincer și constructiv pentru noi </string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"˃999"</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="step2_contin">continua</string>
+    <string name="step2_delivery">livrare</string>
+    <string name="step2_facility">Facilitati:</string>
+    <string name="step2_lastbooking">Ești dispus să primiți ultimul minut rezervare:</string>
+    <string name="step2_mto">Timp minim pentru a comanda</string>
+    <string name="step2_no">nu</string>
+    <string name="step2_nofile">Nici un fișier ales</string>
+    <string name="step2_pickup">Ridica</string>
+    <string name="step2_yes">da</string>
+    <string name="str_Action">Acțiune</string>
+    <string name="str_Availability">Disponibilitate</string>
+    <string name="str_Cancel">Anulat</string>
+    <string name="str_Confirme">Confirmat</string>
+    <string name="str_Confirmed">Confirmat</string>
+    <string name="str_CreditCards_not_available">Carte de credit nedisponibilă</string>
+    <string name="str_Delete_current_Facebook_connection">Ștergeți conexiunea curentă Facebook ?</string>
+    <string name="str_Delivery">Livrare</string>
+    <string name="str_Description">Descriere</string>
+    <string name="str_Disconnecting_from_Facebook">Deconectarea de la Facebook</string>
+    <string name="str_English">Engleză</string>
+    <string name="str_Enter_BIC">Tastează BIC</string>
+    <string name="str_Enter_Email">Tastează Email</string>
+    <string name="str_Enter_IBAN">Tastează IBAN</string>
+    <string name="str_Enter_Legend">Tastează Legendă</string>
+    <string name="str_Exception">Excepție : </string>
+    <string name="str_FREE">Gratuit</string>
+    <string name="str_Facebook">Facebook</string>
+    <string name="str_Fb_not_Installed">Facebook nu e instalat</string>
+    <string name="str_FileSelectorTestActivity">FileSelectorTestActivity</string>
+    <string name="str_File_Path_not_found">Fișier negăsit</string>
+    <string name="str_File_Selected">Fișier Selectat:</string>
+    <string name="str_File_select_error">Eroare de selectare a fișierului</string>
+    <string name="str_Food_code">Codul mâncării</string>
+    <string name="str_French">Franceză</string>
+    <string name="str_Invalid_Date">Dată Invalidă</string>
+    <string name="str_Level_Of_Taste">Nivel la gust</string>
+    <string name="str_Lunch_opening">Ora de deschidere pentru prânz este mai devreme decât ora de închidere</string>
+    <string name="str_MalformedURLException">MalformedURLException</string>
+    <string name="str_Name">Nume</string>
+    <string name="str_Name_Field_course1_null">Câmpul pentru fel principal 1 nu ar trebui să fie gol</string>
+    <string name="str_Name_Field_course2_null">Câmpul pentru fel principal 2 nu ar trebui să fie gol</string>
+    <string name="str_Name_Field_course3_null"> Câmpul pentru fel principal 3 nu ar trebui să fie gol</string>
+    <string name="str_Name_Field_dessert1_null"> Câmpul pentru dessert1 nu ar trebui să fie gol</string>
+    <string name="str_Name_Field_dessert2_null">Câmpul pentru dessert2 nu ar trebui să fie gol</string>
+    <string name="str_Name_Field_dessert3_null">Câmpul pentru dessert3 nu ar trebui să fie gol</string>
+    <string name="str_Name_Field_starter1_null">Câmpul pentru  starter1 nu ar trebui să fie gol</string>
+    <string name="str_Name_Field_starter2_null">Câmpul pentru starter2 nu ar trebui să fie gol</string>
+    <string name="str_Name_Field_starter3_null"> Câmpul pentru starter3 nu ar trebui să fie gol </string>
+    <string name="str_No_Data_Available">Nici o informație disponibilă</string>
+    <string name="str_No_Data_found">Nici o informație găsită</string>
+    <string name="str_Not_Paid">Neplătit</string>
+    <string name="str_Not_Show">Nu a apărut</string>
+    <string name="str_Over">Terminat</string>
+    <string name="str_Package_information">informațiile cu privire la pachet, up-datate cu succes</string>
+    <string name="str_Paid">Plătit</string>
+    <string name="str_Parse_Exception">Excepție analizare</string>
+    <string name="str_Pending">În așteptare</string>
+    <string name="str_Pickup">Ridică de la Restaurant</string>
+    <string name="str_Please_Try_again">Please Try again</string>
+    <string name="str_Please_choose_valid_time">Te rugăm alege o oră validă</string>
+    <string name="str_Price">Preț</string>
+    <string name="str_Price_Field_course1_null">Câmpul pentru fel principal 1 nu ar trebui să fie gol</string>
+    <string name="str_Price_Field_course2_null">Câmpul pentru fel principal 2 nu ar trebui să fie gol</string>
+    <string name="str_Price_Field_course3_null">Câmpul pentru  fel principal 3 nu ar trebui să fie gol</string>
+    <string name="str_Price_Field_dessert1_null">Câmpul pentru dessert1 nu ar trebui să fie gol</string>
+    <string name="str_Price_Field_dessert2_null">Câmpul pentru dessert2 nu ar trebui să fie gol</string>
+    <string name="str_Price_Field_dessert3_null">Câmpul pentru dessert3 nu ar trebui să fie gol</string>
+    <string name="str_Price_Field_starter1_null"> Câmpul pentru starter1 nu ar trebui să fie gol</string>
+    <string name="str_Price_Field_starter2_null">Câmpul pentru starter2 nu ar trebui să fie gol</string>
+    <string name="str_Price_Field_starter3_null">Câmpul pentru starter3 nu ar trebui să fie gol</string>
+    <string name="str_Price_champagne">Prețul unui pahar de șampanie trebuie să fie mai mic decât prețul unei sticle de șampanie</string>
+    <string name="str_Regi_succeess">Înregistrarea ta a fost completată cu succes</string>
+    <string name="str_Registered_Successfully">Înregistrare făcută cu succes</string>
+    <string name="str_Review">Revizuire</string>
+    <string name="str_Select_Cards">Selectează card</string>
+    <string name="str_Select_Edit_option">Selectează Editează opțiune</string>
+    <string name="str_Select_Service">Selectează Serviciu</string>
+    <string name="str_Service_not_available">Serviciu nedisponibil</string>
+    <string name="str_Sorry_map">Ne pare rău, Nu am putut crea hartă!!!</string>
+    <string name="str_Source_File_not_exist">Acest fițier nu există</string>
+    <string name="str_TG">TG</string>
+    <string name="str_Taste_Type">Tip-gust</string>
+    <string name="str_Upload_Complete">încărcare fișier Completă.</string>
+    <string name="str_Upload_file_to">Încarcă fișier în server</string>
+    <string name="str_Upload_file_to_server">Încarcă fișier</string>
+    <string name="str_Uploading">încărcare fișier...</string>
+    <string name="str_We_can_accept_maximum">(Putem accepta maxim</string>
+    <string name="str_You_dont">Nu ai suficiente puncte de loialitate</string>
+    <string name="str_Your_Loyalty">Ai ajuns la maximul punctelor pe care le poți avea</string>
+    <string name="str_acc_to_0_ratings">în conformitate cu 0 comentarii</string>
+    <string name="str_according_to">conform</string>
+    <string name="str_add_photo">Adaugă poză!</string>
+    <string name="str_bank_acc_det_btn_validate">Anulează</string>
+    <string name="str_bic">BIC</string>
+    <string name="str_call_failed">Apel eșuat, Vă rugăm încercați mai târziu</string>
+    <string name="str_choose_from">Alegeți din Galerie</string>
+    <string name="str_close_time">timp de aproape</string>
+    <string name="str_confirm_pwd">Confirmare parolÄƒ nu poate fi gol .</string>
+    <string name="str_connect_to_fb">Conectează-te la facebook </string>
+    <string name="str_connect_to_fb_as">Conectează-te la facebook ca </string>
+    <string name="str_current_pwd">Parola actualÄƒ nu poate fi gol.</string>
+    <string name="str_device_not_support">De pe sistemul dvs. nu se pot da apeluri telefonice</string>
+    <string name="str_dinner_opening">Ora de deschidere pentru cină este mai devreme decât ora de închidere</string>
+    <string name="str_disconnect_fb">Deconectat de la facebook</string>
+    <string name="str_email">Adresa de e-mail real</string>
+    <string name="str_error">error: </string>
+    <string name="str_facility">Selectați cel lista pe o Facility</string>
+    <string name="str_fb_connection">Nu s-a putut conecta la facebook</string>
+    <string name="str_fb_connection_fail">Nu s-a putut conecta la facebook</string>
+    <string name="str_fb_logout_failed">Deconectare eșuată</string>
+    <string name="str_file_upload_start">Încărcare fișier-Start.</string>
+    <string name="str_french">franceză</string>
+    <string name="str_frm">Format</string>
+    <string name="str_gps_is_off">GPS-ul este dezactivat</string>
+    <string name="str_gpsoff">GPS-ul tău este dezactivat</string>
+    <string name="str_hint">Trebuie să fii titularul contului sau să ai dreptul de a acționa în numele lui</string>
+    <string name="str_hint1">Pentru a primi codul sms ca să ai dreptul de a acționa în nume lui, confirmă nr. tău de telefon</string>
+    <string name="str_http_response">HTTP Response is :</string>
+    <string name="str_iban">IBAN</string>
+    <string name="str_img">Img</string>
+    <string name="str_indexCapacity">indexCapacity</string>
+    <string name="str_invalid_date">Dată invalidă</string>
+    <string name="str_invitation_posting">postarea</string>
+    <string name="str_invitation_send_mail">Trimitere e-mail</string>
+    <string name="str_invitation_subject">Împarte Booking dvs.</string>
+    <string name="str_lat">Locația ta este- \nLat: </string>
+    <string name="str_less_than">Punctele tale de loialitate au o valoare prea mică pentru a putea fi fructificate</string>
+    <string name="str_long">\nLong:</string>
+    <string name="str_max_price_bottle_wine">Tatează prețul maximn pentru o sticlă de vin</string>
+    <string name="str_max_price_cup_Coffee">Tastează prețul maxim pentru o cafea</string>
+    <string name="str_max_price_glass_Champagne">Tatează prețul maxim pentru o sticlă de șampanie</string>
+    <string name="str_max_price_glass_wine">Tatează prețul maxim pentru un pahar cu vin</string>
+    <string name="str_min_price_bottle_wine">Tatează prețul minim pentru o sticlă de vin</string>
+    <string name="str_min_price_bottle_wine_greater">Valoarea maximă trebuie să fie mai mare decât valoarea minimă</string>
+    <string name="str_min_price_cup_Coffee">Tastează prețul minim pentru o cafea</string>
+    <string name="str_min_price_glass_Champagne">Tatează prețul minim pentru un pahar de șampanie</string>
+    <string name="str_min_price_glass_wine">Tatează prețul minim pentru un pahar cu vin</string>
+    <string name="str_min_price_glass_wine_greater">Valoarea maximă trebuie să fie mai mare decât valoarea minimă</string>
+    <string name="str_mobile_no_not_found">Număr de telefon negăsit</string>
+    <string name="str_my_networking_compose_email"> Hei , a verifica acest nou App numit Restaurant Finder . Acesta vă oferă atât de multe funcționalități și puteți comanda de la Acasă . Aici este link-ul pentru aceasta https://www.google.com</string>
+    <string name="str_my_networking_subject">New App cu un nou concept de doar verifica străzile Restaurant Finder</string>
+    <string name="str_na">NA</string>
+    <string name="str_no_data_found">Nici o informație găsită</string>
+    <string name="str_no_data_found_as_search">Nici o informație găsită conform criteriilor tale</string>
+    <string name="str_no_locatiojn">Nici o locație găsită</string>
+    <string name="str_no_location">Nici o locație găsită</string>
+    <string name="str_not_blank_pwd">ParolÄƒ nouÄƒ nu poate fi gol.</string>
+    <string name="str_num">Telefon mobil real</string>
+    <string name="str_open_time">timp liber</string>
+    <string name="str_orders">comenzi)</string>
+    <string name="str_path_of_image">cale de imagine din Galerie......******************.........</string>
+    <string name="str_pdf_cvs">Vă rugăm selectați doar .pdf,.csv,.txt </string>
+    <string name="str_please_login">Te rugăm loghează-te</string>
+    <string name="str_please_wait">Vă rugăm așteptați..</string>
+    <string name="str_post_fb">Postat pe Facebook</string>
+    <string name="str_price_1litter">Prețul 1/2L sticlă cu apă este mai mic decât prețul unei sticle la un litru</string>
+    <string name="str_price_bottle_water">Tastează prețul unei sticle de apă</string>
+    <string name="str_price_bottle_wine_larger">Prețul maxim pentru un pahar cu vin trebuie să fie mai mare decât prețul minim</string>
+    <string name="str_price_coffee">Prețul maxim pentru o cafea trebuie să fie mai mare decât prețul minim</string>
+    <string name="str_price_cup_Coffee_greater">Valoarea maximă trebuie să fie mai mare decât valoarea minimă</string>
+    <string name="str_price_full_bottle_water_greater">Prețul unei sticle întregi ar trebui să fie mai mare decât prețul unei jumătăți de sticlă.</string>
+    <string name="str_price_glass_Champagne_greater">Valoarea maximă trebuie să fie mai mare decât valoarea minimă</string>
+    <string name="str_price_glass_wine_larger">Prețul maxim pentru un pahar cu vin trebuie să fie mai mare decât prețul minim</string>
+    <string name="str_price_half_bottle_water">Tastează prețul unei jumătăți de sticlă de apă</string>
+    <string name="str_psw_not_match">Parola nu se potrivește</string>
+    <string name="str_ratings">0/10</string>
+    <string name="str_repeat_password">Parola nu se potrivește cu parola Reintroduceți</string>
+    <string name="str_rf_covers">Locuri disponibile</string>
+    <string name="str_rf_din">Cină</string>
+    <string name="str_rf_fri">V</string>
+    <string name="str_rf_how">Câte locuri are restaurantul dvs?</string>
+    <string name="str_rf_login_ed_password">tastează parola</string>
+    <string name="str_rf_login_ed_username">tastează e-mail-ul ca și nume utilizator</string>
+    <string name="str_rf_login_tv_forgetpass"><u>Ți-ai uitat parola?</u></string>
+    <string name="str_rf_login_tv_password">Parolă</string>
+    <string name="str_rf_login_tv_username">Nume Utilizator</string>
+    <string name="str_rf_lunch">Prânz</string>
+    <string name="str_rf_meal">Orele de disponibilitate pentru masă</string>
+    <string name="str_rf_mon">L</string>
+    <string name="str_rf_no1">15</string>
+    <string name="str_rf_no2">100</string>
+    <string name="str_rf_open">Zilele și orele în care e deschis</string>
+    <string name="str_rf_regi_step2_rb_miss">D-șoara</string>
+    <string name="str_rf_regi_step2_rb_mr">Dl,</string>
+    <string name="str_rf_regi_step2_rb_mrs">Dna</string>
+    <string name="str_rf_regi_step2_tv2">Comment-uri</string>
+    <string name="str_rf_regi_step2_tv_dont">Nu-ți fă griji, ne mișcăm repede!!</string>
+    <string name="str_rf_regi_step2_tv_no">+40756216997</string>
+    <string name="str_rf_regi_step2_tv_que">Întrebări? Nu ezita să ne contactezi la nr. de tel. 0756216997</string>
+    <string name="str_rf_regi_step2_tv_reg">Înregistrare</string>
+    <string name="str_rf_regi_step2_tv_step">Pasul 2/4 Gestionează-ți contul după cum vrei!!!</string>
+    <string name="str_rf_regi_step2_tv_thank">⁫Vă mulțumim că ați ales restaurantfinder</string>
+    <string name="str_rf_regi_step2_tv_youhave">Vă cerem doar un singur lucru: tratați clienții pe care vi trimitem cu o masă delicioasă!!!!! Încă unpic și terminăm cu înregistrarea!</string>
+    <string name="str_rf_regi_step3_bot_wine">Prețul unei sticle de vin</string>
+    <string name="str_rf_regi_step3_btn_contn">Continuă</string>
+    <string name="str_rf_regi_step3_calcel"><u>Anulează</u></string>
+    <string name="str_rf_regi_step3_champ_bottle">Sticlă</string>
+    <string name="str_rf_regi_step3_champ_glass">Pahar</string>
+    <string name="str_rf_regi_step3_ed_course1">Brocoli cu brânză</string>
+    <string name="str_rf_regi_step3_ed_course2">Rissoto</string>
+    <string name="str_rf_regi_step3_ed_dessert1">Brownies</string>
+    <string name="str_rf_regi_step3_ed_dessert2">Prăjitură de ciocolată fără ou</string>
+    <string name="str_rf_regi_step3_ed_price1">12.00</string>
+    <string name="str_rf_regi_step3_ed_price2">35.00</string>
+    <string name="str_rf_regi_step3_ed_purity">Scrie anecdotă</string>
+    <string name="str_rf_regi_step3_ed_starter1">Scrie felul de mâncare</string>
+    <string name="str_rf_regi_step3_ed_strng">Vorbește despre punctele forte</string>
+    <string name="str_rf_regi_step3_ed_veg"> E și pentru vegetarieni?</string>
+    <string name="str_rf_regi_step3_glass_wine">Prețul mediu pentru un pahar cu vin</string>
+    <string name="str_rf_regi_step3_halfbootle">1.89/l</string>
+    <string name="str_rf_regi_step3_litterbootle">1 L</string>
+    <string name="str_rf_regi_step3_max">Maximum</string>
+    <string name="str_rf_regi_step3_min">Minimum</string>
+    <string name="str_rf_regi_step3_popup_creditcards">Cărți de credit</string>
+    <string name="str_rf_regi_step3_popup_title">Serviciu</string>
+    <string name="str_rf_regi_step3_stl_wtr">Prețul unei sticle de apă</string>
+    <string name="str_rf_regi_step3_stl_wtr1">Prețul minim pentru o șampanie</string>
+    <string name="str_rf_regi_step3_tv1">Rezervarea ta online</string>
+    <string name="str_rf_regi_step3_tv_cofee">Prețul pentru o cafea</string>
+    <string name="str_rf_regi_step3_tv_comment">Comment-uri</string>
+    <string name="str_rf_regi_step3_tv_course1">Fel principal</string>
+    <string name="str_rf_regi_step3_tv_course2">Fel principal2</string>
+    <string name="str_rf_regi_step3_tv_course3">Fel principal3</string>
+    <string name="str_rf_regi_step3_tv_credit">Cărți de credit acceptate</string>
+    <string name="str_rf_regi_step3_tv_cuisine">Bucătărie</string>
+    <string name="str_rf_regi_step3_tv_dessert1">Dessert</string>
+    <string name="str_rf_regi_step3_tv_dessert2">Dessert 2</string>
+    <string name="str_rf_regi_step3_tv_dessert3">Dessert 3</string>
+    <string name="str_rf_regi_step3_tv_exceprt">O excepție de la meniu</string>
+    <string name="str_rf_regi_step3_tv_price">Preț</string>
+    <string name="str_rf_regi_step3_tv_select_service">Selectează Serviciu</string>
+    <string name="str_rf_regi_step3_tv_service">Serviciu</string>
+    <string name="str_rf_regi_step3_tv_setmenu">Meniu Fix</string>
+    <string name="str_rf_regi_step3_tv_special">O anecdotă specială</string>
+    <string name="str_rf_regi_step3_tv_starter1">starter</string>
+    <string name="str_rf_regi_step3_tv_starter2">starter 2</string>
+    <string name="str_rf_regi_step3_tv_starter3">starter 3</string>
+    <string name="str_rf_regi_step3_tv_strng">Punctele forte ale restaurantului tău.</string>
+    <string name="str_rf_regi_step4_billing">Email-ul pentru facturare</string>
+    <string name="str_rf_regi_step4_cancel"><u>Anulează ing</u></string>
+    <string name="str_rf_regi_step4_ch_billing_address">Adresa sediului este diferită față de adresa mea de corespondență</string>
+    <string name="str_rf_regi_step4_choice">Alegerea pachetului</string>
+    <string name="str_rf_regi_step4_city">Oraș</string>
+    <string name="str_rf_regi_step4_comment">Comment-uri</string>
+    <string name="str_rf_regi_step4_corporate">Numele Companiei</string>
+    <string name="str_rf_regi_step4_country">Țară</string>
+    <string name="str_rf_regi_step4_district">Județ</string>
+    <string name="str_rf_regi_step4_dont">Felicitări, Înregistrarea a luat sfârșit</string>
+    <string name="str_rf_regi_step4_ed_fname">Prenume</string>
+    <string name="str_rf_regi_step4_ed_lname">Bume</string>
+    <string name="str_rf_regi_step4_free">Gratuit</string>
+    <string name="str_rf_regi_step4_gold">GOLD</string>
+    <string name="str_rf_regi_step4_inoice">Adresa pentru factură</string>
+    <string name="str_rf_regi_step4_inoice_add">Adresa pentru factură</string>
+    <string name="str_rf_regi_step4_no">041 125 544 55 55</string>
+    <string name="str_rf_regi_step4_online">Taxa pentru rezervarea on-line nu este inclusă</string>
+    <string name="str_rf_regi_step4_orat">or at</string>
+    <string name="str_rf_regi_step4_payment">Metodă de plată</string>
+    <string name="str_rf_regi_step4_pro">PRO +</string>
+    <string name="str_rf_regi_step4_region">Regiune</string>
+    <string name="str_rf_regi_step4_tax">89.00 lei/lună</string>
+    <string name="str_rf_regi_step4_textid">CUI</string>
+    <string name="str_rf_regi_step4_tv1"> Acest instrument este ideal pentru a-ți putea digitaliza rezervările și de asemenea pentru a-ți manageria imaginea în mediul online.hiiii soooo niceeeee</string>
+    <string name="str_rf_regi_step4_tv3">Metoda de plată acceptată e SEPA</string>
+    <string name="str_rf_regi_step4_tv4">Dacă aveți vreo plângere, vă putem trimite mai multe informații</string>
+    <string name="str_rf_regi_step4_tv5">Completează-ți informațiile pentru facturare și apoi vei fi redirecționat către o pagină securizată pentru a completa datele bancare
+        								  și astfel să termini înregistrarea</string>
+    <string name="str_rf_regi_step4_tv6">support@restaurantfinder.com</string>
+    <string name="str_rf_regi_step4_tv_fname">Prenumele Reprezentantului (tu)</string>
+    <string name="str_rf_regi_step4_tv_lname">Numele Reprezentantului (tu)</string>
+    <string name="str_rf_regi_step4_tv_step">Pasul4/4 Pachete și Plăți</string>
+    <string name="str_rf_regi_step4_zipcod">Cod Poștal</string>
+    <string name="str_rf_registration_btn_continue">Continuă</string>
+    <string name="str_rf_registration_btn_map">Hartă</string>
+    <string name="str_rf_registration_ed_add">Scrie adresa restaurantului</string>
+    <string name="str_rf_registration_ed_amount">tastează suma</string>
+    <string name="str_rf_registration_ed_city">Oraș</string>
+    <string name="str_rf_registration_ed_female">Femeie</string>
+    <string name="str_rf_registration_ed_fname">Tastează-ți Numele</string>
+    <string name="str_rf_registration_ed_latitude"> tastează Latitudine</string>
+    <string name="str_rf_registration_ed_lname">Tastează-ți Numele</string>
+    <string name="str_rf_registration_ed_longitude">tastează longitudine</string>
+    <string name="str_rf_registration_ed_made_deliver">Câte Livrări</string>
+    <string name="str_rf_registration_ed_pwd"> tastează parolă</string>
+    <string name="str_rf_registration_ed_pwd_retype">Rescrie Parola</string>
+    <string name="str_rf_registration_ed_remail">scrie e-mail-ul restaurantului</string>
+    <string name="str_rf_registration_ed_restaurant">Scrie numele restaurantului</string>
+    <string name="str_rf_registration_ed_rphone">tastează număr de telefon</string>
+    <string name="str_rf_registration_ed_special_note">Notă Specială</string>
+    <string name="str_rf_registration_ed_website">WEBSITE-UL RESTAURANTULUI</string>
+    <string name="str_rf_registration_ed_zip_code">tastează codul poștal</string>
+    <string name="str_rf_registration_email">E-mail</string>
+    <string name="str_rf_registration_fname">Prenume</string>
+    <string name="str_rf_registration_lname">Nume</string>
+    <string name="str_rf_registration_rdo_male">Bărbat</string>
+    <string name="str_rf_registration_sp_counrty"> tastează Țară</string>
+    <string name="str_rf_registration_step1">Pasul 1</string>
+    <string name="str_rf_registration_step2">Pasul 2</string>
+    <string name="str_rf_registration_step3">Pasul 3</string>
+    <string name="str_rf_registration_step4">Pasul 4</string>
+    <string name="str_rf_registration_tv_add">Adresă</string>
+    <string name="str_rf_registration_tv_city">Oraș</string>
+    <string name="str_rf_registration_tv_country">Țară</string>
+    <string name="str_rf_registration_tv_district">Județ</string>
+    <string name="str_rf_registration_tv_fname"> Prenumele tău</string>
+    <string name="str_rf_registration_tv_lname">Numele tău</string>
+    <string name="str_rf_registration_tv_made_deliver">Câte rezervări sunt facute zilnic-cu aproximație</string>
+    <string name="str_rf_registration_tv_pwd">Parolă</string>
+    <string name="str_rf_registration_tv_pwd_retype">Rescrie Parola</string>
+    <string name="str_rf_registration_tv_region">Regiune</string>
+    <string name="str_rf_registration_tv_remail">Email-ul Restaurantului</string>
+    <string name="str_rf_registration_tv_restaurant">Numele Restaurantului</string>
+    <string name="str_rf_registration_tv_rphone">Telefon Restaurant</string>
+    <string name="str_rf_registration_tv_website">Website</string>
+    <string name="str_rf_registration_tv_you">Tu</string>
+    <string name="str_rf_registration_tv_zip_code">Cod Poștal</string>
+    <string name="str_rf_registration_your_restaurant">Restaurantul tău</string>
+    <string name="str_rf_sat">S</string>
+    <string name="str_rf_sun">D</string>
+    <string name="str_rf_the">The following allows you to configure different
+        					  business hours for each day from your platform</string>
+    <string name="str_rf_thu">J</string>
+    <string name="str_rf_time">Ora la care ultima rezervare e acceptată</string>
+    <string name="str_rf_tue">M</string>
+    <string name="str_rf_wed">M</string>
+    <string name="str_rf_what">What is your average bill?(all meals combined)</string>
+    <string name="str_route">route</string>
+    <string name="str_select_cards">Selectează Card</string>
+    <string name="str_select_date">Selectează Dată</string>
+    <string name="str_select_one_payment">Vă rugăm selectați cel puțin o modalitate de plată</string>
+    <string name="str_select_one_service">Vă rugăm selectați cel puțin un tip de serviciu</string>
+    <string name="str_select_time">Selectează ora</string>
+    <string name="str_select_valid_time">Te rugăm alege o oră validă</string>
+    <string name="str_somthing_wrong">Ceva a mers greșit..! Vă rugăm încercați încă o dată..!</string>
+    <string name="str_static_ratings">/10</string>
+    <string name="str_subitem">Execută</string>
+    <string name="str_succefully_Data_send">informație trimisă cu succes</string>
+    <string name="str_successfully_sent">trimis cu succes</string>
+    <string name="str_take_photo">Fă Poză</string>
+    <string name="str_text_length_limit">Tabelul de rezervare trebuie să fie mai mic de patru caractere.</string>
+    <string name="str_there_is_no">Nu există e mail</string>
+    <string name="str_twitter_not">Twitter nu este instalat</string>
+    <string name="str_unable_map">Ne pare rău, Nu am putut crea hartă!!!</string>
+    <string name="str_update_succ">Up-datat cu succes</string>
+    <string name="str_uploadFile">încarcă fișier</string>
+    <string name="str_we_can_accept_unlimited">(Putem accepta comenzi nelimitat)</string>
+    <string name="str_you_r_here">You R Here...</string>
+    <string name="str_you_sure_want">Sigur vrei să Generare factură ?</string>
+    <string name="tab_Contact_Details">Detalii de contact</string>
+    <string name="tab_Payment">Plată</string>
+    <string name="tab_Reciept">Chitanță</string>
+    <string name="tb_amount">Sumă</string>
+    <string name="tb_attached_file">fișier atașat</string>
+    <string name="tb_booking">Rezervare</string>
+    <string name="tb_business">Business</string>
+    <string name="tb_date">Dată</string>
+    <string name="tb_donotmove">Nu mișca</string>
+    <string name="tb_email">Email</string>
+    <string name="tb_enter_Occasion">Scrie Ocazie</string>
+    <string name="tb_enter_business">Tip de afacere</string>
+    <string name="tb_enter_email">tastează Email</string>
+    <string name="tb_enter_firstname">Tastează Prenumele</string>
+    <string name="tb_enter_note">Scrie Notă</string>
+    <string name="tb_enter_phone">tastează nr. de telefon</string>
+    <string name="tb_enter_surname">Tatează Numele</string>
+    <string name="tb_enter_tableno">Tastează numărul mesei</string>
+    <string name="tb_firstname">Prenume</string>
+    <string name="tb_meal_duration">Durata mesei</string>
+    <string name="tb_mustendat">Trebuie să se termine la</string>
+    <string name="tb_note">Notă</string>
+    <string name="tb_number_size">Număr de persoane </string>
+    <string name="tb_occasion">Ocazie</string>
+    <string name="tb_phone">telefon</string>
+    <string name="tb_select_date">Selectează Data</string>
+    <string name="tb_select_occasion">Selectează Ocazie</string>
+    <string name="tb_select_size">Selectează mărimea</string>
+    <string name="tb_select_status">Selectează Status</string>
+    <string name="tb_select_time">Selectează ora</string>
+    <string name="tb_size">Mărime</string>
+    <string name="tb_status">Status</string>
+    <string name="tb_surname">Nume</string>
+    <string name="tb_tableno">Masa nr. </string>
+    <string name="tb_time">Timp</string>
+    <string name="terms_condi">Accepta Termeni și Condiții</string>
+    <string formatted="false" name="terms_condi_details">Această platformă oferă 
+     restaurantelor posibilitatea de a-și mări fluxul de 
+     clienți și implicit de a-și mări cifra de afaceri prin cele două servicii, respectiv rezervări de mese, și comenzi 
+     de mâncare.\n
+     În ceea ce privește rezervarea de masă la restaurant, 
+     se va percepe o taxă de 3lei/persoană pentru 
+     fiecare rezervare de masă la prânz sau la cină.\n
+     În ceea ce privește comanda de mancare, se va percepe un 
+     comision de 5% din totalul comenzii făcute de
+      către utilizator.\n
+      Vom emite factura la inceputul lună, pentru luna anterioară și va 
+      fi trimisă prin mail sau prin poștă, la cerere. După emiterea facturii, 
+      veți avea la dispoziție 15 zile pentru a 
+      efectua plata\n
+      În caz contrar, vi se vor percepe penalități de 
+      întârziere în cuantum de 0.02% din totalul
+       facturii pentru fiecare zi de întârziere.\n
+       Acesta este un contract, și prin acceptarea lui, 
+       vă obligați la cele menționate mai sus.\n
+       Orice formă de neînțelegere va fi rezolvată în mod amiabil, 
+       iar în caz contrar, 
+       de jurisdicțiile din România.</string>
+    <string name="tg_details_title">Detaliile Clientului</string>
+    <string name="tg_loyalty_points">Used Loyalty :</string>
+    <string name="tgrawfile_bookingid">rezervare id :</string>
+    <string name="tgrawfile_finish">finisaj</string>
+    <string name="tgrawfile_ns">neprezentat</string>
+    <string name="title_activity_about_restaurant">Despre Restaurant</string>
+    <string name="title_activity_all_booking">Activitatea de Rezervări</string>
+    <string name="title_activity_booking_confirmation_screen">Confirmarea Rezervării</string>
+    <string name="title_activity_booking_list__tablayout">Lista de rezervări</string>
+    <string name="title_activity_cart_set_menu">Activitate Meniu</string>
+    <string name="title_activity_change_password">Schimbă Parola</string>
+    <string name="title_activity_forget_password">Activitatea uitat-parolă</string>
+    <string name="title_activity_grab_table">Activitatea de rezervare a mesei</string>
+    <string name="title_activity_grab_table_profile">Activitatea de rezervare a mesei</string>
+    <string name="title_activity_invitation_screen">Ecranul de invitație</string>
+    <string name="title_activity_loyalty_rewards_screen">Ecran- Puncte de loialitate</string>
+    <string name="title_activity_manage_customers">Gestionează rulajul clienților</string>
+    <string name="title_activity_manage_feedback">Gestionează activitatea de feed back</string>
+    <string name="title_activity_manage_gallery">Gestionează activitatea-Galerie-Poze</string>
+    <string name="title_activity_manage_subscription">Gestionează activitatea de subscripție</string>
+    <string name="title_activity_my_application">APLICAȚIA MEA</string>
+    <string name="title_activity_my_booking">Rezervarea mea</string>
+    <string name="title_activity_my_favourites">Favoritele Mele</string>
+    <string name="title_activity_my_networking">Networking-ul meu</string>
+    <string name="title_activity_my_profile">Profilul meu</string>
+    <string name="title_activity_online_order_bookings">OnlineOrderBookings</string>
+    <string name="title_activity_online_order_order_details">OnlineOrderOrderDetailsActivity</string>
+    <string name="title_activity_online_table_">Rezervări Online</string>
+    <string name="title_activity_post_review">PostReview</string>
+    <string name="title_activity_registration_step2_">Activitatea de înregistrare</string>
+    <string name="title_activity_registration_step3_">Registration_step3_Activity</string>
+    <string name="title_activity_registration_step4">Registration_step4Activity</string>
+    <string name="title_activity_restaurant_gallery">Galeria Restaurantului</string>
+    <string name="title_activity_restaurant_image_detail">Detaliile de imagini la restaurante</string>
+    <string name="title_activity_restaurant_prasentation">Activitatea de prezentare a Restaurantului</string>
+    <string name="title_activity_review">Activitatea de review-uri</string>
+    <string name="title_activity_review_pullto_refresh"> Refresh Review</string>
+    <string name="title_activity_settings_screen">Setări</string>
+    <string name="title_activity_table_graber_bookings">TableGraberBookings</string>
+    <string name="title_activity_take_booking">Activitatea de a lua rezervări</string>
+    <string name="title_activity_thanking_you_screen">Mulțumim</string>
+    <string name="total">Total</string>
+    <string name="tv_rf_registration_latitude">Latitudine</string>
+    <string name="tv_rf_registration_longitude">Longitudine</string>
+    <string name="tv_rf_registration_title">Titlu</string>
+    <string name="txv_newpassword">Parolă Nouă</string>
+    <string name="txv_oldpassword">Parolă actuală</string>
+    <string name="txv_retypepassword">Confirmă parola</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/res/values-ro/wallet_strings.xml -->
+    <eat-comment/>
+    <string msgid="4184147110658930238" name="wallet_buy_button_place_holder">"Cumpărați cu Google"</string>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="yes">da</string>
+</resources>
