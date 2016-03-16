@@ -2,7 +2,7 @@ package com.bean;
 
 public  class DatabaseData {
 
-	//private variables
+	//private variables///////////////////////////
   
     String _Api;
     String _Data;
