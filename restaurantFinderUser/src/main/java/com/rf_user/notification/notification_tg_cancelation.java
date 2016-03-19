@@ -8,7 +8,7 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.osf.restaurant_user.R;
+import com.rf.restaurant_user.R;
 import com.rf_user.activity.FindRestaurant;
 
 import org.json.JSONException;

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <integer name="google_play_services_version">4323000</integer>
+    <integer name="google_play_services_version">8487000</integer>
 
     <string name="facebook_app_id">841446575941953</string>
     <string name="btn_en">English</string>
@@ -442,7 +442,8 @@ You will receive an answer as soon as possible</string>
     <!-- Loyalty Reward Screen String File -->
 
     <string name="loyalty_reward_screen">Loyalty Rewards Program</string>
-    <string name="loyalty_reward_screen_one">Restaurant Finder is proud to offer unique program with special Benefits and Rewards to each customer for using great and special Restaurant Finder Mobile App. There is equal benefits of Loyalty Program for Restaurants and Customers.  <string name="loyalty_reward_screen_two">Creating a loyalty program for customers will have an immense impact on restaurant business:\n
+    <string name="loyalty_reward_screen_one">Restaurant Finder is proud to offer unique program with special Benefits and Rewards to each customer for using great and special Restaurant Finder Mobile App. There is equal benefits of Loyalty Program for Restaurants and Customers. 
+ <string name="loyalty_reward_screen_two">Creating a loyalty program for customers will have an immense impact on restaurant business:\n
         ● Restaurant give the reason to customers to hope to get something when user visits restaurant again.
         \n ● Restaurant improve relationships with their customers.
         \n ● Restaurant build their database of customers.
@@ -450,8 +451,10 @@ You will receive an answer as soon as possible</string>
         \n ● Restaurants are building a brand for their restaurant.
         \n ● Restaurant become more competitive. 
         \n ● Frequency of their customers visits are increasing. 
-        \n ● Restaurant can make more money. </string><string name="loyalty_reward_screen_three">Loyalty Rewards Program</string><string name="loyalty_reward_screen_four">Loyalty Rewards Program</string><string name="loyalty_reward_screen_five">Why do Restaurants Need a Loyalty Programs?</string></string>
-    <string name="loyalty_pts_static_txt">Restaurant Finder is proud to offer unique program with special Benefits and Rewards to each customer for using great and special Restaurant Finder Mobile App. There is equal benefits of Loyalty Program for Restaurants and Customers.\n\n   <b>Why do Restaurants Need a Loyalty Programs?\n</b>Creating a loyalty program for customers will have an immense impact on restaurant business:\n \n
+        \n ● Restaurant can make more money. 
+</string><string name="loyalty_reward_screen_three">Loyalty Rewards Program</string><string name="loyalty_reward_screen_four">Loyalty Rewards Program</string><string name="loyalty_reward_screen_five">Why do Restaurants Need a Loyalty Programs?</string></string>
+    <string name="loyalty_pts_static_txt">Restaurant Finder is proud to offer unique program with special Benefits and Rewards to each customer for using great and special Restaurant Finder Mobile App. There is equal benefits of Loyalty Program for Restaurants and Customers.\n\n  
+ <b>Why do Restaurants Need a Loyalty Programs?\n</b>Creating a loyalty program for customers will have an immense impact on restaurant business:\n \n
 ●	Restaurant give the reason to customers to hope to get something when visit restaurant again.\n 
 ●	Restaurant improve relationships with their customers.\n 
 ●	Restaurant build their database of customers.\n 
@@ -459,24 +462,29 @@ You will receive an answer as soon as possible</string>
 ●	Restaurants are building a brand for their restaurant.\n 
 ●	Restaurant become more competitive.\n 
 ●	Frequency of their customers visits is increasing.\n 
-●	Restaurant can make more money.\n \n  <b>How do customers can join a Loyalty Reward Program?\n</b>It’s completely free, so why not?\n 
-Sign up for the Table Grabber on Restaurant Finder.\n \n <b>How do customers can earn a Loyalty Reward?\n </b>Get rewarded for doing what you already love.\n 
+●	Restaurant can make more money.\n \n 
+ <b>How do customers can join a Loyalty Reward Program?\n</b>It’s completely free, so why not?\n 
+Sign up for the Table Grabber on Restaurant Finder.\n \n
+ <b>How do customers can earn a Loyalty Reward?\n </b>Get rewarded for doing what you already love.\n 
 ●	Select Restaurant of your choice\n 
 ●	Grab table \n 
 ●	Enjoy your meal \n  
 ●	Give Review for restaurant \n 
 ●	Get rewarded with X points on each table booking review \n  \n
 
-Points can only be earn after giving restaurant reviews.\n \n <b>How do customers can redeem a Loyalty Reward ?\n</b>Save or splurge?\n 
+Points can only be earn after giving restaurant reviews.\n \n
+ <b>How do customers can redeem a Loyalty Reward ?\n</b>Save or splurge?\n 
 ●	After earning loyalty rewards, get specific amount of discount\n 
 ●	Select restaurant of your choice\n 
 ●	Grab table and choose loyalty rewards\n 
 ●	Get discount on your bill \n 
-Points will be converted to amount. For example: X points = Y lei\n \n <b>Consideration points\n \n</b>●	The points associated with your bookings are available to you after giving the reviews for restaurant\n 
+Points will be converted to amount. For example: X points = Y lei\n \n
+ <b>Consideration points\n \n</b>●	The points associated with your bookings are available to you after giving the reviews for restaurant\n 
 ●	Reviews of restaurant will only be possible after order completion (Grab Table)\n  
 ●	Think beyond what you have: This means wait for more time and earn more points to get more discount\n 
 ●	Points received are limited to the bill amount of your order \n 
-●	Earn points whatever the device you use for your booking: mobile application on any device\n </string>
+●	Earn points whatever the device you use for your booking: mobile application on any device\n 
+</string>
     <string name="my_loyalty_program_one">My Loyalty Program</string>
     <string name="my_loyalty_program_two">rewarded points are just the beginning</string>
     <string name="raw_file_details_one">I booked table at the restaurant </string>
@@ -1061,8 +1069,45 @@ Points will be converted to amount. For example: X points = Y lei\n \n <b>Consi
     <string name="abr_Opening_Time">Opening Times :</string>
     <string name="abr_Closing_Time">Closing Time :</string>
     <string name="abr_Dinner_Timing">Dinner Timing :</string>
-     <string name="abr_Cuisine">Cuisine :</string>
-      <string name="abr_Services">Services :</string>
-         <string name="abr_Accepted_Credit_Cards">Accepted Credit Cards :</string>
+    <string name="abr_Cuisine">Cuisine :</string>
+    <string name="abr_Services">Services :</string>
+    <string name="abr_Accepted_Credit_Cards">Accepted Credit Cards :</string>
 
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="noti_book_confi">Booking Confirmed</string>
+
+    <string name="noti_book_canc">Booking Canceled</string>
+    <string name="noti_finish">Order Finished</string>
+    <string name="noti_finish_note">Now you can give review to the hotel</string>
+    <string name="receipt_items_no">No</string>
 </resources>

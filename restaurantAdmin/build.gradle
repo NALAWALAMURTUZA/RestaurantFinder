@@ -25,19 +25,19 @@ android {
         targetCompatibility JavaVersion.VERSION_1_7
     }
 
-}
+    dependencies {
+        //compile files('libs/afilechooser.jar')
+        //compile project(':wheel')
+        compile project(':wheel')
+        compile 'com.google.android.gms:play-services:8.1.0'
+        compile 'com.google.android.gms:play-services-ads:8.1.0'
+        compile 'com.google.android.gms:play-services-identity:8.1.0'
+        compile 'com.google.android.gms:play-services-gcm:8.1.0'
+        //compile 'com.android.support:appcompat-v7:21.1.0'
+        //compile 'com.android.support:support-v4:21.1.0'
+        compile files('libs/afilechooser.jar')
+        //compile files('libs/wheel.jar')
+        compile files('libs/gcm.jar')
+    }
 
-dependencies {
-    //compile files('libs/afilechooser.jar')
-    //compile project(':wheel')
-    //compile project(':wheel')
-    compile 'com.google.android.gms:play-services:8.1.0'
-    compile 'com.google.android.gms:play-services-ads:8.1.0'
-    compile 'com.google.android.gms:play-services-identity:8.1.0'
-    compile 'com.google.android.gms:play-services-gcm:8.1.0'
-    //compile 'com.android.support:appcompat-v7:21.1.0'
-    //compile 'com.android.support:support-v4:21.1.0'
-    compile files('libs/afilechooser.jar')
-    compile files('libs/wheel.jar')
-    compile files('libs/gcm.jar')
 }

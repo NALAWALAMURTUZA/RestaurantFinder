@@ -187,7 +187,7 @@
         <item>centru</item>
         <item>Nord</item>
     </string-array>
-    <integer name="google_play_services_version">4323000</integer>
+    <integer name="google_play_services_version">8487000</integer>
     <string name="Address">ADRESĂ</string>
     <string name="Address_title">Adresă</string>
     <string name="Blank">Blank</string>
@@ -320,12 +320,15 @@
     <string name="abr_Starters">Aperitive :</string>
     <string name="abt_rest_txt">Despre Restaurant</string>
     <string name="action_settings">Setări</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
     <string name="admin_rest_registration_link"><u>Bussines</u></string>
     <string name="af_action">acțiune</string>
     <string name="af_availab">disponibilitate</string>
     <string name="af_fc">codul alimente</string>
     <string name="af_img">img</string>
     <string name="af_name">nume</string>
+    <string name="already_registered">Device is already registered on server.</string>
     <string name="app_name">Aplicația pentru Utilizator</string>
     <string name="atmosphere">Atmosferă</string>
     <string name="bc_notes">Notă:</string>
@@ -437,6 +440,11 @@
     <string name="ed_mo_hont">Introduceți Mobile</string>
     <string name="editText2">Tastează IBAN</string>
     <string name="empty_cart">Coșul tău este gol</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
     <string name="fabulous">Fabulos</string>
     <string name="facebook_app_id">841446575941953</string>
     <string name="fb_Services">Servicii</string>
@@ -459,6 +467,12 @@
     <string name="fp_email">tastează Email</string>
     <string name="fp_resetpass">Resetează Parola</string>
     <string name="fp_title">Ți-ai uitat parola</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
     <string name="generate_invoice"> Sigur vrei să Generare factură ?</string>
     <string name="gs_minimum_reqorder">Minimuma ekuireda ordera</string>
     <string name="gs_title">Setări Globale</string>
@@ -573,6 +587,10 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="my_profile">Profilul meu</string>
     <string name="nearby_search">Near by</string>
     <string name="no">nu</string>
+    <string name="noti_book_canc">Booking Canceled</string>
+    <string name="noti_book_confi">Booking Confirmed</string>
+    <string name="noti_finish">Order Finished</string>
+    <string name="noti_finish_note">Now you can give review to the hotel</string>
     <string name="ok">Bine</string>
     <string name="oo_comments">Comment :</string>
     <string name="oo_orderdate">Data comenzii : </string>
@@ -585,6 +603,10 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="ood_title">Detaliile Comenzii</string>
     <string name="oorawfile_cancelorder">Comandă anulată</string>
     <string name="oorawfile_coo">Comandă confirmată</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
     <string name="order">Comanda</string>
     <string name="order_Payment_method">Metodă de plată</string>
     <string name="order_address">Adresa de livrare</string>
@@ -615,6 +637,9 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="payment_rawfile_item_name">Supă de Pui</string>
     <string name="payment_rawfile_item_quantity">4</string>
     <string name="payment_test_Offer">Testează ofertă</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
     <string name="pfoo_cancel">Anulat</string>
     <string name="pfoo_confirme">Confirmat</string>
     <string name="pfoo_delivery">Livrare</string>
@@ -652,6 +677,8 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="profile_Old_Password">Parolă veche</string>
     <string name="profile_display_name">Afișează Numele</string>
     <string name="profile_title">PROFIL</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
     <string name="quantity">0</string>
     <string name="raw_file_details_four">Ai primit 100 de puncte pentru rezervarea făcută </string>
     <string name="raw_file_details_one">Am rezervat masă la restaurant</string>
@@ -786,6 +813,11 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="sb_title">Schimbă-ți Subscripția</string>
     <string name="search_hint"> Întrebări cu privire la căutare</string>
     <string name="select">Selectează</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
     <string name="set_menu">Meniu fix</string>
     <string name="sort_by">Sortează:</string>
     <string name="spicy_level">nivelul picant</string>
@@ -1225,6 +1257,7 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="title_activity_grab_table">Activitatea de rezervare a mesei</string>
     <string name="title_activity_grab_table_profile">Activitatea de rezervare a mesei</string>
     <string name="title_activity_invitation_screen">Ecranul de invitație</string>
+    <string name="title_activity_login">Sign in</string>
     <string name="title_activity_loyalty_rewards_screen">Ecran- Puncte de loialitate</string>
     <string name="title_activity_manage_customers">Gestionează rulajul clienților</string>
     <string name="title_activity_manage_feedback">Gestionează activitatea de feed back</string>

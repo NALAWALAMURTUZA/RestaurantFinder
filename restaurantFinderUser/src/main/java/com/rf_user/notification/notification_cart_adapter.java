@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.restaurant_user.R;
+import com.rf.restaurant_user.R;
 import com.rf_user.global.Global_variable;
 
 import org.json.JSONArray;

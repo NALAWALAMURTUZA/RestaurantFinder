@@ -20,5 +20,12 @@
     <color name="facebook_pressed">#4a6eba</color>
     <color name="twitter_pressed">#66ccff</color>
     <color name="share_pressed">#6cac44</color>
-    
+    <color name="button_backgroung_crem">#f6f5e0</color>
+    <color name="button_text_brown">#88332a</color>
+    <color name="brown">#88332a</color>
+    <color name="crim">#FBF9E0</color>
+    <color name="spinner">#FCDB42</color>
+    <color name="orang">#efbe11</color>
+    <color name="light_brown">#9b5c55</color>
+    <color name="transperant">#10000000</color>
 </resources>

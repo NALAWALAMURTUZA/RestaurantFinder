@@ -10,12 +10,16 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/restaurantAdmin" />
+            <option value="$PROJECT_DIR$/restaurantFinderUser" />
+            <option value="$PROJECT_DIR$/wheel" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/restaurantAdmin" />
+            <option value="$PROJECT_DIR$/restaurantFinderUser" />
+            <option value="$PROJECT_DIR$/wheel" />
           </set>
         </option>
       </GradleProjectSettings>

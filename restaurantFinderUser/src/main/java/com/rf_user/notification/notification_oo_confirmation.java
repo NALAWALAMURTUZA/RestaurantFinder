@@ -10,7 +10,7 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.osf.restaurant_user.R;
+import com.rf.restaurant_user.R;
 import com.rf_user.activity.FindRestaurant;
 import com.rf_user.global.Global_variable;
 

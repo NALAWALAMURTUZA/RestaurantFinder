@@ -1,4 +1,6 @@
 //include ':app'
 include ':restaurantAdmin'
-//include ':restaurantFinderUser'
+include ':restaurantFinderUser'
 //include ':super_admin'
+include ':wheel'
+//project(':wheellib').projectDir = new File('wheel')

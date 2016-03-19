@@ -45,6 +45,22 @@
         android:largeHeap="true"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <receiver
+            android:name="com.google.android.gcm.GCMBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+
+                <!-- Receives the actual messages. -->
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <!-- Receives the registration id. -->
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.rf.restaurant_user" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.rf.restaurant_user.GCMIntentService" />
+
         <activity
             android:name="com.rf_user.activity.SplashScreen"
             android:configChanges="orientation|keyboardHidden|screenSize"
@@ -63,12 +79,12 @@
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustPan" >
         </activity>
-        <activity
-            android:name="com.rf_user.activity.RestaurantFinder"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden|adjustPan" >
-        </activity>
+        <!-- <activity -->
+        <!-- android:name="com.rf_user.activity.RestaurantFinder" -->
+        <!-- android:configChanges="orientation|keyboardHidden|screenSize" -->
+        <!-- android:screenOrientation="portrait" -->
+        <!-- android:windowSoftInputMode="stateHidden|adjustPan" > -->
+        <!-- </activity> -->
         <activity
             android:name="com.rf_user.activity.Search_Restaurant_List"
             android:configChanges="orientation|keyboardHidden|screenSize"
@@ -118,12 +134,12 @@
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustPan" >
         </activity>
-        <activity
-            android:name="com.rf_user.activity.Checkout_Activity"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden|adjustPan" >
-        </activity>
+        <!-- <activity -->
+        <!-- android:name="com.rf_user.activity.Checkout_Activity" -->
+        <!-- android:configChanges="orientation|keyboardHidden|screenSize" -->
+        <!-- android:screenOrientation="portrait" -->
+        <!-- android:windowSoftInputMode="stateHidden|adjustPan" > -->
+        <!-- </activity> -->
         <activity
             android:name="com.rf_user.activity.Delivery_Activity"
             android:configChanges="orientation|keyboardHidden|screenSize"
@@ -150,12 +166,12 @@
         </activity>
         <activity android:name="com.rf_user.activity.MainActivity" >
         </activity>
-        <activity
-            android:name="com.rf_user.activity.Pick_myself"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden|adjustPan" >
-        </activity>
+        <!-- <activity -->
+        <!-- android:name="com.rf_user.activity.Pick_myself" -->
+        <!-- android:configChanges="orientation|keyboardHidden|screenSize" -->
+        <!-- android:screenOrientation="portrait" -->
+        <!-- android:windowSoftInputMode="stateHidden|adjustPan" > -->
+        <!-- </activity> -->
         <activity
             android:name="com.rf_user.activity.Cart"
             android:configChanges="orientation|keyboardHidden|screenSize"
@@ -191,11 +207,11 @@
 
 
         <!-- chetan-pc key: AIzaSyAayvTSzsm3S1ZsR86O_icKJDep-29xHpI -->
-        <activity
-            android:name="com.rf_user.activity.delivery_contact_details_DATE_TIME"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden|adjustPan" >
-        </activity>
+        <!-- <activity -->
+        <!-- android:name="com.rf_user.activity.delivery_contact_details_DATE_TIME" -->
+        <!-- android:screenOrientation="portrait" -->
+        <!-- android:windowSoftInputMode="stateHidden|adjustPan" > -->
+        <!-- </activity> -->
         <activity
             android:name="com.rf_user.activity.GrabTableActivity"
             android:label="@string/title_activity_grab_table"
@@ -286,12 +302,12 @@
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustPan" >
         </activity>
-        <activity
-            android:name="com.rf_user.activity.ReviewPulltoRefresh"
-            android:label="@string/title_activity_review_pullto_refresh"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden|adjustPan" >
-        </activity>
+        <!-- <activity -->
+        <!-- android:name="com.rf_user.activity.ReviewPulltoRefresh" -->
+        <!-- android:label="@string/title_activity_review_pullto_refresh" -->
+        <!-- android:screenOrientation="portrait" -->
+        <!-- android:windowSoftInputMode="stateHidden|adjustPan" > -->
+        <!-- </activity> -->
         <activity
             android:name="com.rf_user.activity.ChangePassword"
             android:label="@string/title_activity_change_password"
@@ -359,6 +375,32 @@
             android:name="com.rf_user.activity.MyBookedCart"
             android:label="@string/title_activity_my_booked_cart" >
         </activity>
+        <activity
+            android:name="com.rf_user.notification.notification_oo_confirmation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+        <activity
+            android:name="com.rf_user.notification.notification_tg_confirmation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+        <activity
+            android:name="com.rf_user.notification.notification_tg_cancelation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+        <activity
+            android:name="com.rf_user.notification.notification_oo_cancelation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+        <activity
+            android:name="com.rf_user.notification.notification_tg_finish"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan" >
+        </activity>
+
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

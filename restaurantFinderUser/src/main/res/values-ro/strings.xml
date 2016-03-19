@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <integer name="google_play_services_version">4323000</integer>
+    <integer name="google_play_services_version">8487000</integer>
 
     <string name="facebook_app_id">841446575941953</string>
     <string name="btn_en">Engleză</string>
@@ -432,7 +432,8 @@
     <!-- Loyalty Reward Screen String File -->
 
     <string name="loyalty_reward_screen">Programul de Loialitate</string>
-    <string name="loyalty_reward_screen_one">EasyEAT e mândru să vă ofere un program unic cu beneficii speciale și recompense pentru fiecare client care folosește aplicația noastră. E un beneficiu atât pentru restaurante cât și pentru clienți. <string name="loyalty_reward_screen_two">Acest program de loialitate are un imens impact și asupra restaurantelor:\
+    <string name="loyalty_reward_screen_one">EasyEAT e mândru să vă ofere un program unic cu beneficii speciale și recompense pentru fiecare client care folosește aplicația noastră. E un beneficiu atât pentru restaurante cât și pentru clienți. 
+<string name="loyalty_reward_screen_two">Acest program de loialitate are un imens impact și asupra restaurantelor:\
         ●Prin acest program clientul are motive puternice să creadă că va primi ceva în mod gratuit următoarea dată când va vizita restaurantul.
         \n ● Restaurantele îmbunătățesc relația lor cu clienții.
         \n ● De asemenea restaurantele pot construi o bază de date cu clienții lor.
@@ -440,8 +441,10 @@
         \n ● Prin aceasta își construiesc brand-ul.
         \n ● În acest sens, și oferta devine mai diversificată și comoetiția mai acerbă. 
         \n ● Fluxul de clienți crește. 
-        \n ● Restaurantul poate face mai mulți bani. </string><string name="loyalty_reward_screen_three">Programul de loialitate</string><string name="loyalty_reward_screen_four">Programul de loialitate</string><string name="loyalty_reward_screen_five">De ce Restaurantele au nevoie de un program de loialitate?</string></string>
-    <string name="loyalty_pts_static_txt">.\n\n EasyEAT e mândru să vă ofere un program unic cu beneficii speciale și recompense pentru fiecare client care folosește aplicația noastră. E un beneficiu atât pentru restaurante cât și pentru clienți. <b>De ce au nevoie Restaurantele de un program de loialitate?\n</b>Acest program de loialitate are un imens impact și asupra restaurantelor:\
+        \n ● Restaurantul poate face mai mulți bani. 
+</string><string name="loyalty_reward_screen_three">Programul de loialitate</string><string name="loyalty_reward_screen_four">Programul de loialitate</string><string name="loyalty_reward_screen_five">De ce Restaurantele au nevoie de un program de loialitate?</string></string>
+    <string name="loyalty_pts_static_txt">.\n\n EasyEAT e mândru să vă ofere un program unic cu beneficii speciale și recompense pentru fiecare client care folosește aplicația noastră. E un beneficiu atât pentru restaurante cât și pentru clienți. 
+<b>De ce au nevoie Restaurantele de un program de loialitate?\n</b>Acest program de loialitate are un imens impact și asupra restaurantelor:\
         ●Prin acest program clientul are motive puternice să creadă că va primi ceva în mod gratuit următoarea dată când va vizita restaurantul.
         \n ● Restaurantele îmbunătățesc relația lor cu clienții.
         \n ● De asemenea restaurantele pot construi o bază de date cu clienții lor.
@@ -449,24 +452,29 @@
         \n ● Prin aceasta își construiesc brand-ul.
         \n ● În acest sens, și oferta devine mai diversificată și comoetiția mai acerbă. 
         \n ● Fluxul de clienți crește. 
-        \n ● Restaurantul poate face mai mulți bani.  <b>Cum se pot alătura clienții acestu program?\n</b> E complet gratuit, așa că, de ce nu?\n 
-Înregistrează-te pe EasyEat\n \n<b>Cum pot câștiga clienții puncte de loialitate?</b>Primește recompense făcând ceea ce ție îți place.
+        \n ● Restaurantul poate face mai mulți bani.  
+<b>Cum se pot alătura clienții acestu program?\n</b> E complet gratuit, așa că, de ce nu?\n 
+Înregistrează-te pe EasyEat\n \n
+<b>Cum pot câștiga clienții puncte de loialitate?</b>Primește recompense făcând ceea ce ție îți place.
 ●	Selectează Restaurantul pe care îl dorești 
 ●	Rezervă masa
 ●	Bucură-te de mancare 
 ●	Scrie un review pentru restaurantul respectiv 
 ●	Și așa ești răsplătit cu puncte de loialitate
 
-Punctele vor fi câștigate doar după ce vei lăsa restaurantului un review<b>Cum își vor valorifica clienții punctele de loialitate?</b> Adună-le sau primește ceva în schimb 
+Punctele vor fi câștigate doar după ce vei lăsa restaurantului un review
+<b>Cum își vor valorifica clienții punctele de loialitate?</b> Adună-le sau primește ceva în schimb 
 ●	După ce aduni punctele de loialitate, vei câștiga un anumit discount
 ●	Selectează restaurantul dorit și care a acceptat acest program
 ●	Rezervă masa și alege să ai discount cu punctele de loialitate
 ●	Primește discount-ul pe nota ta de plată
-Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte = 1 leu.<b>Considerarea Punctelor</b> Punctele asociate cu rezervarea ta, vor fi disponibile pentru tine, doar după ce vei lăsa un review. 
+Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte = 1 leu.
+<b>Considerarea Punctelor</b> Punctele asociate cu rezervarea ta, vor fi disponibile pentru tine, doar după ce vei lăsa un review. 
 ●	Vei putea să dai un review doar după ce ai făcut o rezervare confirmată de restaurant 
 ●	Gândește în perspectivă: Așteaptă unpic mai mult, câștigă mai multe puncte și primește un discount mai mare. 
 ●	Punctele pot fi fructificate doar pe nota de plată
-●	Câștigă puncte indiferent de terminalul de pe care faci rezervarea.</string>
+●	Câștigă puncte indiferent de terminalul de pe care faci rezervarea.
+</string>
     <string name="my_loyalty_program_one">Programul meu de loialitate</string>
     <string name="my_loyalty_program_two">Punctele de recompensă/loialitate sunt doar începutul</string>
     <string name="raw_file_details_one">Am rezervat masă la restaurant</string>
@@ -1370,4 +1378,40 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="abr_Services">servicii :</string>
     <string name="abr_Accepted_Credit_Cards">Mod de plata :</string>
 
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="noti_book_confi">Booking Confirmed</string>
+
+    <string name="noti_book_canc">Booking Canceled</string>
+    <string name="noti_finish">Order Finished</string>
+    <string name="noti_finish_note">Now you can give review to the hotel</string>
 </resources>

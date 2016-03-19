@@ -176,6 +176,9 @@
     <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="black">#000000</color>
+    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/build/intermediates/exploded-aar/RestaurantFinder/wheel/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="blue">#00abea</color>
     <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>

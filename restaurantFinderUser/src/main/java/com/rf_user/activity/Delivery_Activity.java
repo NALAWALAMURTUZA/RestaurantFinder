@@ -273,7 +273,7 @@ public class Delivery_Activity extends Activity implements
 					});
 				}
 
-				// 21.5433° N, 39.1728° E
+
 
 				// lets place some 10 random markers
 				// for (int i = 0; i < 1; i++) {
