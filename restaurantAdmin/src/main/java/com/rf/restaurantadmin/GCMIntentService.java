@@ -133,7 +133,7 @@ public class GCMIntentService extends  com.google.android.gcm.GCMBaseIntentServi
                 e.printStackTrace();
             }
         }
-       else if(message.toString().equals("New order TG")) //TableGrabOrder when user click table graber submit
+       else if(message.toString().equals("New order TG")) //TableGrabOrder when user click online order submit
         {
             noti=new Notification();
             Intent notificationIntent = new Intent(context, com.restaurantadmin.notification.notification_tg_neworder.class);

@@ -190,7 +190,7 @@
     <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="brown">#B3D2F3</color>
-    <color name="button_backgroung_crem">#FFF</color>
+    <color name="button_backgroung_crem">#B3D2F3</color>
     <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="button_material_dark">#ff5a595b</color>
@@ -214,7 +214,7 @@
     <eat-comment/>
     <color name="counter_text_bg">#626262</color>
     <color name="counter_text_color">#c5c4c4</color>
-    <color name="crim">#f6f5e0</color>
+    <color name="crim">#50FFFFFF</color>
     <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>

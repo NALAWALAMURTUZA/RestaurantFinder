@@ -1,26 +1,5 @@
 package com.rf_user.activity;
 
-import java.io.IOException;
-import java.io.UnsupportedEncodingException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Locale;
-
-import org.apache.http.HttpResponse;
-import org.apache.http.ParseException;
-import org.apache.http.client.ClientProtocolException;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.entity.StringEntity;
-import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.message.BasicHeader;
-import org.apache.http.protocol.HTTP;
-import org.apache.http.util.EntityUtils;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import sharedprefernce.LanguageConvertPreferenceClass;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -55,6 +34,7 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.rf.restaurant_user.Login;
 import com.rf.restaurant_user.R;
 import com.rf_user.adapter.Categories_ListviewAdapter;
 import com.rf_user.async_common_class.UserLogout;
@@ -63,6 +43,28 @@ import com.rf_user.global.Global_variable;
 import com.rf_user.internet.ConnectionDetector;
 import com.rf_user.sharedpref.SharedPreference;
 import com.rf_user.sqlite_dbadapter.DBAdapter;
+
+import org.apache.http.HttpResponse;
+import org.apache.http.ParseException;
+import org.apache.http.client.ClientProtocolException;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.entity.StringEntity;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.message.BasicHeader;
+import org.apache.http.protocol.HTTP;
+import org.apache.http.util.EntityUtils;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Locale;
+
+import sharedprefernce.LanguageConvertPreferenceClass;
 
 public class Categories extends Activity {
 

@@ -424,7 +424,7 @@
                 android:gravity="left|center"
                 android:padding="5dp"
 
-
+                android:visibility="gone"
                 >
 
                 <TextView
@@ -434,7 +434,7 @@
                     android:layout_weight="5"
                     android:gravity="left|center"
                     android:text="Delivery Charge : "
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
                 <TextView
@@ -446,7 +446,7 @@
 
                     android:gravity="right|center"
                     android:text="as"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
             </LinearLayout>
@@ -467,7 +467,7 @@
                     android:layout_weight="5"
                     android:gravity="left|center"
                     android:text="Total : "
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
                 <TextView
@@ -479,7 +479,7 @@
 
                     android:gravity="right|center"
                     android:text="as"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
             </LinearLayout>
@@ -551,7 +551,7 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textStyle="bold"
                     android:textAppearance="?android:attr/textAppearanceMediumInverse"/>
 
@@ -571,7 +571,7 @@
 
                     android:gravity="center"
                     android:text="@string/Status"
-                    android:textColor="@android:color/black"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 
@@ -603,7 +603,7 @@ android:paddingLeft="5dp"
                     android:layout_height="wrap_content"
                     android:text="Order UID : "
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
 android:paddingLeft="5dp"
                     android:textAppearance="?android:attr/textAppearanceSmall"/>
                 <TextView
@@ -622,6 +622,7 @@ android:paddingLeft="5dp"
                 android:orientation="horizontal"
                 android:padding="2dp"
                 android:id="@+id/ll_offer"
+                android:visibility="gone"
                 >
 
 
@@ -632,7 +633,7 @@ android:paddingLeft="5dp"
                     android:layout_height="wrap_content"
                     android:text="Offer ID : "
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"/>
                 <TextView
                     android:id="@+id/txt_offer_id"
@@ -662,7 +663,7 @@ android:paddingLeft="5dp"
                     android:layout_height="wrap_content"
                     android:text="Offer Name : "
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:paddingLeft="5dp"
                     android:textAppearance="?android:attr/textAppearanceSmall"/>
                 <TextView
@@ -690,7 +691,7 @@ android:paddingLeft="5dp"
 
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 
@@ -710,7 +711,7 @@ android:paddingLeft="5dp"
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
@@ -734,7 +735,7 @@ android:paddingLeft="5dp"
 
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
             </LinearLayout>
@@ -753,7 +754,7 @@ android:paddingLeft="5dp"
 
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
                 <TextView
@@ -775,7 +776,7 @@ android:paddingLeft="5dp"
                     android:paddingLeft="10dp"
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 
@@ -786,7 +787,7 @@ android:paddingLeft="5dp"
                     android:layout_weight="2"
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
             </LinearLayout>
@@ -804,7 +805,7 @@ android:paddingLeft="5dp"
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:text="Delivery Type : "
                     android:textAppearance="?android:attr/textAppearanceSmall"
@@ -818,7 +819,7 @@ android:paddingLeft="5dp"
                     android:paddingLeft="3dp"
                     android:textStyle="bold"
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:text=""
                     android:textAppearance="?android:attr/textAppearanceSmall"
@@ -841,7 +842,7 @@ android:paddingLeft="5dp"
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:text="Payment Status : "
                     android:textAppearance="?android:attr/textAppearanceSmall"
@@ -857,7 +858,7 @@ android:paddingLeft="5dp"
                     android:paddingLeft="2dp"
                     android:textStyle="bold"
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:text=""
                     android:textAppearance="?android:attr/textAppearanceMedium"

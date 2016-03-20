@@ -54,7 +54,7 @@ public class notification_cart_adapter extends BaseAdapter {
         }
         catch(NullPointerException n)
         {
-            n.printStackTrace();
+
         }
         return j;
     }

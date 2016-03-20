@@ -3,7 +3,7 @@
     xmlns:swipe="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/crim" >
+    android:background="@color/crim">
 
     <!-- Header -->
 
@@ -12,21 +12,21 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:gravity="center" >
+        android:gravity="center">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@color/brown"
             android:gravity="center"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:gravity="center"
                 android:orientation="horizontal"
-                android:weightSum="5" >
+                android:weightSum="5">
 
                 <ImageView
                     android:id="@+id/back_imageview"
@@ -34,9 +34,9 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="left"
                     android:layout_weight="1"
-                    android:visibility="invisible"
                     android:contentDescription="@string/Blank"
-                    android:src="@drawable/back_img" />
+                    android:src="@drawable/back_img"
+                    android:visibility="invisible" />
 
                 <TextView
                     android:id="@+id/RESTAURANT_TEXTVIEW"
@@ -56,9 +56,9 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="left"
                     android:layout_weight="1"
-                    android:visibility="invisible"
                     android:contentDescription="@string/Blank"
-                    android:src="@drawable/header_search_icon" />
+                    android:src="@drawable/header_search_icon"
+                    android:visibility="invisible" />
 
                 <ImageView
                     android:id="@+id/search_select_imageview"
@@ -78,7 +78,7 @@
                 android:background="#f3f3f3"
                 android:gravity="center"
                 android:orientation="vertical"
-                android:visibility="gone" >
+                android:visibility="gone">
 
                 <TextView
                     android:id="@+id/Search_Restaurant_Textview"
@@ -97,7 +97,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:orientation="horizontal"
-                    android:weightSum="5" >
+                    android:weightSum="5">
 
                     <EditText
                         android:id="@+id/search_edittext"
@@ -105,9 +105,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="3dp"
                         android:layout_marginTop="2dp"
-                        android:hint="@string/Search"
                         android:layout_weight="3.8"
-                        android:ems="10" >
+                        android:ems="10"
+                        android:hint="@string/Search">
 
                         <requestFocus />
                     </EditText>
@@ -138,7 +138,7 @@
                     android:layout_marginTop="2dp"
                     android:gravity="center"
                     android:orientation="horizontal"
-                    android:weightSum="5" >
+                    android:weightSum="5">
 
                     <!-- <Spinner -->
                     <!-- android:id="@+id/city_spinner" -->
@@ -174,7 +174,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:orientation="horizontal"
-                    android:weightSum="6" >
+                    android:weightSum="6">
 
                     <!-- <TextView -->
                     <!-- android:id="@+id/delivery_option_textview" -->
@@ -215,7 +215,7 @@
                         android:layout_marginLeft="2dp"
                         android:layout_weight="2"
                         android:gravity="left|center"
-                        android:orientation="vertical" >
+                        android:orientation="vertical">
 
                         <TextView
                             android:id="@+id/delivery_option_textview"
@@ -245,7 +245,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="2.1"
                         android:gravity="left|center"
-                        android:orientation="vertical" >
+                        android:orientation="vertical">
 
                         <TextView
                             android:id="@+id/categories_textview"
@@ -274,7 +274,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="1.9"
                         android:gravity="left|center"
-                        android:orientation="vertical" >
+                        android:orientation="vertical">
 
                         <TextView
                             android:id="@+id/minimumtime_order_textview"
@@ -303,7 +303,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:orientation="horizontal"
-                    android:weightSum="5" >
+                    android:weightSum="5">
 
                     <TextView
                         android:id="@+id/sortby_textview"
@@ -407,54 +407,51 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
 
-        android:visibility="visible"
+        android:gravity="center"
 
-        android:gravity="center" >
+        android:visibility="visible">
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
 
             android:gravity="center"
-            android:orientation="vertical"
-            >
+            android:orientation="vertical">
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"
                 android:gravity="left|center"
+                android:orientation="horizontal"
                 android:padding="5dp"
-
-
+                android:visibility="gone"
                 >
 
                 <TextView
-
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="5"
                     android:gravity="left|center"
                     android:text="Delivery Charge : "
-                    android:textColor="@color/brown"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/black" />
+
                 <TextView
                     android:id="@+id/txv_delivery_charge"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="5"
-
-
                     android:gravity="right|center"
                     android:text="as"
-                    android:textColor="@color/brown"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/black" />
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"
                 android:gravity="left|center"
+                android:orientation="horizontal"
                 android:padding="5dp"
 
 
@@ -467,9 +464,9 @@
                     android:layout_weight="5"
                     android:gravity="left|center"
                     android:text="Total : "
-                    android:textColor="@color/brown"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/black" />
+
                 <TextView
                     android:id="@+id/txv_total"
                     android:layout_width="0dp"
@@ -479,17 +476,16 @@
 
                     android:gravity="right|center"
                     android:text="as"
-                    android:textColor="@color/brown"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/black" />
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/brown"
                 android:gravity="center"
-                android:orientation="horizontal"
-                >
+                android:orientation="horizontal">
 
                 <ImageView
 
@@ -497,20 +493,21 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="left"
 
-                    android:visibility="invisible"
                     android:contentDescription="@string/Blank"
-                    android:src="@drawable/back_img" />
+                    android:src="@drawable/back_img"
+                    android:visibility="invisible" />
+
                 <Button
                     android:id="@+id/btn_ok"
                     android:layout_width="match_parent"
 
                     android:layout_height="match_parent"
-                    android:padding="5dp"
+                    android:background="@color/brown"
 
                     android:contentDescription="@string/Blank"
-                    android:background="@color/brown"
-                    android:textColor="@color/white"
-                    android:text="OK" />
+                    android:padding="5dp"
+                    android:text="OK"
+                    android:textColor="@color/white" />
             </LinearLayout>
         </LinearLayout>
     </RelativeLayout>
@@ -532,18 +529,19 @@
         android:layout_height="match_parent"
         android:layout_above="@+id/footer"
         android:layout_below="@+id/header">
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
 
             >
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                android:padding="2dp"
-                >
+                android:padding="2dp">
 
                 <TextView
                     android:id="@+id/txv_hotelname"
@@ -551,18 +549,18 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
-                    android:textStyle="bold"
-                    android:textAppearance="?android:attr/textAppearanceMediumInverse"/>
+                    android:textAppearance="?android:attr/textAppearanceMediumInverse"
+                    android:textColor="@color/black"
+                    android:textStyle="bold" />
 
 
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                android:padding="2dp"
-                >
+                android:padding="2dp">
 
                 <TextView
                     android:id="@+id/txt_status"
@@ -571,78 +569,79 @@
 
                     android:gravity="center"
                     android:text="@string/Status"
-                    android:textColor="@android:color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/black" />
 
                 <TextView
                     android:id="@+id/booking_status"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:paddingLeft="5dp"
                     android:gravity="left|center"
+                    android:paddingLeft="5dp"
                     android:text=""
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:textColor="@color/brown"
-                    />
+                    android:textColor="@color/brown" />
+
                 <TextView
 
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
-                    android:visibility="visible"
                     android:paddingLeft="5dp"
                     android:text="|"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/brown"
+                    android:visibility="visible" />
+
                 <TextView
 
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Order UID : "
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
                     android:paddingLeft="5dp"
-                    android:textAppearance="?android:attr/textAppearanceSmall"/>
+                    android:text="Order UID : "
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/black" />
+
                 <TextView
                     android:id="@+id/txt_order_id"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
                     android:textColor="@color/brown"
-                    android:textStyle="bold"
-                    android:textAppearance="?android:attr/textAppearanceSmall"/>
+                    android:textStyle="bold" />
             </LinearLayout>
+
             <LinearLayout
+                android:id="@+id/ll_offer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
                 android:padding="2dp"
-                android:id="@+id/ll_offer"
-                >
-
+                android:visibility="gone">
 
 
                 <TextView
 
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Offer ID : "
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
-                    android:textAppearance="?android:attr/textAppearanceSmall"/>
+                    android:text="Offer ID : "
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/black" />
+
                 <TextView
                     android:id="@+id/txt_offer_id"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
                     android:textColor="@color/brown"
-                    android:textStyle="bold"
-                    android:textAppearance="?android:attr/textAppearanceSmall"/>
+                    android:textStyle="bold" />
 
                 <TextView
 
@@ -650,38 +649,38 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
-                    android:visibility="visible"
                     android:paddingLeft="5dp"
                     android:text="|"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/brown"
+                    android:visibility="visible" />
+
                 <TextView
 
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Offer Name : "
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
                     android:paddingLeft="5dp"
-                    android:textAppearance="?android:attr/textAppearanceSmall"/>
+                    android:text="Offer Name : "
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/black" />
+
                 <TextView
                     android:id="@+id/txt_offer_name"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
                     android:textColor="@color/brown"
-                    android:textStyle="bold"
-                    android:textAppearance="?android:attr/textAppearanceSmall"/>
+                    android:textStyle="bold" />
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                android:padding="2dp"
-                >
+                android:padding="2dp">
 
                 <TextView
                     android:id="@+id/txt_user_name"
@@ -690,19 +689,18 @@
 
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/black" />
 
             </LinearLayout>
+
             <LinearLayout
+                android:id="@+id/ll_address"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                android:visibility="visible"
                 android:padding="2dp"
-                android:id="@+id/ll_address"
-                >
+                android:visibility="visible">
 
                 <TextView
                     android:id="@+id/txv_order_add"
@@ -710,21 +708,18 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
-                    android:visibility="visible"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
-
-
+                    android:textColor="@color/black"
+                    android:visibility="visible" />
 
 
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                android:padding="2dp"
-                >
+                android:padding="2dp">
 
 
                 <TextView
@@ -734,9 +729,8 @@
 
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/black" />
             </LinearLayout>
 
             <LinearLayout
@@ -744,7 +738,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
                 android:padding="2dp"
-                android:weightSum="5" >
+                android:weightSum="5">
 
                 <TextView
                     android:id="@+id/txt_date"
@@ -753,31 +747,30 @@
 
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/black" />
+
                 <TextView
 
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
-                    android:visibility="visible"
                     android:paddingLeft="5dp"
                     android:text="|"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/brown"
+                    android:visibility="visible" />
+
                 <TextView
                     android:id="@+id/txt_time"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:paddingLeft="10dp"
                     android:gravity="left|center"
+                    android:paddingLeft="10dp"
                     android:text=""
-                    android:textColor="@color/brown"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/black" />
 
                 <TextView
                     android:id="@+id/txt_no_of_pers"
@@ -786,17 +779,16 @@
                     android:layout_weight="2"
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/black" />
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                android:visibility="visible"
                 android:padding="2dp"
-                >
+                android:visibility="visible">
 
                 <TextView
 
@@ -804,25 +796,23 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
-                    android:visibility="visible"
                     android:text="Delivery Type : "
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/black"
+                    android:visibility="visible" />
 
 
                 <TextView
                     android:id="@+id/txv_delivery_type"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:paddingLeft="3dp"
-                    android:textStyle="bold"
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
-                    android:visibility="visible"
+                    android:paddingLeft="3dp"
                     android:text=""
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:visibility="visible" />
 
             </LinearLayout>
 
@@ -830,8 +820,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                android:visibility="gone"
                 android:padding="5dp"
+                android:visibility="gone"
 
                 >
 
@@ -841,38 +831,35 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
-                    android:visibility="visible"
                     android:text="Payment Status : "
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    />
-
-
+                    android:textColor="@color/brown"
+                    android:visibility="visible" />
 
 
                 <TextView
                     android:id="@+id/txv_paymenttype"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:paddingLeft="2dp"
-                    android:textStyle="bold"
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
-                    android:visibility="visible"
+                    android:paddingLeft="2dp"
                     android:text=""
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    />
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:visibility="visible" />
 
             </LinearLayout>
+
             <LinearLayout
                 android:id="@+id/ly_Payment_desc2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
 
-                android:padding="2dp"
                 android:background="@color/brown"
                 android:gravity="center"
-                android:orientation="horizontal" >
+                android:orientation="horizontal"
+                android:padding="2dp">
 
 
                 <TextView
@@ -885,8 +872,9 @@
                     android:gravity="center"
                     android:text="@string/receipt_items_no"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:textStyle="bold"
-                    android:textColor="@color/white" />
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
+
                 <TextView
                     android:id="@+id/txv_items_name"
                     android:layout_width="0dp"
@@ -897,8 +885,8 @@
                     android:gravity="left|center"
                     android:text="@string/receipt_items_name"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:textStyle="bold"
-                    android:textColor="@color/white" />
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/txv_qty"
@@ -909,8 +897,8 @@
                     android:gravity="center"
                     android:text="@string/receipt_items_qty"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:textStyle="bold"
-                    android:textColor="@color/white" />
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/txv_price"
@@ -921,8 +909,8 @@
                     android:gravity="center"
                     android:text="@string/receipt_items_price"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:textStyle="bold"
-                    android:textColor="@color/white" />
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/txv_Total"
@@ -934,9 +922,10 @@
                     android:paddingRight="5dp"
                     android:text="@string/receipt_items_total"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:textStyle="bold"
-                    android:textColor="@color/white" />
+                    android:textColor="@color/white"
+                    android:textStyle="bold" />
             </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -947,23 +936,22 @@
 
 
                 <ListView
+                    android:id="@+id/lv_cart"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/lv_cart"
-                    android:visibility="visible"
-                    />
+                    android:visibility="visible" />
+
                 <TextView
                     android:id="@+id/txv_nocart"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:textStyle="bold"
-                    android:paddingTop="30dp"
                     android:gravity="center"
-                    android:visibility="gone"
+                    android:paddingTop="30dp"
                     android:text="No cart found"
-                    android:textColor="@android:color/black"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    />
+                    android:textColor="@android:color/black"
+                    android:textStyle="bold"
+                    android:visibility="gone" />
 
             </LinearLayout>
 

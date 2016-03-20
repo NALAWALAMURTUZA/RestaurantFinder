@@ -1,12 +1,5 @@
 package com.rf_user.activity;
 
-import java.util.Locale;
-
-import org.apache.http.ParseException;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import sharedprefernce.LanguageConvertPreferenceClass;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.Dialog;
@@ -33,11 +26,20 @@ import android.widget.RadioGroup.OnCheckedChangeListener;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.rf.restaurant_user.Login;
 import com.rf.restaurant_user.R;
 import com.rf_user.connection.HttpConnection;
 import com.rf_user.global.Global_variable;
 import com.rf_user.internet.ConnectionDetector;
 import com.rf_user.sqlite_dbadapter.DBAdapter;
+
+import org.apache.http.ParseException;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.Locale;
+
+import sharedprefernce.LanguageConvertPreferenceClass;
 
 public class Registration_step5_Activity extends Activity {
 

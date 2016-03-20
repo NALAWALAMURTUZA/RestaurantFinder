@@ -21,10 +21,10 @@
     <color name="twitter_pressed">#66ccff</color>
     <color name="share_pressed">#6cac44</color>
 
-    <color name="button_backgroung_crem">#FFF</color>
+    <color name="button_backgroung_crem">#B3D2F3</color>
     <color name="button_text_brown">#B3D2F3</color>
     <color name="brown">#B3D2F3</color>
-    <color name="crim">#f6f5e0</color>
+    <color name="crim">#50FFFFFF</color>
 
     <color name="green">#68a142</color>
     <color name="red">#ffff4444</color>

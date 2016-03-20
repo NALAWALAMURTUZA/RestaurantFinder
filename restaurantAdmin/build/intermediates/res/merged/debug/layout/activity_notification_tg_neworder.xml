@@ -204,7 +204,7 @@
                     android:layout_weight="5"
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     />
             </LinearLayout>
@@ -220,7 +220,7 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:text="Order Id : "
                     android:textAppearance="?android:attr/textAppearanceSmall"/>
                 <TextView
@@ -229,7 +229,7 @@
                     android:layout_height="wrap_content"
 android:paddingLeft="5dp"
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textStyle="bold"
                     android:textAppearance="?android:attr/textAppearanceMedium"/>
 
@@ -253,7 +253,7 @@ android:paddingLeft="5dp"
 
                     android:gravity="center"
                     android:text="Status : "
-                    android:textColor="@android:color/black"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 
@@ -265,7 +265,7 @@ android:paddingLeft="5dp"
                     android:text=""
                     android:paddingLeft="8dp"
                     android:textAppearance="?android:attr/textAppearanceSmall"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     />
 
             </LinearLayout>
@@ -284,7 +284,7 @@ android:paddingLeft="5dp"
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:text="Loyalty : "
                     android:textAppearance="?android:attr/textAppearanceSmall"
@@ -299,7 +299,7 @@ android:paddingLeft="5dp"
                     android:gravity="left|center"
                     android:text=""
                     android:textStyle="bold"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 
@@ -319,7 +319,7 @@ android:paddingLeft="5dp"
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:text="No of People : "
                     android:textAppearance="?android:attr/textAppearanceSmall"
@@ -334,7 +334,7 @@ android:paddingLeft="5dp"
                     android:gravity="left|center"
                     android:text=""
                     android:textStyle="bold"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 
@@ -353,7 +353,7 @@ android:paddingLeft="5dp"
 
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
                 <TextView
@@ -375,7 +375,7 @@ android:paddingLeft="5dp"
                     android:gravity="left|center"
                     android:text=""
                     android:paddingLeft="10dp"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 
@@ -398,7 +398,7 @@ android:paddingLeft="5dp"
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:text="Comments : "
                     android:textAppearance="?android:attr/textAppearanceSmall"
@@ -413,7 +413,7 @@ android:paddingLeft="5dp"
                     android:gravity="left|center"
                     android:text=""
 
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 

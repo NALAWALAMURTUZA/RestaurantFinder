@@ -201,7 +201,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textStyle="bold"
                     android:textAppearance="?android:attr/textAppearanceMedium"/>
 
@@ -222,7 +222,7 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textStyle="bold"
                     android:textAppearance="?android:attr/textAppearanceMedium"/>
 
@@ -264,7 +264,7 @@
 
                     android:gravity="center"
                     android:text="Status : "
-                    android:textColor="@android:color/black"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     />
 
@@ -276,7 +276,7 @@
                     android:text=""
                     android:paddingLeft="8dp"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     />
 
             </LinearLayout>
@@ -295,7 +295,7 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:text="Contact Email : "
                     android:textAppearance="?android:attr/textAppearanceMedium"
@@ -310,7 +310,7 @@
                     android:gravity="left|center"
                     android:text=""
                     android:textStyle="bold"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     />
 
@@ -330,7 +330,7 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:text="Loyalty : "
                     android:textAppearance="?android:attr/textAppearanceMedium"
@@ -345,7 +345,7 @@
                     android:gravity="left|center"
                     android:text=""
                     android:textStyle="bold"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     />
 
@@ -365,7 +365,7 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:text="No of People : "
                     android:textAppearance="?android:attr/textAppearanceMedium"
@@ -380,7 +380,7 @@
                     android:gravity="left|center"
                     android:text=""
                     android:textStyle="bold"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     />
 
@@ -399,7 +399,7 @@
 
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 
@@ -410,7 +410,7 @@
                     android:gravity="left|center"
                     android:text=""
                     android:paddingLeft="10dp"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 
@@ -432,7 +432,7 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:text="Comments : "
                     android:textAppearance="?android:attr/textAppearanceMedium"
@@ -447,7 +447,7 @@
                     android:gravity="left|center"
                     android:text=""
                     android:textStyle="bold"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     />
 

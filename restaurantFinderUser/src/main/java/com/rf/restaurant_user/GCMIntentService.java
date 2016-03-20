@@ -254,7 +254,7 @@ public class GCMIntentService extends GCMBaseIntentService {
                 e.printStackTrace();
             }
         }
-        else if(message.toString().equalsIgnoreCase("OO Cancel"))  //OO_OrderStatus OO Confirmed online order confirm
+        else if(message.toString().equalsIgnoreCase("OO Cancel"))  //OO_OrderStatus OO cancel online order confirm
         {
             noti=new Notification();
             Intent notificationIntent = new Intent(context, com.rf_user.notification.notification_oo_cancelation.class);

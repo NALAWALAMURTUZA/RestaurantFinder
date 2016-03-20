@@ -1,10 +1,5 @@
 package com.rf_user.activity;
 
-import java.util.Locale;
-
-import org.json.JSONArray;
-
-import sharedprefernce.LanguageConvertPreferenceClass;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -22,12 +17,19 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.rf.restaurant_user.Login;
 import com.rf.restaurant_user.R;
 import com.rf_user.adapter.Cart_Adapter;
 import com.rf_user.global.Global_variable;
 import com.rf_user.internet.ConnectionDetector;
 import com.rf_user.sharedpref.SharedPreference;
 import com.rf_user.sqlite_dbadapter.DBAdapter;
+
+import org.json.JSONArray;
+
+import java.util.Locale;
+
+import sharedprefernce.LanguageConvertPreferenceClass;
 
 public class Cart extends Activity {
 	ImageView Back, Search;

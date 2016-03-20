@@ -176,15 +176,15 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/values/color.xml -->
     <eat-comment/>
-    <color name="brown">#88332a</color>
-    <color name="button_backgroung_crem">#f6f5e0</color>
+    <color name="brown">#B3D2F3</color>
+    <color name="button_backgroung_crem">#FFF</color>
     <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/values/color.xml -->
     <eat-comment/>
-    <color name="button_text_brown">#88332a</color>
+    <color name="button_text_brown">#B3D2F3</color>
     <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml -->
     <eat-comment/>
     <color name="common_action_bar_splitter">#d2d2d2</color>
@@ -208,7 +208,7 @@
     <eat-comment/>
     <color name="counter_text_bg">#626262</color>
     <color name="counter_text_color">#c5c4c4</color>
-    <color name="crim">#FBF9E0</color>
+    <color name="crim">#50FFFFFF</color>
     <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
@@ -235,7 +235,7 @@
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
     <!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/values/color.xml -->
     <eat-comment/>
-    <color name="light_brown">#9b5c55</color>
+    <color name="light_brown">#B3D2F3</color>
     <color name="list_background">#303030</color>
     <color name="list_background_pressed">#2B60DE</color>
     <color name="list_divider">#272727</color>

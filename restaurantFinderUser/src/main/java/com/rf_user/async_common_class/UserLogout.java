@@ -11,8 +11,6 @@ import android.os.AsyncTask;
 import android.widget.Toast;
 
 import com.rf_user.activity.FindRestaurant;
-import com.rf_user.activity.Login;
-import com.rf_user.activity.Search_Restaurant_List;
 import com.rf_user.connection.HttpConnection;
 import com.rf_user.global.Global_variable;
 import com.rf_user.internet.ConnectionDetector;

@@ -539,7 +539,7 @@
                     android:layout_weight="2.7"
                     android:gravity="left|center"
                     android:textStyle="bold"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     />
 
@@ -550,7 +550,7 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:text="@string/Status"
-                    android:textColor="@android:color/black"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     />
 
@@ -562,7 +562,7 @@
                     android:gravity="left|center"
                     android:text=""
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     />
             </LinearLayout>
 
@@ -579,7 +579,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="5"
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
 
                     android:textAppearance="?android:attr/textAppearanceSmall"/>
 
@@ -600,7 +600,7 @@
                     android:layout_weight="5"
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
             </LinearLayout>
@@ -622,7 +622,7 @@
 
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
                 <TextView
@@ -644,7 +644,7 @@
 
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 
@@ -655,7 +655,7 @@
                     android:layout_weight="2"
                     android:gravity="left|center"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
             </LinearLayout>
@@ -672,7 +672,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="5"
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
 
                     android:textAppearance="?android:attr/textAppearanceSmall"/>
 
@@ -692,7 +692,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="5"
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
 
                     android:textAppearance="?android:attr/textAppearanceSmall"/>
 
@@ -711,7 +711,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="3"
                     android:gravity="left|center"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="visible"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
@@ -724,7 +724,7 @@
                     android:layout_weight="2"
                     android:gravity="right"
                     android:text="@string/order_details"
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="gone"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     android:layout_marginLeft="5dp"
@@ -739,7 +739,7 @@
                     android:layout_weight="5"
                     android:gravity="right"
                     android:text=""
-                    android:textColor="@color/brown"
+                    android:textColor="@color/black"
                     android:visibility="gone"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:textStyle="bold" />

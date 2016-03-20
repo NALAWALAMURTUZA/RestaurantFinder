@@ -1,22 +1,5 @@
 package com.rf_user.activity;
 
-import java.io.IOException;
-import java.util.Locale;
-
-import org.apache.http.HttpResponse;
-import org.apache.http.ParseException;
-import org.apache.http.client.ClientProtocolException;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.entity.StringEntity;
-import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.message.BasicHeader;
-import org.apache.http.protocol.HTTP;
-import org.apache.http.util.EntityUtils;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import sharedprefernce.LanguageConvertPreferenceClass;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Intent;
@@ -36,11 +19,30 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.rf.restaurant_user.Login;
 import com.rf.restaurant_user.R;
 import com.rf_user.global.Global_variable;
 import com.rf_user.internet.ConnectionDetector;
 import com.rf_user.sharedpref.SharedPreference;
 import com.rf_user.sqlite_dbadapter.DBAdapter;
+
+import org.apache.http.HttpResponse;
+import org.apache.http.ParseException;
+import org.apache.http.client.ClientProtocolException;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.entity.StringEntity;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.message.BasicHeader;
+import org.apache.http.protocol.HTTP;
+import org.apache.http.util.EntityUtils;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.IOException;
+import java.util.Locale;
+
+import sharedprefernce.LanguageConvertPreferenceClass;
 
 @SuppressLint("CutPasteId")
 public class ForgetPassword extends Activity {
