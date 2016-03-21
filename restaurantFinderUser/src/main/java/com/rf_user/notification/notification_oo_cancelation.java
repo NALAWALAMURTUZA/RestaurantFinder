@@ -98,13 +98,13 @@ public class notification_oo_cancelation extends Activity {
                     str_paymenttype= obj.getString("payment_status");
                     str_hotelname= obj.getString("name_en");
 
-                    str_offer_uid=obj.getString("applied_offers");
-                    System.out.println("offerid=="+str_offer_uid);
-                    str_offer_name= obj.getString("offername");
+                   // str_offer_uid=obj.getString("applied_offers");
+                    //System.out.println("offerid=="+str_offer_uid);
+                    //str_offer_name= obj.getString("offername");
                     str_total= obj.getString("total");
-                    str_discount= obj.getString("discount");
+                   // str_discount= obj.getString("discount");
                     str_delivery_charge= obj.getString("delivery_charge");
-                    if(str_offer_uid.equalsIgnoreCase("")||str_offer_uid.equalsIgnoreCase("null")||str_offer_uid.length()==0){
+                    /*if(str_offer_uid.equalsIgnoreCase("")||str_offer_uid.equalsIgnoreCase("null")||str_offer_uid.length()==0){
                         ll_offer.setVisibility(View.GONE);
 
                     }else{
@@ -120,10 +120,10 @@ public class notification_oo_cancelation extends Activity {
                         }else{
                             txt_offer_name.setText(str_offer_name);
                         }
-                    }
+                    }*/
 
                     if(obj.getString("delivery_ok").equalsIgnoreCase("1")){
-                        txv_delivery_type.setText("Shippnig");
+                        txv_delivery_type.setText("Delivery");
                     }else{
                         txv_delivery_type.setText("Pick Up");
                     }

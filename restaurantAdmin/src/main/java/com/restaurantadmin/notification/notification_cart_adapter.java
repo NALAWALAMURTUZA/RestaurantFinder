@@ -75,7 +75,6 @@ public class notification_cart_adapter extends BaseAdapter {
     @Override
     public View getView(final int position, View convertView, ViewGroup parent) {
         View vi = convertView;
-
         final ViewHolder holder;
         vi = inflater
                 .inflate(R.layout.cart_rawfile, parent, false);
@@ -89,35 +88,25 @@ public class notification_cart_adapter extends BaseAdapter {
         holder.txv_cart_price = (TextView) vi
                 .findViewById(R.id.txv_cart_price);
         // TODO Auto-generated method stub
-
         vi.setTag(holder);
-
         try {
 
             System.out.println("carty_value_Payment_if");
             JSONObject cart_detail = getItem(position);
             System.out.println("cart.json_detail" + cart_detail);
-
             String quantity = cart_detail.getString("quantity");
-
             final String price = cart_detail.getString("price");
-
             final String full_name = cart_detail.getString("full_name");
-
-
             holder.txv_cart_index.setText((position + 1) + "");
             holder.txv_cart_name.setText(full_name);
             holder.txv_cart_price.setText(Global_variable.Categories_sr + " " +price);
             //holder.txv_cart_quantity.setText("<" + " " + quantity + " " + ">");
             holder.txv_cart_quantity.setText(quantity);
-
             final String total = cart_detail.getString("total");
             System.out.println("carty_value_Payment_else_price" + total);
             holder.txv_cart_value
                     .setText((Global_variable.Categories_sr + " " + total)
                             + "");
-
-
 
         } catch (NullPointerException n) {
 

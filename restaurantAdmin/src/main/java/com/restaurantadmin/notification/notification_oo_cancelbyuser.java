@@ -97,7 +97,7 @@ public class notification_oo_cancelbyuser extends Activity {
             }else{
                 ll_address.setVisibility(View.GONE);
             }
-            if(obj_Detail.getJSONObject("data_obj_offer").getString("applied_offers").equalsIgnoreCase("")){
+           /* if(obj_Detail.getJSONObject("data_obj_offer").getString("applied_offers").equalsIgnoreCase("")){
                 ll_offer.setVisibility(View.GONE);
 
             }else{
@@ -105,10 +105,10 @@ public class notification_oo_cancelbyuser extends Activity {
                 txt_offer_id.setText(obj_Detail.getJSONObject("data_obj_offer").getString("applied_offers"));
                 txt_offer_name.setText(obj_Detail.getJSONObject("data_obj_offer").getString("offername"));
                 txv_discount.setText("Total : "+obj_Detail.getJSONObject("data_obj_offer").getString("discount") + " " + "Discount");
-            }
+            }*/
 
             if(obj_Detail.getString("delivery_ok").equalsIgnoreCase("1")){
-                txv_delivery_type.setText("Shippnig");
+                txv_delivery_type.setText("Delivery");
             }else{
                 txv_delivery_type.setText("Pick Up");
             }

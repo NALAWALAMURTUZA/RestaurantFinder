@@ -48,7 +48,6 @@ public class notification_tg_neworder extends Activity {
             if(obj_Detail.getString("booking_mode").equalsIgnoreCase("1")){
                 booking_status.setText("Pending");
             }
-
             else if(obj_Detail.getString("booking_mode").equalsIgnoreCase("2")){
                 booking_status.setText("Confirmed");
             }
@@ -67,7 +66,6 @@ public class notification_tg_neworder extends Activity {
             txt_order_id.setText(obj_Detail.getString("obj_oder_uid"));
             txt_date.setText("Booking Date : "+obj_Detail.getString("booking_date"));
             txt_time.setText("Booking Time : "+obj_Detail.getString("booking_time"));
-
             txv_no_of_loyalty.setText(obj_Detail.getString("loyalty"));
             txt_no_of_pers.setText(obj_Detail.getString("number_of_people"));
             if(obj_Detail.getString("comments").equalsIgnoreCase("")){
@@ -104,8 +102,6 @@ public class notification_tg_neworder extends Activity {
             } catch (JSONException e) {
                 e.printStackTrace();
             }
-
         }
-
     }
 }

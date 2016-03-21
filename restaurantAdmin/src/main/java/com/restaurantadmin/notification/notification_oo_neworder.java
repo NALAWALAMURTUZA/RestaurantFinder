@@ -89,10 +89,10 @@ public class notification_oo_neworder extends Activity {
             txt_user_name.setText(obj_Detail.getString("name"));
             txv_hotelname.setText(obj_Detail.getString("restaurant_name"));
 
-            txt_offer_id.setText(obj_Detail.getString("offer_uid"));
-            txt_offer_name.setText(obj_Detail.getString("offer_name"));
+            //txt_offer_id.setText(obj_Detail.getString("offer_uid"));
+            //txt_offer_name.setText(obj_Detail.getString("offer_name"));
 
-            txt_del_charge.setText(Global_variable.Categories_sr+" "+obj_Detail.getString("delivery_charge"));
+            //txt_del_charge.setText(Global_variable.Categories_sr+" "+obj_Detail.getString("delivery_charge"));
             if(obj_Detail.getString("delivery_ok").equalsIgnoreCase("1")) {
                 txv_delivery_charge.setText(Global_variable.Categories_sr + " " + obj_Detail.getString("delivery_charge"));
             }else{
@@ -105,17 +105,17 @@ public class notification_oo_neworder extends Activity {
             }else{
                 ll_address.setVisibility(View.GONE);
             }
-            if(obj_Detail.getString("offer_name").equalsIgnoreCase("")){
+            /*if(obj_Detail.getString("offer_name").equalsIgnoreCase("")){
                 ll_offer.setVisibility(View.GONE);
                 txv_discount.setText("Total : ");
 
             }else{
                 ll_offer.setVisibility(View.VISIBLE);
                 txv_discount.setText("Total : "+obj_Detail.getString("offer_discount")+" "+"Discount");
-            }
+            }*/
 
             if(obj_Detail.getString("delivery_ok").equalsIgnoreCase("1")){
-                txv_delivery_type.setText("Shippnig");
+                txv_delivery_type.setText("Delivery");
             }else{
                 txv_delivery_type.setText("Pick Up");
 
