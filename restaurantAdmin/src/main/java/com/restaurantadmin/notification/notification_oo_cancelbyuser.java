@@ -2,7 +2,12 @@ package com.restaurantadmin.notification;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.SharedPreferences;
+import android.content.res.Configuration;
+import android.content.res.Resources;
 import android.os.Bundle;
+import android.os.StrictMode;
+import android.util.DisplayMetrics;
 import android.view.View;
 import android.view.Window;
 import android.widget.Button;
@@ -13,10 +18,13 @@ import android.widget.TextView;
 import com.restaurantadmin.Global.Global_variable;
 import com.rf.restaurantadmin.Login_Activity;
 import com.rf.restaurantadmin.R;
+import com.sharedprefernce.LanguageConvertLocalPrefernce;
 
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
+
+import java.util.Locale;
 
 public class notification_oo_cancelbyuser extends Activity {
     JSONObject obj_Detail=null;
@@ -27,17 +35,89 @@ public class notification_oo_cancelbyuser extends Activity {
     Button btn_ok;
     ListView lv_cart;
     notification_cart_adapter notification_cart_adapter;
+    private Locale myLocale;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        LanguageConvertLocalPrefernce.loadLocale(getApplicationContext());
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_notification_oo_cancelbyuser);
+        StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder()
+                .permitAll().build();
+        StrictMode.setThreadPolicy(policy);
         System.out.println(getIntent());
         onNewIntent(getIntent());
         initilize();
         setvalue();
         setlistner();
+        setlangueage();
+
     }
+
+    private void setlangueage() {
+            // language*****************
+            Locale.getDefault().getLanguage();
+            System.out.println("Device_language"
+                    + Locale.getDefault().getLanguage());
+
+            String langPref = "Language";
+        SharedPreferences prefs_oncreat = getSharedPreferences("CommonPrefs",
+                Activity.MODE_PRIVATE);
+        String language = prefs_oncreat.getString(langPref, "");
+
+        System.out.println("Murtuza_Nalawala_language_oncreat" + language);
+        if (language.equalsIgnoreCase("")) {
+            System.out.println("Murtuza_Nalawala_language_oncreat_if");
+
+        } else if (language.equalsIgnoreCase("ro")) {
+            System.out.println("Murtuza_Nalawala_language_oncreat_if_ar");
+            setLocaleonload("ro");
+
+        } else if (language.equalsIgnoreCase("en")) {
+            System.out.println("Murtuza_Nalawala_language_oncreat_if_en");
+            setLocaleonload("en");
+
+        } else {
+            System.out.println("Murtuza_Nalawala_language_oncreat_if_else");
+            setLocaleonload("en");
+
+        }
+    }
+
+    public void setLocaleonload(String lang) {
+
+        myLocale = new Locale(lang);
+        Resources res = getResources();
+        DisplayMetrics dm = res.getDisplayMetrics();
+        Configuration conf = res.getConfiguration();
+        conf.locale = myLocale;
+        res.updateConfiguration(conf, dm);
+        System.out.println("Murtuza_Nalawala_deleteall");
+
+    }
+
+    @Override
+    public void onResume() {
+        System.out.println("murtuza_nalawala");
+        super.onResume(); // Always call the superclass method first
+        LanguageConvertLocalPrefernce.loadLocale(getApplicationContext());
+    }
+    @Override
+    protected void onStop() {
+        super.onStop();
+
+    }
+    @Override
+    protected void onPause() {
+        super.onPause();
+
+    }
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+
+    }
+
 
     private void initilize() {
         lv_cart= (ListView) findViewById(R.id.lv_cart);

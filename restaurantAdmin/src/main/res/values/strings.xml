@@ -975,4 +975,15 @@
     <string name="noti_oo">Order Confirmation</string>
     <string name="noti_tg">Booking Confirmation</string>
 
+    <string name="noti_new_online_order">Hey, Look at this, you got new online order.</string>
+    <string name="noti_Name">Name:</string>
+    <string name="noti_UID">UID:</string>
+    <string name="noti_Status">Status:</string>
+    <string name="noti_Booking_Date">Booking Date:</string>
+
+    <string name="noti_new_table_grabber_booking">Hey, Look at this, you got new table grabber booking.</string>
+    <string name="noti_No_of_People">No of People:</string>
+    <string name="noti_TG_order_is_cancelled_by_User">Your Table grabber order is cancelled by User.</string>
+    <string name="noti_OO_order_is_cancelled_by_User">Your online order is cancelled by User.</string>
+
 </resources>

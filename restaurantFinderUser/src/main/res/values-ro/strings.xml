@@ -1414,4 +1414,13 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="noti_book_canc">Booking Canceled</string>
     <string name="noti_finish">Order Finished</string>
     <string name="noti_finish_note">Now you can give review to the hotel</string>
+    <string name="receipt_items_no">No</string>
+
+    <string name="noti_booked_successfull">Your table is booked successfully</string>
+    <string name="noti_Order_Id">Order Id:</string>
+    <string name="noti_Name">Name:</string>
+    <string name="noti_Booking_Date">Booking Date:</string>
+    <string name="noti_cancel_by_the_restaurant">Sorry.Your table grabing booking cancel by the restaurant.</string>
+    <string name="noti_Date">Date:</string>
+    <string name="noti_order_cancel_by_the_restaurant">Sorry.Your online order cancel by the restaurant.</string>
 </resources>
