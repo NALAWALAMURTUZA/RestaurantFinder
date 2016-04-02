@@ -263,7 +263,7 @@
                     android:layout_height="wrap_content"
 
                     android:gravity="center"
-                    android:text="Status : "
+                    android:text="@string/noti_Status"
                     android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     />
@@ -332,7 +332,7 @@
                     android:gravity="left|center"
                     android:textColor="@color/black"
                     android:visibility="visible"
-                    android:text="Loyalty : "
+                    android:text="@string/noti_Loyalty"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     />
 
@@ -367,7 +367,7 @@
                     android:gravity="left|center"
                     android:textColor="@color/black"
                     android:visibility="visible"
-                    android:text="No of People : "
+                    android:text="@string/noti_No_of_People"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     />
 
@@ -434,7 +434,7 @@
                     android:gravity="left|center"
                     android:textColor="@color/black"
                     android:visibility="visible"
-                    android:text="Comments : "
+                    android:text="@string/tgrawfile_comments"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     />
 
@@ -470,7 +470,7 @@
                     android:contentDescription="@string/Blank"
                     android:background="@color/brown"
                     android:textColor="@color/white"
-                    android:text="OK" />
+                    android:text="@string/ok" />
 
 
 

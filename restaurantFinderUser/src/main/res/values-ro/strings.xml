@@ -1423,4 +1423,5 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="noti_cancel_by_the_restaurant">Sorry.Your table grabing booking cancel by the restaurant.</string>
     <string name="noti_Date">Date:</string>
     <string name="noti_order_cancel_by_the_restaurant">Sorry.Your online order cancel by the restaurant.</string>
+
 </resources>

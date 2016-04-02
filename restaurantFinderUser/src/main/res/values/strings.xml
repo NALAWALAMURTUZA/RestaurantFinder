@@ -1119,4 +1119,12 @@ Points will be converted to amount. For example: X points = Y lei\n \n
     <string name="noti_Date">Date:</string>
     <string name="noti_order_cancel_by_the_restaurant">Sorry.Your online order cancel by the restaurant.</string>
 
+
+
+    <string name="noti_Delivery_Type">Delivery Type:</string>
+    <string name="noti_Status">Status:</string>
+    <string name="noti_Loyalty">Loyalty :</string>
+
+
+
 </resources>

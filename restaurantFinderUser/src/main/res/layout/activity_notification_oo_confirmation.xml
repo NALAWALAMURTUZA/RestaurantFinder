@@ -466,7 +466,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="5"
                     android:gravity="left|center"
-                    android:text="Total : "
+                    android:text="@string/receipt_items_total"
                     android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
@@ -510,7 +510,7 @@
                     android:contentDescription="@string/Blank"
                     android:background="@color/brown"
                     android:textColor="@color/white"
-                    android:text="OK" />
+                    android:text="@string/ok" />
             </LinearLayout>
         </LinearLayout>
     </RelativeLayout>
@@ -601,7 +601,7 @@ android:paddingLeft="5dp"
 
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Order UID : "
+                    android:text="@string/noti_Order_Id"
                     android:gravity="left|center"
                     android:textColor="@color/black"
 android:paddingLeft="5dp"
@@ -807,7 +807,7 @@ android:paddingLeft="5dp"
                     android:gravity="left|center"
                     android:textColor="@color/black"
                     android:visibility="visible"
-                    android:text="Delivery Type : "
+                    android:text="@string/noti_Delivery_Type"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 
