@@ -175,7 +175,7 @@ android:layout_weight="5"
                 android:contentDescription="@string/Blank"
                 android:background="@color/brown"
                 android:textColor="@color/white"
-                android:text="OK" />
+                android:text="@string/ok" />
         </LinearLayout>
         </LinearLayout>
     </RelativeLayout>
@@ -235,7 +235,7 @@ android:layout_weight="5"
                     android:layout_height="wrap_content"
 
                     android:gravity="center"
-                    android:text="Status : "
+                    android:text="@string/noti_Status"
                     android:textColor="@color/black"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
@@ -267,7 +267,7 @@ android:layout_weight="5"
 
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Order UID : "
+                    android:text="@string/noti_UID"
                     android:gravity="left|center"
                     android:textColor="@color/black"
 android:paddingLeft="5dp"
@@ -469,7 +469,7 @@ android:paddingLeft="5dp"
                     android:gravity="left|center"
                     android:textColor="@color/black"
                     android:visibility="visible"
-                    android:text="Delivery Type : "
+                    android:text="@string/noti_Delivery_type"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     />
 
@@ -520,7 +520,7 @@ android:paddingLeft="5dp"
 
                     android:layout_weight="0.5"
                     android:gravity="center"
-                    android:text="No"
+                    android:text="@string/noti_No"
                     android:textAppearance="?android:attr/textAppearanceSmall"
                     android:textStyle="bold"
                     android:textColor="@color/white" />

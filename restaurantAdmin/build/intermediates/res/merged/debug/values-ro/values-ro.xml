@@ -140,6 +140,7 @@
     </string-array>
     <integer name="google_play_services_version">8115000</integer>
     <string name="Blank">Blank</string>
+    <string name="Map_Key">AIzaSyAyywdDtUZF9MGYhYY-r1IyyR4EyB7JLl4</string>
     <string name="No_Internet_Connection">Fără conexiune la internet</string>
     <string name="OO_statusWaiting">în așteptare</string>
     <string name="Popup_Exit">Sunteti siguri că doriţi să ieşiţi?</string>
@@ -343,7 +344,16 @@
     <string name="mto_1before">zi înainte</string>
     <string name="mto_order">Comandă cu</string>
     <string name="nodata">Nu există date disponibile</string>
+    <string name="noti_Booking_Date">Booking Date:</string>
+    <string name="noti_Name">Name:</string>
+    <string name="noti_No_of_People">No of People:</string>
+    <string name="noti_OO_order_is_cancelled_by_User">Your online order is cancelled by User.</string>
+    <string name="noti_Status">Status:</string>
+    <string name="noti_TG_order_is_cancelled_by_User">Your Table grabber order is cancelled by User.</string>
+    <string name="noti_UID">UID:</string>
+    <string name="noti_new_online_order">Hey, Look at this, you got new online order.</string>
     <string name="noti_new_oo">New Online Order</string>
+    <string name="noti_new_table_grabber_booking">Hey, Look at this, you got new table grabber booking.</string>
     <string name="noti_new_tgk">New Table Graber</string>
     <string name="noti_oo">Order Confirmation</string>
     <string name="noti_tg">Booking Confirmation</string>

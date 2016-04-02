@@ -925,7 +925,7 @@
                         android:name="com.google.android.gms.maps.MapFragment"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:apiKey="AIzaSyCyhhKZn0T1BVlz60Thr2M5AU47iG3kEJE" />
+                        android:apiKey="@string/Map_Key" />
 
                     <TextView
                         android:id="@+id/textView1"

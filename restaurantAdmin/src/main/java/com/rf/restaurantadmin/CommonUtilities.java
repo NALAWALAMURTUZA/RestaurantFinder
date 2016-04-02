@@ -1,7 +1,6 @@
 package com.rf.restaurantadmin;
 
 import android.content.Context;
-import android.content.Intent;
 
 public final class CommonUtilities {
 	
@@ -30,8 +29,8 @@ public final class CommonUtilities {
      * @param message message to be displayed.
      */
     static void displayMessage(Context context, String message) {
-        Intent intent = new Intent(DISPLAY_MESSAGE_ACTION);
-        intent.putExtra(EXTRA_MESSAGE, message);
-        context.sendBroadcast(intent);
+//        Intent intent = new Intent(DISPLAY_MESSAGE_ACTION);
+//        intent.putExtra(EXTRA_MESSAGE, message);
+//        context.sendBroadcast(intent);
     }
 }

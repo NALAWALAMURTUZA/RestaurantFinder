@@ -984,10 +984,11 @@
     <string name="noti_Loyalty">Loyalty :</string>
     <string name="noti_Order_id">Order ID:</string>
 
-
+    <string name="noti_Delivery_type">Delivery Type:</string>
     <string name="noti_new_table_grabber_booking">Hey, Look at this, you got new table grabber booking.</string>
     <string name="noti_No_of_People">No of People:</string>
     <string name="noti_TG_order_is_cancelled_by_User">Your Table grabber order is cancelled by User.</string>
     <string name="noti_OO_order_is_cancelled_by_User">Your online order is cancelled by User.</string>
 
+    <string name="Map_Key">AIzaSyAyywdDtUZF9MGYhYY-r1IyyR4EyB7JLl4</string>
 </resources>

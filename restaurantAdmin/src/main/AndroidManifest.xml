@@ -142,7 +142,7 @@
             android:value="@integer/google_play_services_version" />
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyCyhhKZn0T1BVlz60Thr2M5AU47iG3kEJE" />
+            android:value="@string/Map_Key" />
         <!-- AIzaSyBA7PGsSr-bHpEouRnVRigvBppS6AfxkwM -->
         <!-- AIzaSyCJMyOzMlcdLY6bNOJgaMfRuNbaY-V16Ps change 28_8 -->
         <activity

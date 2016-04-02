@@ -445,6 +445,7 @@
     <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="Blank">Blank</string>
+    <string name="Map_Key">AIzaSyAyywdDtUZF9MGYhYY-r1IyyR4EyB7JLl4</string>
     <string name="No_Internet_Connection">No Internet Connection</string>
     <string name="OO_statusWaiting">Waiting</string>
     <string name="Popup_Exit">Are you sure that you want to exit?</string>
@@ -690,7 +691,20 @@
     <string name="mto_1before">Day Before</string>
     <string name="mto_order">Order</string>
     <string name="nodata">No Information Available</string>
+    <string name="noti_Booking_Date">Booking Date:</string>
+    <string name="noti_Delivery_type">Delivery Type:</string>
+    <string name="noti_Loyalty">Loyalty :</string>
+    <string name="noti_Name">Name:</string>
+    <string name="noti_No">No</string>
+    <string name="noti_No_of_People">No of People:</string>
+    <string name="noti_OO_order_is_cancelled_by_User">Your online order is cancelled by User.</string>
+    <string name="noti_Order_id">Order ID:</string>
+    <string name="noti_Status">Status:</string>
+    <string name="noti_TG_order_is_cancelled_by_User">Your Table grabber order is cancelled by User.</string>
+    <string name="noti_UID">UID:</string>
+    <string name="noti_new_online_order">Hey, Look at this, you got new online order.</string>
     <string name="noti_new_oo">New Online Order</string>
+    <string name="noti_new_table_grabber_booking">Hey, Look at this, you got new table grabber booking.</string>
     <string name="noti_new_tgk">New Table Graber</string>
     <string name="noti_oo">Order Confirmation</string>
     <string name="noti_tg">Booking Confirmation</string>

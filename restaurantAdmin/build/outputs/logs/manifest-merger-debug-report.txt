@@ -593,11 +593,11 @@ MERGED from [com.google.android.gms:play-services-basement:8.1.0] D:\workspace\R
 	android:value
 		ADDED from D:\workspace\RestaurantFinder\restaurantAdmin\src\main\AndroidManifest.xml:142:13-66
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from D:\workspace\RestaurantFinder\restaurantAdmin\src\main\AndroidManifest.xml:143:9-145:71
+ADDED from D:\workspace\RestaurantFinder\restaurantAdmin\src\main\AndroidManifest.xml:143:9-145:47
 	android:name
 		ADDED from D:\workspace\RestaurantFinder\restaurantAdmin\src\main\AndroidManifest.xml:144:13-62
 	android:value
-		ADDED from D:\workspace\RestaurantFinder\restaurantAdmin\src\main\AndroidManifest.xml:145:13-68
+		ADDED from D:\workspace\RestaurantFinder\restaurantAdmin\src\main\AndroidManifest.xml:145:13-44
 activity#com.example.restaurantadmin.Registration_step5_Activity
 ADDED from D:\workspace\RestaurantFinder\restaurantAdmin\src\main\AndroidManifest.xml:148:9-154:20
 	android:windowSoftInputMode

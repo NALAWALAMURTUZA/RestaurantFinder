@@ -630,14 +630,14 @@ public final class R {
 	}
 	public static final class string {
 		public static final int abc_action_bar_home_description = 0x7f060000;
-		public static final int abc_action_bar_home_description_format = 0x7f060307;
-		public static final int abc_action_bar_home_subtitle_description_format = 0x7f060308;
+		public static final int abc_action_bar_home_description_format = 0x7f060311;
+		public static final int abc_action_bar_home_subtitle_description_format = 0x7f060312;
 		public static final int abc_action_bar_up_description = 0x7f060001;
 		public static final int abc_action_menu_overflow_description = 0x7f060002;
 		public static final int abc_action_mode_done = 0x7f060003;
 		public static final int abc_activity_chooser_view_see_all = 0x7f060004;
 		public static final int abc_activitychooserview_choose_application = 0x7f060005;
-		public static final int abc_search_hint = 0x7f060309;
+		public static final int abc_search_hint = 0x7f060313;
 		public static final int abc_searchview_description_clear = 0x7f060006;
 		public static final int abc_searchview_description_query = 0x7f060007;
 		public static final int abc_searchview_description_search = 0x7f060008;
@@ -645,18 +645,18 @@ public final class R {
 		public static final int abc_searchview_description_voice = 0x7f06000a;
 		public static final int abc_shareactionprovider_share_with = 0x7f06000b;
 		public static final int abc_shareactionprovider_share_with_application = 0x7f06000c;
-		public static final int abc_toolbar_collapse_description = 0x7f06030a;
+		public static final int abc_toolbar_collapse_description = 0x7f060314;
 		public static final int mr_media_route_button_content_description = 0x7f06002b;
 		public static final int mr_media_route_chooser_searching = 0x7f06002c;
 		public static final int mr_media_route_chooser_title = 0x7f06002d;
 		public static final int mr_media_route_controller_disconnect = 0x7f06002e;
-		public static final int mr_media_route_controller_pause = 0x7f060316;
-		public static final int mr_media_route_controller_play = 0x7f060317;
-		public static final int mr_media_route_controller_settings_description = 0x7f060318;
-		public static final int mr_media_route_controller_stop = 0x7f060319;
+		public static final int mr_media_route_controller_pause = 0x7f060320;
+		public static final int mr_media_route_controller_play = 0x7f060321;
+		public static final int mr_media_route_controller_settings_description = 0x7f060322;
+		public static final int mr_media_route_controller_stop = 0x7f060323;
 		public static final int mr_system_route_name = 0x7f06002f;
 		public static final int mr_user_route_category_name = 0x7f060030;
-		public static final int status_bar_notification_info_overflow = 0x7f06031a;
+		public static final int status_bar_notification_info_overflow = 0x7f060328;
 	}
 	public static final class style {
 		public static final int AlertDialog_AppCompat = 0x7f080074;
