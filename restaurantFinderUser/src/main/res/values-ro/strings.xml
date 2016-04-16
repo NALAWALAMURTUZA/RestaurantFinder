@@ -1424,4 +1424,9 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="noti_Date">Date:</string>
     <string name="noti_order_cancel_by_the_restaurant">Sorry.Your online order cancel by the restaurant.</string>
 
+    <string name="noti_Delivery_Type">Delivery Type:</string>
+    <string name="noti_Status">Status:</string>
+    <string name="noti_Loyalty">Loyalty :</string>
+
+    <string name="Map_Key">AIzaSyCbr8IuMhjT2nswuOxreg7f3VJJc8EXd2E</string>
 </resources>

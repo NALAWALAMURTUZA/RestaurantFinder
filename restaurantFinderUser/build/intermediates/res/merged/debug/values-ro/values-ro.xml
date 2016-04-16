@@ -213,6 +213,7 @@
     <string name="Invitation">invitație</string>
     <string name="Lastname">Nume</string>
     <string name="Login">Logare</string>
+    <string name="Map_Key">AIzaSyCbr8IuMhjT2nswuOxreg7f3VJJc8EXd2E</string>
     <string name="Minimum_Order">Comandă Minimă: </string>
     <string name="Minimum_Order_details"> E necesară o Comandă minimă de 150 RON</string>
     <string name="Minimum_Time_Order">Timpul minim de livrare</string>
@@ -587,10 +588,20 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="my_profile">Profilul meu</string>
     <string name="nearby_search">Near by</string>
     <string name="no">nu</string>
+    <string name="noti_Booking_Date">Booking Date:</string>
+    <string name="noti_Date">Date:</string>
+    <string name="noti_Delivery_Type">Delivery Type:</string>
+    <string name="noti_Loyalty">Loyalty :</string>
+    <string name="noti_Name">Name:</string>
+    <string name="noti_Order_Id">Order Id:</string>
+    <string name="noti_Status">Status:</string>
     <string name="noti_book_canc">Booking Canceled</string>
     <string name="noti_book_confi">Booking Confirmed</string>
+    <string name="noti_booked_successfull">Your table is booked successfully</string>
+    <string name="noti_cancel_by_the_restaurant">Sorry.Your table grabing booking cancel by the restaurant.</string>
     <string name="noti_finish">Order Finished</string>
     <string name="noti_finish_note">Now you can give review to the hotel</string>
+    <string name="noti_order_cancel_by_the_restaurant">Sorry.Your online order cancel by the restaurant.</string>
     <string name="ok">Bine</string>
     <string name="oo_comments">Comment :</string>
     <string name="oo_orderdate">Data comenzii : </string>
@@ -695,6 +706,7 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="receipt_customer_name">Numele Clientului</string>
     <string name="receipt_invoice">INVOICE</string>
     <string name="receipt_items_name">Numele Produsului</string>
+    <string name="receipt_items_no">No</string>
     <string name="receipt_items_price">Preț</string>
     <string name="receipt_items_qty">QTY</string>
     <string name="receipt_items_total">Total</string>

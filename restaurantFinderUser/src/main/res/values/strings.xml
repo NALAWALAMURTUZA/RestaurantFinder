@@ -1125,6 +1125,6 @@ Points will be converted to amount. For example: X points = Y lei\n \n
     <string name="noti_Status">Status:</string>
     <string name="noti_Loyalty">Loyalty :</string>
 
-
+    <string name="Map_Key">AIzaSyCbr8IuMhjT2nswuOxreg7f3VJJc8EXd2E</string>
 
 </resources>

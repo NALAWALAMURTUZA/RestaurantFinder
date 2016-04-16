@@ -164,8 +164,8 @@ public class notification_oo_cancelbyuser extends Activity {
             booking_status.setText(obj_Detail.getString("status"));
 
             txt_order_id.setText(obj_Detail.getString("uid"));
-            txt_date.setText("Order Date : "+obj_Detail.getString("delivery_schedule"));
-            txt_time.setText("Order Date : "+obj_Detail.getString("delivery_schedule_from"));
+            txt_date.setText(getResources().getString(R.string.oo_orderdate)+obj_Detail.getString("delivery_schedule"));
+            txt_time.setText(getResources().getString(R.string.oo_orderdate)+obj_Detail.getString("delivery_schedule_from"));
             txt_user_name.setText(obj_Detail.getString("name"));
             txv_hotelname.setText(obj_Detail.getString("restaurant_name"));
             txt_del_charge.setText(Global_variable.Categories_sr+" "+obj_Detail.getString("delivery_charge"));
@@ -188,9 +188,9 @@ public class notification_oo_cancelbyuser extends Activity {
             }*/
 
             if(obj_Detail.getString("delivery_ok").equalsIgnoreCase("1")){
-                txv_delivery_type.setText("Delivery");
+                txv_delivery_type.setText(getResources().getString(R.string.pfoo_delivery));
             }else{
-                txv_delivery_type.setText("Pick Up");
+                txv_delivery_type.setText(getResources().getString(R.string.pfoo_pickup));
             }
 
             txt_user_mobile.setText(obj_Detail.getString("contact_number") + "," + " " + obj_Detail.getString("email"));

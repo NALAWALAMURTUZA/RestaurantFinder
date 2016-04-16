@@ -764,7 +764,7 @@
                     android:contentDescription="@string/Blank"
                     android:background="@color/brown"
                     android:textColor="@color/white"
-                    android:text="OK" />
+                    android:text="@string/ok" />
 
 
 

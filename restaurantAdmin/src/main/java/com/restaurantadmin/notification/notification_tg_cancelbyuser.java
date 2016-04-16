@@ -122,7 +122,7 @@ public class notification_tg_cancelbyuser extends Activity {
     private void setvalue() {
         try {
 //            if(obj_Detail.getString("booking_mode").equalsIgnoreCase("1")){
-                booking_status.setText("Cancel By User");
+                booking_status.setText(getResources().getString(R.string.noti_TG_Status_CancelByUser));
 //            }
 //
 //            else if(obj_Detail.getString("booking_mode").equalsIgnoreCase("2")){
@@ -140,9 +140,9 @@ public class notification_tg_cancelbyuser extends Activity {
 //            else if(obj_Detail.getString("booking_mode").equalsIgnoreCase("6")){
 //                booking_status.setText("Cancel");
 //            }
-            txt_order_id.setText("Booking Id :"+obj_Detail.getString("tg_order_uid"));
-            txt_date.setText("Booking Date : "+obj_Detail.getString("booking_date"));
-            txt_time.setText("Booking Time : "+obj_Detail.getString("booking_time"));
+            txt_order_id.setText(getResources().getString(R.string.tgrawfile_bookingid)+obj_Detail.getString("tg_order_uid"));
+            txt_date.setText(getResources().getString(R.string.tgrawfile_bookingdate)+obj_Detail.getString("booking_date"));
+            txt_time.setText(getResources().getString(R.string.noti_Booking_Time)+obj_Detail.getString("booking_time"));
 //            txt_hotel_name.setText(obj_Detail.getString("restaurant_name"));
             txv_email.setText(obj_Detail.getString("email"));
             txv_no_of_loyalty.setText(obj_Detail.getString("loyalty"));

@@ -115,28 +115,29 @@ public class notification_tg_neworder extends Activity {
     }
 
     private void setvalue() {
+        String[] onlineorderStatus = getResources().getStringArray(R.array.array_online_order_status);
         try {
             if(obj_Detail.getString("booking_mode").equalsIgnoreCase("1")){
-                booking_status.setText("Pending");
+                booking_status.setText(getResources().getString(R.string.str_Pending));
             }
             else if(obj_Detail.getString("booking_mode").equalsIgnoreCase("2")){
-                booking_status.setText("Confirmed");
+                booking_status.setText(getResources().getString(R.string.str_Confirmed));
             }
             else if(obj_Detail.getString("booking_mode").equalsIgnoreCase("3")){
-                booking_status.setText("Not Show");
+                booking_status.setText(getResources().getString(R.string.str_Not_Show));
             }
             else if(obj_Detail.getString("booking_mode").equalsIgnoreCase("4")){
-                booking_status.setText("Review");
+                booking_status.setText(getResources().getString(R.string.str_Review));
             }
             else if(obj_Detail.getString("booking_mode").equalsIgnoreCase("5")){
-                booking_status.setText("Over");
+                booking_status.setText(getResources().getString(R.string.str_Over));
             }
             else if(obj_Detail.getString("booking_mode").equalsIgnoreCase("6")){
-                booking_status.setText("Cancel");
+                booking_status.setText(getResources().getString(R.string.str_Cancel));
             }
             txt_order_id.setText(obj_Detail.getString("obj_oder_uid"));
-            txt_date.setText("Booking Date : "+obj_Detail.getString("booking_date"));
-            txt_time.setText("Booking Time : "+obj_Detail.getString("booking_time"));
+            txt_date.setText(getResources().getString(R.string.tgrawfile_bookingid)+obj_Detail.getString("booking_date"));
+            txt_time.setText(getResources().getString(R.string.noti_Booking_Time)+obj_Detail.getString("booking_time"));
             txv_no_of_loyalty.setText(obj_Detail.getString("loyalty"));
             txt_no_of_pers.setText(obj_Detail.getString("number_of_people"));
             if(obj_Detail.getString("comments").equalsIgnoreCase("")){

@@ -709,7 +709,7 @@
                 android:name="com.google.android.gms.maps.MapFragment"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:apiKey="AIzaSyApDuP0M-IsCofIQ6736lmfhczSsnhdH-Q" />
+                android:apiKey="@string/Map_Key" />
 
             <ImageView
                 android:id="@+id/img_cross"
