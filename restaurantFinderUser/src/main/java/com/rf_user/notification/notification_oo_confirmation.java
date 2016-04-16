@@ -139,12 +139,12 @@ public class notification_oo_confirmation extends Activity {
         try {
             JSONArray cart=new JSONArray();
 //            if (obj_Detail.getString("order_status").equalsIgnoreCase("Confirmed")) {
-                booking_status.setText("Confirmed");
+                booking_status.setText(getResources().getString(R.string.str_Confirmed));
 //            } else if (obj_Detail.getString("order_status").equalsIgnoreCase("Cancel")) {
 //                booking_status.setText("Cancel");
 //            }
-            txt_date.setText("Order Date : "+obj_Detail.getString("delivery_schedule"));
-            txt_time.setText("Order Time : "+obj_Detail.getString("delivery_schedule_from"));
+            txt_date.setText(getResources().getString(R.string.noti_orderDate)+obj_Detail.getString("delivery_schedule"));
+            txt_time.setText(getResources().getString(R.string.order_time)+" :"+obj_Detail.getString("delivery_schedule_from"));
 
 
 

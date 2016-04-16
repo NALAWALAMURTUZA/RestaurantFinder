@@ -143,10 +143,10 @@ public class notification_oo_cancelation extends Activity {
 //            if (obj_Detail.getString("order_status").equalsIgnoreCase("Confirmed")) {
 //                booking_status.setText("Confirmed");
 //            } else if (obj_Detail.getString("order_status").equalsIgnoreCase("Cancel")) {
-                booking_status.setText("Canceled");
+                booking_status.setText(getResources().getString(R.string.noti_book_canc));
 //            }
-            txt_date.setText("Order Date : "+obj_Detail.getString("delivery_schedule"));
-            txt_time.setText("Order Time : "+obj_Detail.getString("delivery_schedule_from"));
+            txt_date.setText(getResources().getString(R.string.noti_orderDate)+obj_Detail.getString("delivery_schedule"));
+            txt_time.setText(getResources().getString(R.string.order_time)+" :"+obj_Detail.getString("delivery_schedule_from"));
 
             txv_order_add.setText(obj_Detail.getString("address"));
             txt_user_mobile.setText(obj_Detail.getString("mobile_no")+","+" "+obj_Detail.getString("email"));
@@ -195,12 +195,10 @@ public class notification_oo_cancelation extends Activity {
                     }*/
 
                     if(obj.getString("delivery_ok").equalsIgnoreCase("1")){
-                        txv_delivery_type.setText("Delivery");
+                        txv_delivery_type.setText(getResources().getString(R.string.Delivery));
                     }else{
-                        txv_delivery_type.setText("Pick Up");
+                        txv_delivery_type.setText(getResources().getString(R.string.Pickup));
                     }
-
-
                     if(obj.getString("delivery_ok").equalsIgnoreCase("1")){
                         ll_address.setVisibility(View.VISIBLE);
                     }else{
@@ -222,15 +220,9 @@ public class notification_oo_cancelation extends Activity {
                     txt_order_id.setText(struid);
                 }
 
-
-
-
-
                 if(!str_total.equalsIgnoreCase("")||!str_total.equalsIgnoreCase("null")){
                     txv_total.setText(Global_variable.Categories_sr+" "+str_total);
                 }
-
-
                 if(!str_delivery_charge.equalsIgnoreCase("")||!str_delivery_charge.equalsIgnoreCase("null")){
                     txv_delivery_charge.setText(Global_variable.Categories_sr+" "+str_delivery_charge);
                 }
@@ -251,12 +243,7 @@ public class notification_oo_cancelation extends Activity {
                         txt_user_name.setText(str_lastname);
                     }
                 }
-
             }
-
-
-
-
         } catch (JSONException e) {
             e.printStackTrace();
         }

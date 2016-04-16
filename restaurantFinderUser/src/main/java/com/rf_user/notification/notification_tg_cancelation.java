@@ -115,12 +115,12 @@ public class notification_tg_cancelation extends Activity {
     private void setvalue() {
         try {
 
-            booking_status.setText("Cancel");
-            txt_order_id.setText("Booking Id :"+obj_Detail.getString("tg_order_uid"));
-            txt_date.setText("Booking Date : "+obj_Detail.getString("booking_date"));
-            txt_time.setText(" Booking Time : "+obj_Detail.getString("booking_time"));
-            txt_numberof_people.setText("Number of people : " +obj_Detail.getString("number_of_people"));
-            txt_loyality.setText("Loyalty: "+obj_Detail.getString("loyalty"));
+            booking_status.setText(getResources().getString(R.string.str_Cancel));
+            txt_order_id.setText(getResources().getString(R.string.tgrawfile_bookingid)+obj_Detail.getString("tg_order_uid"));
+            txt_date.setText(getResources().getString(R.string.noti_Booking_Date)+obj_Detail.getString("booking_date"));
+            txt_time.setText(getResources().getString(R.string.noti_bookingTime)+obj_Detail.getString("booking_time"));
+            txt_numberof_people.setText(getResources().getString(R.string.noti_Numberofpeople)+obj_Detail.getString("number_of_people"));
+            txt_loyality.setText(getResources().getString(R.string.noti_Loyalty)+obj_Detail.getString("loyalty"));
             txt_restaurant_name.setText(obj_Detail.getString("restaurant_name"));
             txt_user_name.setText(obj_Detail.getString("firstname")+" "+obj_Detail.getString("surname"));
         } catch (JSONException e) {

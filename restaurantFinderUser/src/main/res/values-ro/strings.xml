@@ -1428,5 +1428,13 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="noti_Status">Status:</string>
     <string name="noti_Loyalty">Loyalty :</string>
 
+
+    <string name="noti_orderDate">Order Date :</string>
+    <string name="noti_bookingTime">Booking Time :</string>
+    <string name="noti_Numberofpeople">Number of people :</string>
+    <string name="noti_Booking">Booking Id :</string>
+    <string name="noti_Finished">Finished</string>
+
+
     <string name="Map_Key">AIzaSyCbr8IuMhjT2nswuOxreg7f3VJJc8EXd2E</string>
 </resources>
