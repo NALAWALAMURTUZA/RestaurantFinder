@@ -1105,7 +1105,6 @@ Points will be converted to amount. For example: X points = Y lei\n \n
         completions."
     </string>
     <string name="noti_book_confi">Booking Confirmed</string>
-
     <string name="noti_book_canc">Booking Canceled</string>
     <string name="noti_finish">Order Finished</string>
     <string name="noti_finish_note">Now you can give review to the hotel</string>

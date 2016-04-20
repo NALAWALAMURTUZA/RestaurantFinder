@@ -15,7 +15,6 @@
     <string name="OO_statusWaiting">în așteptare</string>
     <!-- <string name="str_Review">Review</string> -->
 
-
     <!-- oorawfile -->
     <string name="oorawfile_coo">Comandă confirmată</string>
     <string name="oorawfile_cancelorder">Comandă anulată</string>
@@ -1409,31 +1408,30 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
-    <string name="noti_book_confi">Booking Confirmed</string>
-
-    <string name="noti_book_canc">Booking Canceled</string>
-    <string name="noti_finish">Order Finished</string>
+    <string name="noti_book_confi">confirmarea rezervării</string>
+    <string name="noti_book_canc">rezervare Anulat</string>
+    <string name="noti_finish">obligarea finite</string>
     <string name="noti_finish_note">Now you can give review to the hotel</string>
     <string name="receipt_items_no">No</string>
 
     <string name="noti_booked_successfull">Your table is booked successfully</string>
-    <string name="noti_Order_Id">Order Id:</string>
-    <string name="noti_Name">Name:</string>
-    <string name="noti_Booking_Date">Booking Date:</string>
+    <string name="noti_Order_Id">Comanda ID:</string>
+    <string name="noti_Name">Nume:</string>
+    <string name="noti_Booking_Date">Data rezervarii:</string>
     <string name="noti_cancel_by_the_restaurant">Sorry.Your table grabing booking cancel by the restaurant.</string>
-    <string name="noti_Date">Date:</string>
+    <string name="noti_Date">Data:</string>
     <string name="noti_order_cancel_by_the_restaurant">Sorry.Your online order cancel by the restaurant.</string>
 
-    <string name="noti_Delivery_Type">Delivery Type:</string>
+    <string name="noti_Delivery_Type">Tipul serviciului:</string>
     <string name="noti_Status">Status:</string>
-    <string name="noti_Loyalty">Loyalty :</string>
+    <string name="noti_Loyalty">Loialitate:</string>
 
 
-    <string name="noti_orderDate">Order Date :</string>
-    <string name="noti_bookingTime">Booking Time :</string>
-    <string name="noti_Numberofpeople">Number of people :</string>
-    <string name="noti_Booking">Booking Id :</string>
-    <string name="noti_Finished">Finished</string>
+    <string name="noti_orderDate">Data comandă:</string>
+    <string name="noti_bookingTime">Ora rezervării:</string>
+    <string name="noti_Numberofpeople">Număr de persoane:</string>
+    <string name="noti_Booking">Id-ul de rezervare:</string>
+    <string name="noti_Finished">Terminat</string>
 
 
     <string name="Map_Key">AIzaSyCbr8IuMhjT2nswuOxreg7f3VJJc8EXd2E</string>
