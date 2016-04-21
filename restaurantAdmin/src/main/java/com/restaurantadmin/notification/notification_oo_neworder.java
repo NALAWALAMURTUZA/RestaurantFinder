@@ -48,9 +48,9 @@ public class notification_oo_neworder extends Activity {
         System.out.println(getIntent());
         onNewIntent(getIntent());
         initilize();
-        setvalue();
         setlistner();
         setlangueage();
+        setvalue();
     }
 
     private void setlangueage() {

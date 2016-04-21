@@ -40,13 +40,14 @@ public class notification_oo_confirmation extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
+        LanguageConvertLocalPrefernce.loadLocale(getApplicationContext());
         setContentView(R.layout.activity_notification_oo_confirmation);
         System.out.println(getIntent());
         onNewIntent(getIntent());
         initilize();
-        setvalue();
         setlistner();
         setlangueage();
+        setvalue();
     }
 
     private void setlangueage() {

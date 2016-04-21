@@ -30,13 +30,14 @@ public class notification_tg_cancelation extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
+        LanguageConvertLocalPrefernce.loadLocale(getApplicationContext());
         setContentView(R.layout.activity_notification_tg_cancelation);
         System.out.println(getIntent());
         onNewIntent(getIntent());
         initilize();
-        setvalue();
         setlistner();
         setlangueage();
+        setvalue();
     }
     private void setlangueage() {
         // language*****************

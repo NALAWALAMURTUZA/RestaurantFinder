@@ -48,10 +48,9 @@ public class notification_oo_cancelbyuser extends Activity {
         System.out.println(getIntent());
         onNewIntent(getIntent());
         initilize();
-        setvalue();
         setlistner();
         setlangueage();
-
+        setvalue();
     }
 
     private void setlangueage() {
