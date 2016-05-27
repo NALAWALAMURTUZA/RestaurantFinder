@@ -137,7 +137,7 @@ public class notification_tg_neworder extends Activity {
                 booking_status.setText(getResources().getString(R.string.str_Cancel));
             }
             txt_order_id.setText(obj_Detail.getString("obj_oder_uid"));
-            txt_date.setText(getResources().getString(R.string.tgrawfile_bookingid)+obj_Detail.getString("booking_date"));
+            txt_date.setText(getResources().getString(R.string.noti_Booking_Date)+obj_Detail.getString("booking_date"));
             txt_time.setText(getResources().getString(R.string.noti_Booking_Time)+obj_Detail.getString("booking_time"));
             txv_no_of_loyalty.setText(obj_Detail.getString("loyalty"));
             txt_no_of_pers.setText(obj_Detail.getString("number_of_people"));

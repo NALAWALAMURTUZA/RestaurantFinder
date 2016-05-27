@@ -11,4 +11,4 @@
         android:background="@android:color/white"
         android:cacheColorHint="@android:color/white" />
 
-</RelativeLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/activity_review_pullto_refresh.xml -->
+</RelativeLayout>

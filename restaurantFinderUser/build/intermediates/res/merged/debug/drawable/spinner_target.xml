@@ -3,4 +3,3 @@
     xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
     <solid android:color="#ffffff" />
 </shape>
-<!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/drawable/spinner_target.xml -->

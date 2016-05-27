@@ -78,4 +78,4 @@
             android:text="@string/payment_rawfile_item_SR"
             android:textAppearance="?android:attr/textAppearanceSmall" />
     </LinearLayout>
-</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/layout/cart_rawfile.xml -->
+</LinearLayout>

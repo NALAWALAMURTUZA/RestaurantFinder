@@ -6,7 +6,7 @@
  <!-- <uses-permission android:name="info.androidhive.googlemapsv2.permission.MAPS_RECEIVE" /> -->
     <uses-sdk
         android:minSdkVersion="11"
-        android:targetSdkVersion="21" />
+        android:targetSdkVersion="23" />
 
     <permission
         android:name="com.rf_user.activity.googlemapsv2.permission.MAPS_RECEIVE"

@@ -442,4 +442,4 @@ android:paddingLeft="5dp"
     </RelativeLayout>
     <!-- </ScrollView> -->
 
-</RelativeLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/layout/activity_notification_tg_neworder.xml -->
+</RelativeLayout>

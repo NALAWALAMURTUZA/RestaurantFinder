@@ -912,7 +912,7 @@ public class AboutRestaurant extends Activity {
 
 							+ "</b>" + "<br />" + getResources().getString(R.string.abr_Opening_Days)
 							+ "</b>"
-									+ Global_variable.multiline_space
+//									+ Global_variable.multiline_space
 									+final_lunch_opening_days
 
 									 + "<br />" + getResources().getString(R.string.abr_Opening_Time)
@@ -925,7 +925,7 @@ public class AboutRestaurant extends Activity {
 
 							+ "</b>" + "<br />" + getResources().getString(R.string.abr_Opening_Days)
 							+ "</b>"
-							+ Global_variable.multiline_space
+//							+ Global_variable.multiline_space
 							+final_dinner_opening_days
 
 									+ "</b>" + "<br />" + getResources().getString(R.string.abr_Opening_Time)
@@ -1002,7 +1002,7 @@ public class AboutRestaurant extends Activity {
 							if (cuisine != null) {
 								cuisine_txt.setText(Html
 										.fromHtml("<b>" + getResources().getString(R.string.abr_Cuisine) + "</b>"
-												+ Global_variable.multiline_space
+//												+ Global_variable.multiline_space
 												+ cuisine));
 							} else {
 								cuisine_txt.setVisibility(View.GONE);
@@ -1026,7 +1026,7 @@ public class AboutRestaurant extends Activity {
 							if (final_services != null) {
 								services_txt.setText(Html.fromHtml("<b>"
 										+ getResources().getString(R.string.abr_Services) + "</b>"
-										+ Global_variable.multiline_space
+//										+ Global_variable.multiline_space
 										+ final_services));
 							} else {
 								services_txt.setVisibility(View.GONE);
@@ -1036,7 +1036,7 @@ public class AboutRestaurant extends Activity {
 								accepted_creditcards_txt.setText(Html
 										.fromHtml("<b>" + getResources().getString(R.string.abr_Accepted_Credit_Cards)
 												+ "</b>"
-												+ Global_variable.multiline_space
+//												+ Global_variable.multiline_space
 												+ accepted_credit_cards));
 
 							} else {

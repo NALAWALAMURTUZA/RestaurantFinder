@@ -3,4 +3,3 @@
     <item android:state_selected="true" android:drawable="@drawable/restaurant_name" />
     <item android:drawable="@drawable/rf_home_header" />
 </selector>
-<!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/drawable/tab_tag.xml -->

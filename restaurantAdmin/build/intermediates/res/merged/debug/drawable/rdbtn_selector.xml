@@ -7,4 +7,3 @@
     <item android:drawable="@drawable/check_box_default" android:state_checked="false" android:state_pressed="true"/>
 
 </selector>
-<!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/drawable/rdbtn_selector.xml -->

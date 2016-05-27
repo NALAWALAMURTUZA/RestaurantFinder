@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/values-ro/strings.xml -->
-    <eat-comment/>
     <string-array name="array_book_status">
         <item>Rezervat</item>
         <item>Confirmat</item>
@@ -165,8 +163,6 @@
     <string name="ab_tg">Tabelul Captura</string>
     <string name="ab_title">Toate Rezervările</string>
     <string name="ab_type">Tipul de rezervare</string>
-    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-ro/values-ro.xml -->
-    <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
     <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigați în sus"</string>
     <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
@@ -180,8 +176,6 @@
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"Căutare vocală"</string>
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Trimiteți la %s"</string>
-    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/values-ro/strings.xml -->
-    <eat-comment/>
     <string name="action_settings">Setări</string>
     <string name="af_action">acțiune</string>
     <string name="af_availab">disponibilitate</string>
@@ -198,8 +192,6 @@
     <string name="ch_avi">disponibil</string>
     <string name="checkout_mobile_verify">Trebuie să vă verificați detaliile de contact și numărul comenzii pentru a putea ridica această comandă</string>
     <string name="checkout_used_saved_address">Str. Ilarie Chendi nr. 19</string>
-    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ro/common_strings.xml -->
-    <eat-comment/>
     <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> necesită o actualizare a aplicației Android Wear."</string>
     <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula decât dacă actualizați aplicația Android Wear."</string>
     <string msgid="1366439133145190222" name="common_android_wear_update_title">"Actualizați Android Wear"</string>
@@ -230,8 +222,6 @@
     <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care momentan se actualizează."</string>
     <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Se actualizează serviciile Google Play"</string>
     <string msgid="411506735369601515" name="common_open_on_phone">"Deschideți pe telefon"</string>
-    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/values-ro/strings.xml -->
-    <eat-comment/>
     <string name="confirm">confirma</string>
     <string name="cs_free">gratuit</string>
     <string name="cs_gold">aur</string>
@@ -331,16 +321,12 @@
     <string name="mp_photoformate">Formatul foto recomandat; 800 * 450</string>
     <string name="mp_preview">previzualizare</string>
     <string name="mp_title">Fotografii</string>
-    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values-ro/values-ro.xml -->
-    <eat-comment/>
     <string msgid="4271159405637008602" name="mr_media_route_button_content_description">"Rezultate media"</string>
     <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Se caută dispozitive..."</string>
     <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Conectați-vă la dispozitiv"</string>
     <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Deconectați-vă"</string>
     <string msgid="5441529851481176817" name="mr_system_route_name">"Sistem"</string>
     <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispozitive"</string>
-    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/values-ro/strings.xml -->
-    <eat-comment/>
     <string name="mto_1before">zi înainte</string>
     <string name="mto_order">Comandă cu</string>
     <string name="nodata">Nu există date disponibile</string>
@@ -382,7 +368,7 @@
     <string name="oo_paid">plătit</string>
     <string name="oo_payment_status">Stare de plată :</string>
     <string name="oo_pickup">Ridica</string>
-    <string name="oo_pickup_msg"><![CDATA[<b><font color=#FF0000>Client pickup mâncarea de la restaurant</b>]]></string>
+    <string name="oo_pickup_msg">&lt;b>&lt;font color=#FF0000>Client pickup mâncarea de la restaurant&lt;/b></string>
     <string name="oo_service_charge">tarif :</string>
     <string name="oo_service_process">Procesul serviciului :</string>
     <string name="ood_title">Detaliile Comenzii</string>
@@ -965,7 +951,5 @@
     <string name="tv_rf_registration_latitude">Latitudine</string>
     <string name="tv_rf_registration_longitude">Longitudine</string>
     <string name="tv_rf_registration_title">Titlu</string>
-    <!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/res/values-ro/wallet_strings.xml -->
-    <eat-comment/>
     <string msgid="4184147110658930238" name="wallet_buy_button_place_holder">"Cumpărați cu Google"</string>
 </resources>

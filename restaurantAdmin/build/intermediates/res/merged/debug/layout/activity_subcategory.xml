@@ -294,4 +294,4 @@
             android:src="@drawable/cross_icon_default" />
     </LinearLayout>
 
-</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/layout/activity_subcategory.xml -->
+</LinearLayout>

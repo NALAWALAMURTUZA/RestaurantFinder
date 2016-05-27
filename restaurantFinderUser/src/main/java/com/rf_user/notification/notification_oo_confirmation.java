@@ -196,9 +196,9 @@ public class notification_oo_confirmation extends Activity {
 
 
                     if(obj.getString("delivery_ok").equalsIgnoreCase("1")){
-                        txv_delivery_type.setText("Delivery");
+                        txv_delivery_type.setText(getResources().getString(R.string.Delivery));
                     }else{
-                        txv_delivery_type.setText("Pick Up");
+                        txv_delivery_type.setText(getResources().getString(R.string.Pickup));
                     }
 
 

@@ -660,4 +660,4 @@
             android:textAppearance="?android:attr/textAppearanceSmall" />
     </LinearLayout>
 
-</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/delivery_layout.xml -->
+</LinearLayout>

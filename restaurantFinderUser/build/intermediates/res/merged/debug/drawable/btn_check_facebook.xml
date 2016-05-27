@@ -21,4 +21,4 @@
 	 	
 	 <item 
  		android:drawable="@drawable/ic_facebook_off" />
-</selector><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/drawable/btn_check_facebook.xml -->
+</selector>

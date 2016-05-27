@@ -45,4 +45,4 @@
         android:layout_marginTop="100dp"
         android:src="@drawable/mobile_icon" />
 
-</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/popup_mobile_verification_sendcode.xml -->
+</LinearLayout>

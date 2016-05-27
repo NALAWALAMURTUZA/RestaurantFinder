@@ -52,4 +52,4 @@
         android:layout_weight="90" >
     </ListView>
 
-</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/layout/activity_food_list.xml -->
+</LinearLayout>

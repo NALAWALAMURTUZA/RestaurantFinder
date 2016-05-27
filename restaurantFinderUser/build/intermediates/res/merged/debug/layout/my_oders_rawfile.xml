@@ -219,4 +219,4 @@
             android:src="@drawable/order_line" />
     </LinearLayout>
 
-</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/my_oders_rawfile.xml -->
+</LinearLayout>

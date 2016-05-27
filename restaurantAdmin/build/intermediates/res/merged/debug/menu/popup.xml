@@ -50,4 +50,4 @@
         android:title="@string/popup_signout">
     </item>
 
-</menu><!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/menu/popup.xml -->
+</menu>
