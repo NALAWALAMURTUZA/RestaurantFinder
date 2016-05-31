@@ -1,31 +1,43 @@
 [
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\img_no.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\img_no.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\edit.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_my_booking_cancel_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_my_booking_cancel_button.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\ll_bg.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\ll_bg.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\find_button_2.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\find_button_2.png"
     },
     {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\delivery_date.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\delivery_date.png"
+    },
+    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\round_bg.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\round_bg.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_about_us_tital_background.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_about_us_tital_background.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\choose_file.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\choose_file.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\black_line.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\black_line.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\login.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\login.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\txv_bg.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\txv_bg.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\line.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\line.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\date_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\date_box.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\featured.png",
@@ -40,72 +52,68 @@
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\img_tab_unselected.png"
     },
     {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\most_booked.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\most_booked.png"
+    },
+    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\saved_add_raw_file_box.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\saved_add_raw_file_box.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\facebook.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\facebook.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\viewmenu.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\viewmenu.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_text_box.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_text_box.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\tweeter.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\tweeter.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\now_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\now_button.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\logo.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\logo.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\black_line.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\black_line.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\near_by_restaurant.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\near_by_restaurant.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\arrow_right_ar.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\arrow_right_ar.png"
     },
     {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\checkbox_default.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\checkbox_default.png"
+    },
+    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\choose_file.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\choose_file.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\categories.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\categories.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_networking_facebook_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_networking_facebook_icon.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\my_loyalty_rewards_button.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\my_loyalty_rewards_button.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\review_next_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\review_next_button.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\woman.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\woman.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_more_information_menu_icon.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_more_information_menu_icon.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_date_icon_header.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_date_icon_header.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_more_informatio_background.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_more_informatio_background.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\back.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\back.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\choose_icon.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\choose_icon.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\ok_button.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\ok_button.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\submite_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\submite_button.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\cross_circle.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\cross_circle.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\second_screen_background.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\second_screen_background.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\img_tab_selected.png",
@@ -120,16 +128,128 @@
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\change_password.png"
     },
     {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\img_no.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\img_no.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_about_us_tital_background.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_about_us_tital_background.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\arbic_flag.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\arbic_flag.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\txv_bg.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\txv_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\payment_boarder_line.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\payment_boarder_line.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\line.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\line.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\wjbty_logo.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\wjbty_logo.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_text_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_text_box.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_splash_background.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_splash_background.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\facebook.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\facebook.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\mail_delete.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\mail_delete.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\tweeter.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\tweeter.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\saved_add_raw_file_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\saved_add_raw_file_box.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\black_line.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\black_line.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_date_icon_header.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_date_icon_header.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\img_tab_unselected.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\img_tab_unselected.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\categories.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\categories.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_find_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_find_button.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\woman.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\woman.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\my_loyalty_rewards_button.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\my_loyalty_rewards_button.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_more_information_menu_icon.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_more_information_menu_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\my_loyalty_rewards_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\my_loyalty_rewards_button.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_date_icon_header.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_date_icon_header.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_more_informatio_background.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_more_informatio_background.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\ok_button.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\ok_button.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\cross_circle.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\cross_circle.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\favorite_select.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\favorite_select.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\set_as_default.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\set_as_default.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\ok_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\ok_button.png"
+    },
+    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\mail_delete.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\mail_delete.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\cancel_button.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\cancel_button.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\logo_header.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\logo_header.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\offer_ly_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\offer_ly_box.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\sweet.png",
@@ -148,40 +268,44 @@
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\sweet_spicy.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\contact_details.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\contact_details.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\header_search_select_icon.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\header_search_select_icon.png"
-    },
-    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\detail_button.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\detail_button.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\boarder_line.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\boarder_line.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\header_search_icon.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\header_search_icon.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\favorite_default.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\favorite_default.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\img_no.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\img_no.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\choose_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\choose_icon.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_my_booking_post_a_reviews_button.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_my_booking_post_a_reviews_button.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\edit.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\edit.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\wjbty_logoo.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\wjbty_logoo.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\ll_bg.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\ll_bg.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\edit.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_my_booking_cancel_button_2.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_my_booking_cancel_button_2.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\header_search_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\header_search_icon.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rest_demo_image.png",
@@ -192,16 +316,12 @@
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\now_button.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\save_ar.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\save_ar.png"
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\listview_categories_img_ar.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\listview_categories_img_ar.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\google.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\google.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\listview_categories_img_ar.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\listview_categories_img_ar.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\time_icon_booking_screen.png",
@@ -212,80 +332,224 @@
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_people_box.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\continue_background.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\continue_background.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\sweet.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\sweet.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_comment_box.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_comment_box.png"
     },
     {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\english_flage.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\english_flage.png"
+    },
+    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\choose_banner.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\choose_banner.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\submite_button.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\submite_button.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\review_submit.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\review_submit.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\shipping_info.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\shipping_info.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\calender_icon_booking_screen.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\calender_icon_booking_screen.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rdbtn_select.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rdbtn_select.png"
     },
     {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_post_review_banner.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_post_review_banner.png"
+    },
+    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\grab_tabale.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\grab_tabale.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\review_comment_text_box.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\review_comment_text_box.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rom_flage.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rom_flage.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rdbtn_default.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rdbtn_default.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\facebook.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\facebook.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_home_menu_icon.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_home_menu_icon.png"
     },
     {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\choose_banner.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\choose_banner.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\hotel_view_menu.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\hotel_view_menu.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\continue_background.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\continue_background.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\edit_ar.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\edit_ar.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\reviews.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\reviews.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\cancel_button.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\cancel_button.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\cart_images_ar.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\cart_images_ar.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\logo_header.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\logo_header.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\contact_details.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\contact_details.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\logo_header.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\logo_header.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\offers_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\offers_button.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\contact_details.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\contact_details.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\header_search_select_icon.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\header_search_select_icon.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\boarder_line.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\boarder_line.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\order_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\order_box.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\favorite_default.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\favorite_default.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rdbtn_select.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rdbtn_select.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\back_img.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\back_img.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\mycart_background.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\mycart_background.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\next_img.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\next_img.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\save_ar.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\save_ar.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\find_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\find_button.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\txv_bg.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\txv_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\man_icon_booking_screen.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\man_icon_booking_screen.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\continue_background.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\continue_background.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\submite_button.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\submite_button.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_restaurant_listing_name_background.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_restaurant_listing_name_background.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\shipping_info.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\shipping_info.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\review_submit.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\review_submit.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\review_comment_text_box.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\review_comment_text_box.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\checkbox_select.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\checkbox_select.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\search_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\search_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_post_review_name_backgroun.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_post_review_name_backgroun.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\continue_img.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\continue_img.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\review_submit.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\review_submit.png"
+    },
+    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\food_icon.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\food_icon.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\viewmenu.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\viewmenu.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\time.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\time.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_time_icon_.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_time_icon_.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\reviews_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\reviews_box.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\mobile_icon.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\mobile_icon.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\set_as_default.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\set_as_default.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_comment_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_comment_box.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\wjbty_logoo.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\wjbty_logoo.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\cart_images.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\cart_images.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\img_tab_selected.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\img_tab_selected.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\offers_button.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\offers_button.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\photos_size.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\photos_size.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\logo_icon.png",
@@ -296,116 +560,104 @@
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\setting.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_supper_admin_hader_logo_.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_supper_admin_hader_logo_.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\order_gen_box.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\order_gen_box.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\man_icon.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\man_icon.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\round.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\round.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\arrow_right.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\arrow_right.png"
     },
     {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\man_icon.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\man_icon.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\order_gen_box.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\order_gen_box.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_supper_admin_hader_logo_.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_supper_admin_hader_logo_.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\listview_categories_img.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\listview_categories_img.png"
+    },
+    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\round.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\round.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\near_by_restaurant.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\near_by_restaurant.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_networking_twitter_icon.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_networking_twitter_icon.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\photos_size.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\photos_size.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_date_box.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_date_box.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\confirmation_submit_images.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\confirmation_submit_images.png"
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\near_by_restaurant.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\near_by_restaurant.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_text_box.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_text_box.png"
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\confirmation_submit_images.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\confirmation_submit_images.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\background.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\background.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_home_loyalty_box.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_home_loyalty_box.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\save.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\save.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\arbic_flag.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\arbic_flag.png"
-    },
-    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\checkbox_select.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\checkbox_select.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\reviews.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\reviews.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\ordernow.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\ordernow.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\delivery_date.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\delivery_date.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\wjbty_logo.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\wjbty_logo.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\fabulous_screen.jpg",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\fabulous_screen.jpg"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\sweet_spicy.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\sweet_spicy.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\find_button.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\find_button.png"
     },
     {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_date_icon_.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_date_icon_.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_time_icon_.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_time_icon_.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\logo_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\logo_icon.png"
+    },
+    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_find_button.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_find_button.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\img_yes.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\img_yes.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\cart_images.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\cart_images.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\save.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\save.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\reviews_box.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\reviews_box.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_restaurant_listing_name_background.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_restaurant_listing_name_background.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\login.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\login.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_time_icon_header.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_time_icon_header.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\point_location.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\point_location.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\calender_icon_booking_screen.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\calender_icon_booking_screen.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\no_code.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\no_code.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\cross_circle.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\cross_circle.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\login_icon.png",
@@ -416,72 +668,208 @@
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_post_review_banner.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\cart_images_ar.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\cart_images_ar.png"
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\viewmenu.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\viewmenu.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\time.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\time.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\ordernow.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\ordernow.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_time_icon_.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_time_icon_.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\calender.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\calender.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\set_as_default.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\set_as_default.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\photos_size.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\photos_size.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\wjbty_logoo.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\wjbty_logoo.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\categories.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\categories.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\yes.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\yes.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\login_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\login_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\line.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\line.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_networking_twitter_icon.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_networking_twitter_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_about_us_tital_background.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_about_us_tital_background.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_text_box.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_text_box.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_home_loyalty_box.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_home_loyalty_box.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\featured.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\featured.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\save.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\save.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\arbic_flag.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\arbic_flag.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\reviews.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\reviews.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\footer_background_image.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\footer_background_image.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\ordernow.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\ordernow.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\wjbty_logo.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\wjbty_logo.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\delivery_date.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\delivery_date.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\fabulous_screen.jpg",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\fabulous_screen.jpg"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\confirmation_submit_images.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\confirmation_submit_images.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\fabulous_screen.jpg",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\fabulous_screen.jpg"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\grab_tabale.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\grab_tabale.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\cart_images.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\cart_images.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\img_yes.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\img_yes.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_restaurant_listing_name_background.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_restaurant_listing_name_background.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\logo.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_time_icon_header.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_time_icon_header.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\calender_icon_booking_screen.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\calender_icon_booking_screen.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_time_icon_header.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_time_icon_header.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_people__box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_people__box.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_home_loyalty_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_home_loyalty_box.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\back.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\back.png"
     },
     {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\cart_images_ar.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\cart_images_ar.png"
+    },
+    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\near_by_restaurant_select.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\near_by_restaurant_select.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_date_icon_.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_date_icon_.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\gallery.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\gallery.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\change_password.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\change_password.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\most_booked.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\most_booked.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_my_booking_cancel_button.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_my_booking_cancel_button.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\review_next_button.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\review_next_button.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\save_ar.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\save_ar.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\search_icon.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\search_icon.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\find_tables.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\find_tables.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_home_menu_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_home_menu_icon.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\order_line.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\order_line.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\footer_background_image.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\footer_background_image.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\hotel_view_menu.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\hotel_view_menu.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\most_booked_select.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\most_booked_select.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\offer_ly_box.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\offer_ly_box.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\edit_ar.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\edit_ar.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\cancel_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\cancel_button.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\next_img.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\next_img.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rest_demo_image.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rest_demo_image.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_splash_background.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_splash_background.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\next_img.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\next_img.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\calender.png",
@@ -492,92 +880,304 @@
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\submit_button.png"
     },
     {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\food_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\food_icon.png"
+    },
+    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_post_review_name_backgroun.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_post_review_name_backgroun.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\english_flage.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\english_flage.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\my_oders_rawfile.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\my_oders_rawfile.xml"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\password.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\password.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\man_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\man_icon.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_my_booking_cancel_button_2.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_my_booking_cancel_button_2.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rom_flage.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rom_flage.png"
-    },
-    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\second_screen_logo.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\second_screen_logo.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\find_button_2.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\find_button_2.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\checkbox_default.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\checkbox_default.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\set_as_default_ar.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\set_as_default_ar.png"
-    },
-    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\back_img.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\back_img.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\point_location.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\point_location.png"
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\set_as_default_ar.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\set_as_default_ar.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\ic_launcher.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\ic_launcher.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\detail_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\detail_button.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\second_screen_background.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\second_screen_background.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\listview_categories_img_ar.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\listview_categories_img_ar.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rdbtn_default.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rdbtn_default.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\img_yes.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\img_yes.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\submit_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\submit_button.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\my_oders_rawfile.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\my_oders_rawfile.xml"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\gallery.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\gallery.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\near_by_restaurant_select.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\near_by_restaurant_select.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\order_line.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\order_line.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_networking_facebook_icon.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_networking_facebook_icon.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\payment_boarder_line.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\payment_boarder_line.png"
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rdbtn_default.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rdbtn_default.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\map_icon_catrgories.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\map_icon_catrgories.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\arrow_right.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\arrow_right.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\continue_img.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\continue_img.png"
     },
     {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\map_icon_catrgories.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\map_icon_catrgories.png"
+    },
+    {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\order_box.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\order_box.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\favorite_select.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\favorite_select.png"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_more_informatio_background.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_more_informatio_background.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\listview_categories_img.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\listview_categories_img.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\man_icon_booking_screen.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\man_icon_booking_screen.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\google.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\google.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_networking_twitter_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_networking_twitter_icon.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\gallery.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\gallery.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_date_icon_.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_date_icon_.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\woman.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\woman.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\boarder_line.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\boarder_line.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\header_search_select_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\header_search_select_icon.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\review_next_button.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\review_next_button.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_my_booking_cancel_button.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_my_booking_cancel_button.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\find_tables.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\find_tables.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\set_as_default_ar.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\set_as_default_ar.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\order_line.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\order_line.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_more_information_menu_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_more_information_menu_icon.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\footer_background_image.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\footer_background_image.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\hotel_view_menu.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\hotel_view_menu.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\find_tables.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\find_tables.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_my_booking_post_a_reviews_button.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_my_booking_post_a_reviews_button.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_supper_admin_hader_logo_.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_supper_admin_hader_logo_.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\favorite_default.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\favorite_default.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\edit_ar.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\edit_ar.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\background.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\background.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\review_comment_text_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\review_comment_text_box.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\arrow_right_ar.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\arrow_right_ar.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\setting.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\password.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\password.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\round_bg.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\round_bg.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\my_oders_rawfile.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\my_oders_rawfile.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\english_flage.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\english_flage.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\mobile_icon.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\mobile_icon.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\password.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\password.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_button_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_button_box.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\tweeter.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\tweeter.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\search_not_inf.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\search_not_inf.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\map_icon_catrgories.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\map_icon_catrgories.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_text_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_text_box.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rom_flage.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rom_flage.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\order_gen_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\order_gen_box.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_date_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_date_box.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\point_location.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\point_location.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_booking_people_box.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\rf_booking_people_box.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\second_screen_background.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\second_screen_background.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\shipping_info.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\shipping_info.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\time.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\time.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\payment_boarder_line.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\payment_boarder_line.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\second_screen_logo.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\second_screen_logo.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\no_code.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\no_code.png"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\listview_categories_img.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\listview_categories_img.png"
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\favorite_select.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\favorite_select.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\time_icon_booking_screen.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\time_icon_booking_screen.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\rf_button_box.png",
@@ -586,10 +1186,6 @@
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\yes.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\yes.png"
-    },
-    {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\man_icon_booking_screen.png",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-mdpi\\man_icon_booking_screen.png"
     },
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-mdpi-v4\\search_not_inf.png",

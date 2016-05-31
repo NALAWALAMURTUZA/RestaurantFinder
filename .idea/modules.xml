@@ -3,10 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RestaurantFinder.iml" filepath="$PROJECT_DIR$/RestaurantFinder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RestaurantFinder.iml" filepath="$PROJECT_DIR$/RestaurantFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/restaurantAdmin/restaurantAdmin.iml" filepath="$PROJECT_DIR$/restaurantAdmin/restaurantAdmin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/restaurantAdmin/restaurantAdmin.iml" filepath="$PROJECT_DIR$/restaurantAdmin/restaurantAdmin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/restaurantFinderUser/restaurantFinderUser.iml" filepath="$PROJECT_DIR$/restaurantFinderUser/restaurantFinderUser.iml" />
       <module fileurl="file://$PROJECT_DIR$/restaurantFinderUser/restaurantFinderUser.iml" filepath="$PROJECT_DIR$/restaurantFinderUser/restaurantFinderUser.iml" />
       <module fileurl="file://$PROJECT_DIR$/wheel/wheel.iml" filepath="$PROJECT_DIR$/wheel/wheel.iml" />
     </modules>

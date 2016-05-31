@@ -1,82 +1,82 @@
 [
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\online_order_order_details.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\online_order_order_details.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\restaurant_prasentation.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\restaurant_prasentation.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\registration_step3_.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\registration_step3_.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\booking_list__tablayout.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\booking_list__tablayout.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\manage_subscription.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\manage_subscription.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\registration_step5_.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\registration_step5_.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\manage_customers.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\manage_customers.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\registration_step4.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\registration_step4.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\registration_step2_.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\registration_step2_.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\splash_screen.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\splash_screen.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\registration_step1_.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\registration_step1_.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\popup.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\popup.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\cart_set_menu.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\cart_set_menu.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\online_order_order_details.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\online_order_order_details.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\take_booking.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\take_booking.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\manage_gallery.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\manage_gallery.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\manage_gallery.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\manage_gallery.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\grab_table_profile.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\grab_table_profile.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\restaurant_prasentation.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\restaurant_prasentation.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\manage_customers.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\manage_customers.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\registration_step4.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\registration_step4.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\forget_password.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\forget_password.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\forget_password.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\forget_password.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\take_booking.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\take_booking.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\grab_table_profile.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\grab_table_profile.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\manage_subscription.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\manage_subscription.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\online_table_.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\online_table_.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\registration_step3_.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\registration_step3_.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\splash_screen.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\splash_screen.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\all_booking.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\all_booking.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\manage_feedback.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\manage_feedback.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\registration_step2_.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\registration_step2_.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\all_booking.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\all_booking.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\online_table_.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\online_table_.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\popup.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\popup.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\cart_set_menu.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\cart_set_menu.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\booking_list__tablayout.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\booking_list__tablayout.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\manage_feedback.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\manage_feedback.xml"
     },
     {
-        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\registration_step5_.xml",
-        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\registration_step5_.xml"
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\build\\intermediates\\res\\merged\\debug\\menu\\registration_step1_.xml",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantAdmin\\src\\main\\res\\menu\\registration_step1_.xml"
     }
 ]

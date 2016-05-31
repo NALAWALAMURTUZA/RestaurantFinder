@@ -2,5 +2,9 @@
     {
         "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-xxhdpi-v4\\ic_launcher.png",
         "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-xxhdpi\\ic_launcher.png"
     }
 ]

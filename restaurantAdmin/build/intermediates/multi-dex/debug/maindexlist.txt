@@ -10,7 +10,6 @@ com/google/android/gms/appinvite/AppInviteInvitation.class
 com/google/android/gms/internal/zzib.class
 com/google/android/gms/nearby/messages/Messages.class
 com/example/restaurantadmin/Registration_step3_Activity$6.class
--keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(); }
 com/google/android/gms/internal/zzgv.class
 com/example/restaurantadmin/Home_Activity$1.class
 com/google/android/gms/internal/zzhn.class
@@ -36,7 +35,6 @@ com/google/ads/mediation/customevent/CustomEventBanner.class
 com/google/android/gms/measurement/internal/zzw.class
 kankan/wheel/widget/adapters/NumericWheelAdapter.class
 com/google/android/gms/ads/internal/request/zzc.class
-}
 com/google/android/gms/ads/internal/client/ThinAdSizeParcel.class
 com/example/restaurantadmin/Registration_step5_Activity$1.class
 com/google/android/gcm/GCMBaseIntentService.class
@@ -69,7 +67,6 @@ com/google/android/gms/internal/zzjh.class
 com/google/android/gms/internal/zzfp.class
 com/google/android/gms/internal/zzhv.class
 com/google/android/gms/internal/zzfc.class
--keep class com.example.restaurantadmin.Registration_step5_Activity { <init>(); }
 com/example/restaurantadmin/Registration_step2_Activity$UploadFileToServer.class
 com/google/android/gms/analytics/HitBuilders$AppViewBuilder.class
 android/support/v4/widget/MaterialProgressDrawable.class
@@ -86,7 +83,6 @@ com/google/android/gms/internal/zzhx.class
 com/google/android/gms/ads/internal/client/SearchAdRequestParcel.class
 com/example/restaurantadmin/TakeBooking_Tablayout$2.class
 com/google/android/gms/common/data/DataBuffer.class
--keep class com.restaurantadmin.notification.notification_oo_cancelbyuser { <init>(); }
 com/google/android/gms/ads/internal/client/zzb.class
 com/google/android/gms/ads/internal/client/zzad.class
 com/google/android/gms/ads/internal/client/AdRequestParcel.class
@@ -118,7 +114,6 @@ com/google/ads/mediation/MediationServerParameters.class
 com/google/android/gms/common/internal/safeparcel/zza.class
 com/google/android/gms/internal/zzbc.class
 com/google/android/gms/internal/zzht.class
--keep class com.example.restaurantadmin.SplashScreenActivity { <init>(); }
 com/google/android/gms/internal/zzio.class
 com/example/restaurantadmin/GlobalSettingActivity$19.class
 android/support/annotation/AttrRes.class
@@ -137,8 +132,6 @@ com/example/restaurantadmin/RestaurantPrasentationActivity$1.class
 com/google/android/gms/measurement/internal/zzc.class
 com/google/android/gms/ads/internal/formats/zzc.class
 com/google/android/gms/wallet/fragment/WalletFragmentStyle$Dimension.class
--keep class com.example.restaurantadmin.ForgetPasswordActivity { <init>(); }
--keep class com.restaurantadmin.notification.notification_oo_neworder { <init>(); }
 com/example/restaurantadmin/ConnectionDetector.class
 com/google/android/gms/measurement/AppMeasurementReceiver.class
 com/google/android/gms/internal/zzch.class
@@ -154,7 +147,6 @@ com/google/android/gms/ads/internal/formats/zze.class
 com/example/restaurantadmin/GlobalSettingActivity$8.class
 com/example/restaurantadmin/Registration_step2_Activity$4.class
 com/example/restaurantadmin/GlobalSettingActivity$18.class
--keep class com.google.android.gms.ads.AdActivity { <init>(); }
 com/example/restaurantadmin/Registration_step1_Activity$2.class
 android/support/annotation/Nullable.class
 com/example/restaurantadmin/RestaurantPrasentationActivity.class
@@ -189,14 +181,12 @@ com/example/restaurantadmin/Registration_step1_Activity$7.class
 com/example/restaurantadmin/AllBookingActivity$async_getrest_order.class
 com/example/restaurantadmin/Registration_step4_Activity$4.class
 com/google/android/gms/gcm/PeriodicTask.class
-    void attachBaseContext(android.content.Context);
 android/support/annotation/Keep.class
 com/google/android/gms/games/leaderboard/LeaderboardScore.class
 com/google/android/gms/ads/MobileAds.class
 com/google/android/gms/ads/search/SearchAdRequest.class
 com/example/restaurantadmin/Food_Detail_Categories_Activity$2.class
 com/google/android/gms/wearable/ChannelApi.class
--keep class com.example.restaurantadmin.TakeBooking_Tablayout { <init>(); }
 com/google/android/gms/games/internal/experience/ExperienceEvent.class
 com/example/restaurantadmin/Registration_step2_Activity$28.class
 com/google/android/gms/internal/zzdl$zzd.class
@@ -204,7 +194,6 @@ com/google/android/gms/wallet/fragment/WalletFragmentStyle.class
 com/example/restaurantadmin/Food_Detail_Child_Activity$deleteparentchildfooddetail.class
 com/example/restaurantadmin/Registration_step3_Activity$4.class
 com/google/android/gms/appinvite/AppInviteInvitation$IntentBuilder$PlatformMode.class
--keep class com.example.restaurantadmin.OnlineTable_Activity { <init>(); }
 com/google/android/gms/ads/internal/purchase/zzg.class
 com/example/restaurantadmin/RestaurantPrasentationActivity$2.class
 com/example/restaurantadmin/GlobalSettingActivity$20.class
@@ -217,7 +206,6 @@ com/google/android/gms/ads/internal/zzb.class
 com/google/android/gms/measurement/AppMeasurementService$1.class
 com/example/restaurantadmin/GlobalSettingActivity$22.class
 com/rf/restaurantadmin/WakeLocker.class
--keep public class * extends java.lang.annotation.Annotation {
 com/example/restaurantadmin/TakeBooking_Tablayout$1.class
 com/google/ads/mediation/MediationBannerAdapter.class
 com/google/android/gms/location/internal/zzf.class
@@ -230,7 +218,6 @@ com/example/restaurantadmin/ManageSubscriptionActivity$2.class
 com/google/android/gms/internal/zzij.class
 com/example/restaurantadmin/CartSetMenuActivity.class
 com/example/restaurantadmin/OnlineTable_Activity$7.class
--keep class com.example.restaurantadmin.ManageSubscriptionActivity { <init>(); }
 com/google/ads/mediation/MediationServerParameters$Parameter.class
 com/google/android/gms/wallet/fragment/WalletFragmentStyle$BuyButtonText.class
 com/example/restaurantadmin/Registration_step2_Activity$6.class
@@ -246,7 +233,6 @@ android/support/annotation/RequiresPermission$Write.class
 com/google/android/gms/ads/internal/formats/zzf.class
 com/google/android/gms/ads/internal/overlay/zzm.class
 com/example/restaurantadmin/Registration_step4_Activity$7.class
--keep class com.rf.restaurantadmin.MyIntentService { <init>(); }
 com/google/android/gms/internal/zzbw.class
 com/example/restaurantadmin/Food_Detail_Parent_Activity$4.class
 com/example/restaurantadmin/Registration_step2_Activity$21.class
@@ -271,9 +257,7 @@ com/example/restaurantadmin/TakeBookingActivity$11.class
 com/google/android/gms/nearby/sharing/internal/ProvideContentRequest.class
 com/google/android/gms/maps/SupportStreetViewPanoramaFragment.class
 com/google/android/gms/gcm/OneoffTask.class
--keep class com.example.restaurantadmin.ManageCustomersActivity { <init>(); }
 com/google/android/gms/internal/zzey.class
--keep class com.example.restaurantadmin.OnlineOrderOrderDetailsActivity { <init>(); }
 com/google/android/gms/gcm/Task.class
 com/google/android/gms/auth/firstparty/shared/zzd.class
 com/google/android/gms/wallet/fragment/WalletFragmentStyle$BuyButtonAppearance.class
@@ -285,13 +269,11 @@ com/google/android/gms/location/GeofencingApi.class
 com/example/restaurantadmin/Registration_step3_Activity$2.class
 com/google/android/gcm/GCMConstants.class
 android/support/v4/app/NotificationCompat.class
--keep class com.example.restaurantadmin.ManageFeedbackActivity { <init>(); }
 com/google/android/gms/ads/internal/zzn.class
 com/example/restaurantadmin/Registration_step2_Activity$27.class
 com/example/restaurantadmin/Food_Detail_Parent_Activity$6.class
 com/example/restaurantadmin/ManageSubscriptionActivity.class
 com/google/android/gms/common/annotation/KeepName.class
--keep class com.example.restaurantadmin.Food_Detail_Categories_Activity { <init>(); }
 android/support/v7/app/ActionBar$TabListener.class
 com/example/restaurantadmin/TakeBookingActivity$4.class
 com/google/android/gms/ads/internal/purchase/zzk.class
@@ -312,7 +294,6 @@ android/support/annotation/StyleableRes.class
 com/google/android/gms/ads/internal/purchase/zzl.class
 kankan/wheel/widget/adapters/AbstractWheelTextAdapter.class
 com/example/restaurantadmin/Registration_step1_Activity.class
--keep class com.example.restaurantadmin.Registration_step3_Activity { <init>(); }
 com/google/android/gms/ads/internal/client/zzy.class
 com/google/android/gms/wearable/ChannelApi$ChannelListener.class
 com/example/restaurantadmin/ManageSubscriptionActivity$get_notifications.class
@@ -324,7 +305,6 @@ com/google/android/gms/common/internal/zzf.class
 com/google/android/gms/internal/zzdc.class
 com/google/android/gms/ads/internal/zze$zzb.class
 com/example/restaurantadmin/Registration_step2_Activity$24.class
--keep class com.example.restaurantadmin.RestaurantPrasentationActivity { <init>(); }
 com/google/android/gms/R$style.class
 com/example/restaurantadmin/Home_Activity$9.class
 com/google/android/gms/ads/internal/request/zze.class
@@ -350,7 +330,6 @@ android/support/v7/app/ActionBar$DisplayOptions.class
 com/google/android/gms/internal/zzfz.class
 com/example/restaurantadmin/Registration_step3_Activity$14.class
 com/example/restaurantadmin/GlobalSettingActivity$17.class
--keep class null {
 com/google/android/gms/ads/internal/zzi.class
 android/support/annotation/AnimatorRes.class
 com/google/android/gms/internal/zzfx.class
@@ -363,7 +342,6 @@ com/example/restaurantadmin/Registration_step5_Activity$3.class
 com/example/restaurantadmin/GrabTable_Activity$async_getrest_order.class
 com/google/android/gms/internal/zzgn.class
 com/example/restaurantadmin/AllBookingActivity.class
--keep class com.restaurantadmin.notification.notification_tg_neworder { <init>(); }
 com/google/android/gms/maps/SupportMapFragment.class
 com/rf/restaurantadmin/Login_Activity$2.class
 com/google/android/gms/internal/zzgo.class
@@ -387,7 +365,6 @@ com/example/restaurantadmin/RestaurantPrasentationActivity$update_restaurant_Pre
 com/google/android/gms/internal/zzia.class
 com/example/restaurantadmin/GlobalSettingActivity$2.class
 com/example/restaurantadmin/OnlineTable_Activity$3.class
--keep class com.restaurantadmin.notification.notification_tg_cancelbyuser { <init>(); }
 com/google/android/gms/analytics/internal/Command.class
 com/google/android/gms/internal/zzgw.class
 com/example/restaurantadmin/OnlineTable_Activity$async_getrest_order.class
@@ -401,7 +378,6 @@ com/example/restaurantadmin/Registration_step1_Activity$GeocoderTask.class
 com/example/restaurantadmin/OnlineOrderOrderDetailsActivity.class
 com/google/android/gms/maps/StreetViewPanoramaView.class
 com/example/restaurantadmin/GlobalSettingActivity$14.class
--keep class com.example.restaurantadmin.AllBookingActivity { <init>(); }
 com/google/android/gms/wallet/Payments.class
 com/google/android/gms/ads/internal/overlay/zzd$zzb.class
 com/example/restaurantadmin/Registration_step3_Activity$async_regi_step3.class
@@ -441,7 +417,6 @@ com/google/android/gms/ads/internal/request/AdRequestInfoParcel$zza.class
 com/example/restaurantadmin/GlobalSettingActivity$10.class
 com/example/restaurantadmin/Registration_step2_Activity$22.class
 com/google/android/gms/ads/internal/reward/client/zzf.class
--keep public class * extends android.app.backup.BackupAgent {
 com/example/restaurantadmin/Food_Detail_Child_Activity$2.class
 com/google/android/gms/internal/zzbd.class
 com/google/android/gms/internal/zzdt.class
@@ -483,12 +458,9 @@ com/google/android/gms/internal/zzhz.class
 com/google/android/gms/ads/internal/request/zzm.class
 com/example/restaurantadmin/Registration_step3_Activity$12.class
 com/restaurantadmin/food_detail/food_catagory_categories_parent.class
--keep class com.example.restaurantadmin.Registration_step1_Activity { <init>(); }
 com/google/android/gcm/GCMRegistrar.class
 com/google/android/gms/internal/zzed.class
 com/google/android/gms/internal/zzdi.class
--keep class com.example.restaurantadmin.Home_Activity { <init>(); }
--keep class com.google.android.gcm.GCMBroadcastReceiver { <init>(); }
 com/rf/restaurantadmin/Login_Activity$8.class
 com/google/android/gms/maps/GoogleMap$OnMarkerDragListener.class
 com/google/android/gms/ads/internal/util/client/VersionInfoParcel.class
@@ -503,7 +475,6 @@ com/google/android/gms/internal/zzhu.class
 com/example/restaurantadmin/Registration_step1_Activity$fetch_current_location_from_google.class
 com/example/restaurantadmin/SplashScreenActivity.class
 com/google/android/gms/ads/internal/zzk$zzb.class
--keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
 com/google/android/gms/identity/intents/AddressConstants$Themes.class
 com/example/restaurantadmin/ForgetPasswordActivity.class
 com/example/restaurantadmin/Registration_step1_Activity$4.class
@@ -583,7 +554,6 @@ android/support/annotation/ColorInt.class
 com/example/restaurantadmin/Registration_step1_Activity$12.class
 com/example/restaurantadmin/Registration_step2_Activity$23.class
 com/example/restaurantadmin/Registration_step4_Activity.class
-    *;
 com/example/restaurantadmin/Food_Detail_Categories_Activity$selectrestaurantfood.class
 com/google/android/gms/ads/internal/reward/mediation/client/zzb.class
 com/example/restaurantadmin/ManageGalleryActivity$2.class
@@ -611,7 +581,6 @@ com/google/android/gms/wallet/MaskedWallet$Builder.class
 com/example/restaurantadmin/Home_Activity$5.class
 com/google/android/gms/internal/zzcn.class
 com/example/restaurantadmin/Registration_step2_Activity$20.class
--keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
 com/example/restaurantadmin/Food_Detail_Categories_Activity$4.class
 com/google/android/gms/internal/zzbh.class
 com/example/restaurantadmin/Registration_step5_Activity.class
@@ -622,7 +591,6 @@ com/google/android/gms/plus/PlusShare.class
 com/google/android/gms/internal/zzca.class
 com/example/restaurantadmin/AllBookingActivity$1.class
 com/google/android/gms/internal/zzek.class
--keep class com.example.restaurantadmin.Registration_Tablayout_Activity { <init>(); }
 com/google/android/gms/internal/zzic.class
 com/google/android/gms/internal/zzcv.class
 com/google/android/gms/internal/zzgb.class
@@ -642,7 +610,6 @@ com/example/restaurantadmin/Registration_step3_Activity$5.class
 com/example/restaurantadmin/GrabTable_Activity$1.class
 com/google/android/gms/ads/internal/overlay/zzk.class
 com/example/restaurantadmin/ManageCustomersActivity$2.class
--keep class com.example.restaurantadmin.CartSetMenuActivity { <init>(); }
 com/example/restaurantadmin/ManageSubscriptionActivity$1.class
 com/google/android/gms/wallet/WalletConstants.class
 com/google/android/gms/ads/internal/overlay/zzc.class
@@ -650,7 +617,6 @@ com/google/android/gms/analytics/HitBuilders$TransactionBuilder.class
 com/google/android/gms/internal/zzmx.class
 com/google/android/gms/internal/zzgd.class
 com/google/ads/mediation/MediationAdapter.class
--keep class com.example.restaurantadmin.Food_Detail_Parent_Activity { <init>(); }
 com/google/android/gms/internal/zzjg.class
 com/google/android/gms/appinvite/AppInviteInvitation$IntentBuilder.class
 com/google/android/gms/internal/zzml.class
@@ -695,7 +661,6 @@ com/google/android/gms/internal/zzhp.class
 com/example/restaurantadmin/RestaurantPrasentationActivity$3.class
 android/support/v4/widget/MaterialProgressDrawable$3.class
 com/google/android/gms/ads/internal/zzo.class
--keep class com.example.restaurantadmin.GlobalSettingActivity { <init>(); }
 kankan/wheel/widget/OnWheelChangedListener.class
 com/google/android/gcm/GCMBroadcastReceiver.class
 kankan/wheel/widget/adapters/ArrayWheelAdapter.class
@@ -703,7 +668,6 @@ com/google/android/gms/internal/zzeb.class
 com/example/restaurantadmin/Food_Detail_Parent_Activity$UploadFileToServer.class
 com/example/restaurantadmin/AllBookingActivity$6.class
 com/google/android/gms/internal/zzjd$zza.class
--keep class com.example.restaurantadmin.ManageGalleryActivity { <init>(); }
 com/example/restaurantadmin/TakeBookingActivity$9.class
 com/google/android/gms/maps/StreetViewPanoramaFragment.class
 com/google/android/gms/drive/query/Query$Builder.class
@@ -733,7 +697,6 @@ com/example/restaurantadmin/Registration_step3_Activity$9.class
 com/google/android/gms/internal/zzdy.class
 com/example/restaurantadmin/GlobalSettingActivity$7.class
 android/support/annotation/FloatRange.class
--keep class com.example.restaurantadmin.Food_Detail_Child_Activity { <init>(); }
 com/google/android/gms/ads/internal/util/client/zzb.class
 com/example/restaurantadmin/Home_Activity$3.class
 com/google/android/gms/location/places/AutocompletePrediction$Substring.class
@@ -748,26 +711,20 @@ com/google/android/gms/ads/internal/purchase/zze.class
 com/example/restaurantadmin/Registration_step3_Activity.class
 com/example/restaurantadmin/GrabTable_Activity$6.class
 com/google/android/gms/internal/zzgt.class
-    <init>();
 com/example/restaurantadmin/ManageGalleryActivity$8.class
 com/google/android/gms/internal/zzgx.class
 com/example/restaurantadmin/GlobalSettingActivity$11.class
--keep class com.example.restaurantadmin.GrabTableProfileActivity { <init>(); }
 com/google/android/gms/auth/GoogleAuthUtil.class
--keep class com.example.restaurantadmin.Registration_step2_Activity { <init>(); }
 com/example/restaurantadmin/ManageFeedbackActivity$2.class
 com/google/android/gms/measurement/internal/zzy.class
 com/google/android/gms/internal/zzgi.class
--keep class com.rf.restaurantadmin.Login_Activity { <init>(); }
 com/example/restaurantadmin/GlobalSettingActivity$3.class
 com/example/restaurantadmin/OnlineOrderOrderDetailsActivity$1.class
 com/google/android/gms/ads/internal/formats/NativeAdOptionsParcel.class
 com/google/android/gms/internal/zzdl$zza.class
 com/google/android/gms/ads/internal/formats/zzh.class
--keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
 com/google/android/gms/internal/zzej.class
 com/google/android/gms/internal/zzjd.class
--keep class com.example.restaurantadmin.GrabTable_Activity { <init>(); }
 com/google/android/gms/internal/zzay.class
 com/google/android/gms/internal/zzqd.class
 com/google/android/gms/internal/zzfb.class
@@ -778,7 +735,6 @@ com/example/restaurantadmin/Registration_step3_Activity$11.class
 com/google/android/gms/location/LocationListener.class
 com/example/restaurantadmin/Registration_step2_Activity$16.class
 com/google/android/gms/internal/zzbk.class
--keep class com.rf.restaurantadmin.GCMIntentService { <init>(); }
 com/example/restaurantadmin/Registration_Tablayout_Activity.class
 com/example/restaurantadmin/ManageFeedbackActivity$3.class
 com/restaurantadmin/adapter/OnlineTableAdapter.class
@@ -800,7 +756,6 @@ com/example/restaurantadmin/TakeBookingActivity$8.class
 android/support/v4/widget/CursorAdapter.class
 com/example/restaurantadmin/TakeBookingActivity$3.class
 com/restaurantadmin/notification/notification_oo_cancelbyuser$1.class
--keep class com.example.restaurantadmin.TakeBookingActivity { <init>(); }
 com/google/android/gms/ads/internal/zzp.class
 com/example/restaurantadmin/Registration_step1_Activity$11.class
 android/support/annotation/AnimRes.class
@@ -827,7 +782,6 @@ com/google/android/gms/ads/AdActivity.class
 com/example/restaurantadmin/ManageFeedbackActivity$1.class
 com/google/android/gms/analytics/internal/Command$1.class
 kankan/wheel/widget/adapters/AbstractWheelAdapter.class
--keep class com.example.restaurantadmin.Registration_step4_Activity { <init>(); }
 com/example/restaurantadmin/GlobalSettingActivity$21.class
 com/google/ads/mediation/customevent/CustomEventBannerListener.class
 com/example/restaurantadmin/Registration_step1_Activity$9.class
