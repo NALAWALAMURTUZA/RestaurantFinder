@@ -137,4 +137,4 @@
         android:layout_weight="90" >
     </ScrollView>
 
-</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/layout/activity_manage_gallery_rawfile.xml -->
+</LinearLayout>

@@ -170,4 +170,4 @@
 	    android:contentDescription="@string/Blank"
 	    android:src="@drawable/line" />
 
-</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/my_cart_rawfile.xml -->
+</LinearLayout>

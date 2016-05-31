@@ -5,4 +5,4 @@
     <item android:drawable="@color/blue" android:state_selected="true" />
     <item android:drawable="@color/white" />
 
-</selector><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/drawable/grid_color_selector.xml -->
+</selector>

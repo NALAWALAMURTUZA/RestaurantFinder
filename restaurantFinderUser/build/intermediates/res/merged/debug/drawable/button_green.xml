@@ -8,4 +8,4 @@
     />
   <corners android:radius="0dp" />
   <stroke android:width="2px" android:color="#1b1b1b" />
-</shape><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/drawable/button_green.xml -->
+</shape>

@@ -531,7 +531,7 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="generate_invoice"> Sigur vrei să Generare factură ?</string>
     <string name="yes">da</string>
     <string name="no">nu</string>
-    <string name="order_expired">Tu cant anula comanda . comanda a expirat .</string>
+    <string name="order_expired">Nu poti anula comanda deoarece a expirat.</string>
     <string name="order_canceled">Comanda a fost anulată</string>
     <string name="order_cancelation_rule_one">poti anula comanda înainte cu minim </string>
     <string name="order_cancelation_rule_two"> ora</string>
@@ -1369,7 +1369,7 @@ Punctele vor fi schimbate într-o anumită sumă de bani. De exemplu: 100 puncte
     <string name="abr_Main_Coarse">Fel principal :</string>
     <string name="abr_Deserts">Dessert :</string>
     <string name="abr_Opening_Days">Zilele în care e deschis :</string>
-    <string name="abr_Lunch_Timing">masa de pranz Timing :</string>
+    <string name="abr_Lunch_Timing">Disponibilitate :</string>
     <string name="abr_Opening_Time">Ora de deschidere :</string>
     <string name="abr_Closing_Time">Ora de închidere :</string>
     <string name="abr_Dinner_Timing">Cina :</string>

@@ -6,4 +6,3 @@
     <!-- When not selected, use white-->
     <item android:drawable="@drawable/img_tab_unselected" />
 </selector>
-<!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/drawable/icon_invitation_tab.xml -->

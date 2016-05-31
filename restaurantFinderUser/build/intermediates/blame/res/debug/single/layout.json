@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_application.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_my_application.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings_screen.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_settings_screen.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification_oo_confirmation.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_notification_oo_confirmation.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration_step3_.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_registration_step3_.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\demo_food_categories.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\demo_food_categories.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_table_graber_bookings.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_table_graber_bookings.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\popup_creditcards.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\popup_creditcards.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thanking_you_screen.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_thanking_you_screen.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\delivery_receipt_raw_file.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\delivery_receipt_raw_file.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\checkout_delivery.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\checkout_delivery.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\delivery_contact_details.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\delivery_contact_details.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration_step2_.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_registration_step2_.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\my_oders_rawfile.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\my_oders_rawfile.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration_step1_.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_registration_step1_.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\popup_enter_verifycode.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\popup_enter_verifycode.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\my_orders.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\my_orders.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\popup_exitapp.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\popup_exitapp.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\register_screen.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\register_screen.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\delivery_payment_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\delivery_payment_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\food_categories_details_listview_contents.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\food_categories_details_listview_contents.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration_tablayout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_registration_tablayout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\delivery_receipt_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\delivery_receipt_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\profile_details_scrollview_contents.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\profile_details_scrollview_contents.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\rf_splash_background.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\rf_splash_background.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\second_screen.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\second_screen.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification_tg_cancelation.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_notification_tg_cancelation.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_restaurant_gallery.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_restaurant_gallery.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_favourites.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_my_favourites.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\view_menu_categories_rawfile.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\view_menu_categories_rawfile.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\food_categories_details.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\food_categories_details.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_terms_condition.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_terms_condition.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\view_menu_categories.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\view_menu_categories.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\reviews_raw_file.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\reviews_raw_file.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\delivery_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\delivery_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\my_booking_rawfile.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\my_booking_rawfile.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration_step5.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_registration_step5.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\delivery_use_saved_address_raw_file.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\delivery_use_saved_address_raw_file.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\delivery_payment_offer_raw_file.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\delivery_payment_offer_raw_file.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\popup_service.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\popup_service.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review_pullto_refresh.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_review_pullto_refresh.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\booking_confirmation_scroolview_contents.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\booking_confirmation_scroolview_contents.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\my_cart_rawfile.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\my_cart_rawfile.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification_tg_finish.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_notification_tg_finish.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_grab_table.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_grab_table.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\checkout_pager.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\checkout_pager.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_online_order_bookings.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_online_order_bookings.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_booking_confirmation_screen.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_booking_confirmation_screen.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\delivery_payment_raw_file.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\delivery_payment_raw_file.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\popup_mobile_verification_sendcode.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\popup_mobile_verification_sendcode.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_restaurant.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_about_restaurant.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_text.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\spinner_text.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification_tg_confirmation.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_notification_tg_confirmation.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_restaurant_image_detail.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_restaurant_image_detail.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_target.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\spinner_target.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\loginscrollview_contents.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\loginscrollview_contents.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_booking.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_my_booking.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification_oo_cancelation.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_notification_oo_cancelation.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\findrestaurant_scrollview_content.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\findrestaurant_scrollview_content.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\my_cart.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\my_cart.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\forgetpassword_scrollview_contents.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\forgetpassword_scrollview_contents.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\search_restaurant_scrollview_contents.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\search_restaurant_scrollview_contents.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\food_categories_details_childview.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\food_categories_details_childview.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\rawfile_service_adapter.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\rawfile_service_adapter.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loyalty_rewards_screen.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_loyalty_rewards_screen.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\delivery_pickmy_self.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\delivery_pickmy_self.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\forgetpassword.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\forgetpassword.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\search_restaurant.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\search_restaurant.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_booked_cart.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_my_booked_cart.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\second_screen_login.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\second_screen_login.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\popup_offer_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\popup_offer_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\profile_details.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\profile_details.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration_step4_.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_registration_step4_.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\grid_item_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_profile.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\address.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\address.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\delivery_used_saved_address.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\delivery_used_saved_address.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_networking.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_my_networking.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\address_rawfile.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\address_rawfile.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\loyalty_rewards_raw_file.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\loyalty_rewards_raw_file.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\rawfile_creditcards_adapter.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\rawfile_creditcards_adapter.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\listview_raw_file.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\listview_raw_file.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_invitation_screen.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_invitation_screen.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_layout.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_review.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_review.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\activity_post_review.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\layout\\activity_post_review.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    }
+]

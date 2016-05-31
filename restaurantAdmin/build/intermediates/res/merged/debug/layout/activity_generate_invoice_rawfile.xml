@@ -67,4 +67,4 @@
             android:text="@string/mc_customer_action" />
     </LinearLayout>
 
-</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/layout/activity_generate_invoice_rawfile.xml -->
+</LinearLayout>

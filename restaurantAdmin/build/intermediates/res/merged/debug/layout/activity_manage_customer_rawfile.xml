@@ -102,4 +102,4 @@
             android:src="@drawable/phone" />
     </LinearLayout>
 
-</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/layout/activity_manage_customer_rawfile.xml -->
+</LinearLayout>

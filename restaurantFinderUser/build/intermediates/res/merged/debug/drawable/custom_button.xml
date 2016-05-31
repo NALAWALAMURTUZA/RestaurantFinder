@@ -21,4 +21,4 @@
      android:bottomLeftRadius="5dp"
   	android:topLeftRadius="5dp"
  	 android:topRightRadius="5dp"/>
-</shape><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/drawable/custom_button.xml -->
+</shape>

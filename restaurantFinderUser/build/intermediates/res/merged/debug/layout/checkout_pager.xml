@@ -200,4 +200,4 @@
                 android:src="@drawable/setting" />
         </LinearLayout>
     </RelativeLayout>
-</RelativeLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantFinderUser/src/main/res/layout/checkout_pager.xml -->
+</RelativeLayout>

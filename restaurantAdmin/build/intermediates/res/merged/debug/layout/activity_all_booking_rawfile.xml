@@ -85,4 +85,4 @@
         android:textSize="5sp"
         android:visibility="invisible" />
 
-</LinearLayout><!-- From: file:/D:/workspace/RestaurantFinder/restaurantAdmin/src/main/res/layout/activity_all_booking_rawfile.xml -->
+</LinearLayout>

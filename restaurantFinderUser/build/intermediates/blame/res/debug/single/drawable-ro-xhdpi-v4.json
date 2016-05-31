@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-xhdpi-v4\\next_img.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-xhdpi\\next_img.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-xhdpi-v4\\save_ar.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-xhdpi\\save_ar.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-xhdpi-v4\\logo.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-xhdpi-v4\\setting.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-xhdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-xhdpi-v4\\featured.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-xhdpi\\featured.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-xhdpi-v4\\categories.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-xhdpi\\categories.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-xhdpi-v4\\ordernow.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-xhdpi\\ordernow.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-xhdpi-v4\\viewmenu.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-xhdpi\\viewmenu.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-xhdpi-v4\\continue_img.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-xhdpi\\continue_img.png"
+    },
+    {
+        "merged": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\build\\intermediates\\res\\merged\\debug\\drawable-ro-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\PC Softech\\AndroidStudioWorkSpace\\RestaurantFinder\\restaurantFinderUser\\src\\main\\res\\drawable-ro-xhdpi\\ic_launcher.png"
+    }
+]
